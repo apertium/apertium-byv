@@ -1,4 +1,4 @@
- Morphological Transducer for Medumba
+! Morphological Transducer for Medumba
 
 Multichar_Symbols
 
@@ -15,9 +15,10 @@ Multichar_Symbols
 %<cl6%>
 %<GD%>
 %<sent%> 
-%<pr%>  !pronon
-%<vb%> !verbe
-%<ad%> !adjectifs
+%<pr%>  !preposition
+%<prn%>  !pronom
+%<v%> !verbe
+%<adj%> !adjectifs
 %<num%>
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -28,7 +29,7 @@ LEXICON Root
 
 Nouns ;
 ProperNouns ;
-Verbe ;
+Verbes ;
 Adjectifs ;
 Nombres ;
 
@@ -66,75 +67,84 @@ LEXICON NP-TOP
 
 %<np%>%<top%>: # ;
 
+LEXICON ADJ
 
+%<adj%>: # ;
+
+LEXICON V 
+
+%<v%>: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON Nouns
 
-kə̀nà:kə̀nà  N-cl1 ; ! "arrachide"
-tɑ:tɑ  N-cl3 ; ! "père"
-buma:buma  N-cl1; ! "orange"
-ngɔ̀:ngɔ̀ N-cl3 ; ! "monde"
-ka:ka  Ninf ; ! "assiete"
-gha:gha Ninf ; "Bangante"
-fàʼ:fàʼ Ninf ; "accident"
-tòŋ:tòŋ   N-cl3 ; ! "oreille"
-mɑ:mɑ  N-cl3 ; ! "mere"
-mbʉ:mbʉ  N-cl1 ; ! "chien"
-kə̀lɔ̀:kə̀lɔ̀  N-cl5; ! "banane"
-ngɔ̀:ngɔ̀ N-cl3 ; ! "monde"
-fu:fu  N-cl5 ; ! "reméde"
-vog:vog N-cl5 ; ! "os"
-bəlòŋ:bə̀lòŋ N-cl3 ; ! "patate"
-cwɛd:cwɛd   N-cl3 ; ! "champ"
 bàm:bàm  N-cl5 ; ! "ventre"
-lag:lag  N-cl5 ; ! "oeil"
-kù:kù  N-cl3; ! "pied"
 bu:bu N-cl3 ; ! "main"
-nyǎŋtu:nyǎŋtu  Ninf ; ! "cheveux"
-tu:tu N-cl1 ; "tête"
-mvɛ̀n:mvɛ̀n N-cl1 ; "dos"
-ncù:ncù   N-cl3 ; ! "bouche"
+bubu:bubu  N-cl5; ! "papaye"
+buma:buma  N-cl1; ! "orange"
+bun:bun   N-cl5 ; ! "mammelle"
+bəlòŋ:bə̀lòŋ N-cl3 ; ! "patate"
+com:com N-cl5 ; ! "safrou/prune"
+cwɛd:cwɛd   N-cl3 ; ! "champ"
+cɛ̌dkù:cɛ̌dkù   N-cl1 ; ! "souris"
+fu:fu  N-cl5 ; ! "reméde"
+kù:kù  N-cl3; ! "pied"
+kəbwɔ:kə̀bwɔ̀  N-cl1 ; ! "mal"
+kə̀bǎdnjɑb:kə̀bǎbnjɑb  N-cl3 ; ! "binjamin"
+kə̀lɔ̀:kə̀lɔ̀  N-cl5; ! "banane"
+kə̀nà:kə̀nà  N-cl1 ; ! "arrachide"
+lag:lag  N-cl5 ; ! "oeil"
+laʼ:laʼ N-cl5 ; ! "village"
 lem:lem  N-cl5 ; ! "langue"
-sɔ̀:sɔ̀  N-cl5 ; ! "dent"
-sə:sə  N-cl1; ! "visage"
-tubu:tubu N-cl3 ; ! "doit"
-nib:nkib  N-cl1 ; ! "ongle"
-tûkù:tûkù  N-cl3 ; ! "orteille"
-tɔ̌bu:tɔ̌bu N-cl5 ; ! "pomme de main"
 mba:mba   N-cl1 ; ! "marmite"
 mbà:mbà  N-cl1 ; ! "noix"
 mbâkù:mbâkù  N-cl3 ; ! "cheville"
-tùn:tùj  N-cl3 ; ! "fesse"
-ngùb:ngub N-cl1 ; ! "peau"
-zwəʼ:zwəʼ  N-cl1 ; ! "rein"
-ntʉ:ntʉ N-cl1 ; "coeur"
-ndɑ̂ntʉ:ndɑ̂ntʉ N-cl1 ; "poitrine"
-bun:bun   N-cl5 ; ! "mammelle"
-ngə̀bə̀ʼ:ngə̀bə̀ʼ  N-cl3 ; ! "épaule"
 mbì:mbì  N-cl1 ; ! "foi"
-bubu:bubu  N-cl5; ! "papaye"
-com:com N-cl5 ; ! "safrou/prune"
-tʉ:tʉ  N-cl5 ; ! "arbre"
-tǔnndɑ:tǔnndɑ N-cl1 ; ! "famille"
-mɛn:mɛn N-cl1 ; ! "enfant"
-tûswə:tûswə   N-cl3 ; ! "ainé"
-kə̀bǎdnjɑb:kə̀bǎbnjɑb  N-cl3 ; ! "binjamin"
-mɛ̀n:mɛ̀n  N-cl3 ; ! "personne"
-mɛnntʉ̀n:mɛ̀nntʉ̀n  N-cl3; ! "personne"
-wud:wud N-cl1 ; ! "corp"
-màd:maɗ  Ninf ; ! "habitude"
-ntsə:ntsə N-cl4 ; "eau"
-mvɛd:mvɛd N-cl4 ; "huile"
-ndùʼ:ndùʼ   N-cl4 ; ! "bier"
-ndùʼ% nkʉa:ndùʼ% nkʉa  N-cl4 ; ! "vin de palme"
 mbwə:mbwə  N-cl5 ; ! "chévre"
-mɛ̀n% nyǎŋtu:mɛ̀n% nyǎŋtu  N-cl3; ! "humain"
-laʼ:laʼ N-cl5 ; ! "village"
-kəbwɔ:kə̀bwɔ̀  N-cl1 ; ! "mal"
-mə̀bwɔ:mə̀bwɔ  N-cl3 ; ! "bien"
 mbɛmbɛnə:mbɛnmbɛnə N-cl1 ; ! "caffard"
-cɛ̌dkù:cɛ̌dkù   N-cl1 ; ! "souris"
+mbʉ:mbʉ  N-cl1 ; ! "chien"
+mvɛd:mvɛd N-cl4 ; ! "huile"
+mvɛ̀n:mvɛ̀n N-cl1 ; ! "dos"
+mɑ:mɑ  N-cl3 ; ! "mere"
+mə̀bwɔ:mə̀bwɔ  N-cl3 ; ! "bien"
+mɛn:mɛn N-cl1 ; ! "enfant"
+mɛnntʉ̀n:mɛ̀nntʉ̀n  N-cl3; ! "personne"
+mɛ̀n% nyǎŋtu:mɛ̀n% nyǎŋtu  N-cl3; ! "humain"
+mɛ̀n:mɛ̀n  N-cl3 ; ! "personne"
+ncù:ncù   N-cl3 ; ! "bouche"
+ndùʼ% nkʉa:ndùʼ% nkʉa  N-cl4 ; ! "vin de palme"
+ndùʼ:ndùʼ   N-cl4 ; ! "bier"
+ndɑ̂ntʉ:ndɑ̂ntʉ N-cl1 ; ! "poitrine"
+ngùb:ngub N-cl1 ; ! "peau"
+ngɔ̀:ngɔ̀ N-cl3 ; ! "monde"
+ngɔ̀:ngɔ̀ N-cl3 ; ! "monde"
+ngə̀bə̀ʼ:ngə̀bə̀ʼ  N-cl3 ; ! "épaule"
+nib:nkib  N-cl1 ; ! "ongle"
+ntsə:ntsə N-cl4 ; ! "eau"
+ntʉ:ntʉ N-cl1 ; ! "coeur"
+sɔ̀:sɔ̀  N-cl5 ; ! "dent"
+sə:sə  N-cl1; ! "visage"
+tòŋ:tòŋ   N-cl3 ; ! "oreille"
+tu:tu N-cl1 ; ! "tête"
+tubu:tubu N-cl3 ; ! "doit"
+tùn:tùj  N-cl3 ; ! "fesse"
+tûkù:tûkù  N-cl3 ; ! "orteille"
+tûswə:tûswə   N-cl3 ; ! "ainé"
+tǔnndɑ:tǔnndɑ N-cl1 ; ! "famille"
+tɑ:tɑ  N-cl3 ; ! "père"
+tɔ̌bu:tɔ̌bu N-cl5 ; ! "pomme de main"
+tʉ:tʉ  N-cl5 ; ! "arbre"
+vog:vog N-cl5 ; ! "os"
+wud:wud N-cl1 ; ! "corp"
+zwəʼ:zwəʼ  N-cl1 ; ! "rein"
 
+
+màd:maɗ  Ninf ; ! "habitude"
+gha:gha Ninf ; ! "Bangante"
+fàʼ:fàʼ Ninf ; ! "accident"
+nyǎŋtu:nyǎŋtu  Ninf ; ! "cheveux"
+ka:ka  Ninf ; ! "assiete"
 
 
 LEXICON ProperNouns 
@@ -144,40 +154,40 @@ Ngadou:Ngadou  NP-ANT-M ; ! "Ngadou"
 Nsi:Nsi  NP-ANT-M ; ! "Dieu"
 Yɛsɔ:Yɛsɔ  NP-ANT-M ; ! "Jesus"
 
-LEXICON Verbe
+LEXICON Verbes
 
-nə̀% tɔ:sɛnə %<vb%> ; ! "crier"
-nə̀% lɑnə:nə̀% lɑnə %<vb%> ; ! "pleurer"
-nə̀% jʉ:nə% jʉ %<vb%> ; ! "manger"
-nə̀% kʉ̌:nə̀% kʉ̌ %<vb%> ; ! "fuir"
-nə̀% fàʼa:nə̀% faʼa %<vb%> ; ! "travailler"
-nə̀% zwǐ:nə̀% zwǐ %<vb> ; ! "rire"
-nə̀% zwi:nə̀% zwi %<vb%> ; ! "tuer"
-nə̀% yǐ:nə̀% yǐ %<vb%> ; ! "voler"
-nə̀% yənə:nə̀% yənə %<vb%> ; ! "voir"
-nə̀% juʼu:juʼu %<vb%> ; ! "entendre"
-nə̀% kwǎ:nə̀% kwǎ %<vb%> ; ! "reflechir"
-nə̀% ziʼtə:nə̀% ziʼtə %<vb%> ; ! "apprendre"
-nə̀% tswìtə̌:nə% tswìtə̌ %<vb%> ; ! "enseigner"
-nə̀% kwʉlə:nə̀% kwʉlə %<vb%> ; ! "batir"
-nə̀% nàbə:nə̀% nàbə %<vb%> ; ! "arranger"
-nə̀% bagte:nə̀% bagtə %<vb%> ; ! "gater"
-nə̀% tadtə:nə̀% tadtə %<vb%> ; ! "mentir"
-nə̀% ywiʼi:nə̀% ywiʼi %<vb%> ; ! "vomir"
-nə̀% mǐ:nə̀% mǐ %<vb%> ; ! "blanc"
-nə'% yaʼa:nə̀% yaʼa %<vb%> ; ! "traverser"
+nə̀% tɔ:sɛnə V ; ! "crier"
+nə̀% lɑnə:nə̀% lɑnə V ; ! "pleurer"
+nə̀% jʉ:nə% jʉ V ; ! "manger"
+nə̀% kʉ̌:nə̀% kʉ̌ V ; ! "fuir"
+nə̀% fàʼa:nə̀% faʼa V ; ! "travailler"
+nə̀% zwǐ:nə̀% zwǐ V ; ! "rire"
+nə̀% zwi:nə̀% zwi V ; ! "tuer"
+nə̀% yǐ:nə̀% yǐ V ; ! "voler"
+nə̀% yənə:nə̀% yənə V ; ! "voir"
+nə̀% juʼu:juʼu V ; ! "entendre"
+nə̀% kwǎ:nə̀% kwǎ V ; ! "reflechir"
+nə̀% ziʼtə:nə̀% ziʼtə V ; ! "apprendre"
+nə̀% tswìtə̌:nə% tswìtə̌ V ; ! "enseigner"
+nə̀% kwʉlə:nə̀% kwʉlə V ; ! "batir"
+nə̀% nàbə:nə̀% nàbə V ; ! "arranger"
+nə̀% bagte:nə̀% bagtə V ; ! "gater"
+nə̀% tadtə:nə̀% tadtə V ; ! "mentir"
+nə̀% ywiʼi:nə̀% ywiʼi V ; ! "vomir"
+nə̀% mǐ:nə̀% mǐ V ; ! "blanc"
+nə'% yaʼa:nə̀% yaʼa V ; ! "traverser"
 
 
 LEXICON Adjectifs
 
-sɛnə:sɛnə %<adj%> ; ! "noire"
-bǎ:bǎ %<adj%> ; ! "rouge"
-fogə:fogə %<adj%> ; ! "blanc"
-nyìnnyìn:nyìnyìn %<adj%> ; ! "muliticolor"
-fi:fi %<adj%> ; ! "froid"
-dumə:dumə %<adj%> ; ! "chaud"
-fogə:fogə %<adj%> ; ! "blanc"
-nyìnnyìn:nyìnyìn %<adj%> ; ! "muliticolor"
+sɛnə:sɛnə ADJ ; ! "noire"
+bǎ:bǎ ADJ ; ! "rouge"
+fogə:fogə ADJ ; ! "blanc"
+nyìnnyìn:nyìnyìn ADJ ; ! "muliticolor"
+fi:fi ADJ ; ! "froid"
+dumə:dumə ADJ ; ! "chaud"
+fogə:fogə ADJ ; ! "blanc"
+nyìnnyìn:nyìnyìn ADJ ; ! "muliticolor"
 
 LEXICON Nombres
 
@@ -228,40 +238,4 @@ mɑ% mɑ̂ncuʼ:mɑ% mɑ̂ncuʼ NUM ; ! "trillion"
 LEXICON Punctuation
 
 %.%<sent%>:%. # ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

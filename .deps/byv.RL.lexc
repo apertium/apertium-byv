@@ -2,10 +2,24 @@
 
 Multichar_Symbols
 
-! Part of speech categories
 %<n%>  ! Noun
+%<np%> ! Proper noun
+%<top%> ! Toponym
+%<ant%> ! Anthroponym
 %<pl%> ! Plural
 %<sg%> ! Singular
+%<cl1%>
+%<cl3%>
+%<cl5%>
+%<cl4%>
+%<cl6%>
+%<GD%>
+%<sent%> 
+%<pr%>  !preposition
+%<prn%>  !pronom
+%<v%> !verbe
+%<adj%> !adjectifs
+%<num%>
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                       M O R P H O T A C T I C S                         !!!
@@ -13,27 +27,215 @@ Multichar_Symbols
 
 LEXICON Root
 
-NounRoot ;
+Nouns ;
+ProperNouns ;
+Verbes ;
+Adjectifs ;
+Nombres ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON NounRoot
 
-house RegNounInfl ; ! A noun
+LEXICON Ninf
+%<n%>%<GD%>:   # ;
 
-LEXICON RegNounInfl
+LEXICON N-cl1
+%<n%>%<cl1%>:   # ;
 
-%<n%>%<sg%>:   # ;
-%<n%>%<pl%>:s   # ;
+LEXICON N-cl3
+%<n%>%<cl3%>:   # ;
 
-! Resources:
-! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Lexicon
-! http://wiki.apertium.org/wiki/Lttoolbox_and_lexc
-! http://wiki.apertium.org/wiki/Apertium-specific_conventions_for_lexc
-! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
-! http://hfst.sourceforge.net/
-! http://www.cis.upenn.edu/~cis639/docs/lexc.html
-! http://wiki.apertium.org/wiki/Hfst
+LEXICON N-cl5
+%<n%>%<cl5%>:   # ;
+
+LEXICON N-cl4
+%<n%>%<cl4%>:   # ;
+
+LEXICON N-cl6
+%<n%>%<cl6%>:   # ;
+
+LEXICON NUM
+%<num%>:   # ;
+
+LEXICON NP-ANT-M
+
+%<np%>%<ant%>%<m%>: # ;
+
+LEXICON NP-TOP 
+
+%<np%>%<top%>: # ;
+
+LEXICON ADJ
+
+%<adj%>: # ;
+
+LEXICON V 
+
+%<v%>: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Nouns
+
+bàm:bàm  N-cl5 ; ! "ventre"
+bu:bu N-cl3 ; ! "main"
+bubu:bubu  N-cl5; ! "papaye"
+buma:buma  N-cl1; ! "orange"
+bun:bun   N-cl5 ; ! "mammelle"
+bəlòŋ:bə̀lòŋ N-cl3 ; ! "patate"
+com:com N-cl5 ; ! "safrou/prune"
+cwɛd:cwɛd   N-cl3 ; ! "champ"
+cɛ̌dkù:cɛ̌dkù   N-cl1 ; ! "souris"
+fu:fu  N-cl5 ; ! "reméde"
+kù:kù  N-cl3; ! "pied"
+kəbwɔ:kə̀bwɔ̀  N-cl1 ; ! "mal"
+kə̀bǎdnjɑb:kə̀bǎbnjɑb  N-cl3 ; ! "binjamin"
+kə̀lɔ̀:kə̀lɔ̀  N-cl5; ! "banane"
+kə̀nà:kə̀nà  N-cl1 ; ! "arrachide"
+lag:lag  N-cl5 ; ! "oeil"
+laʼ:laʼ N-cl5 ; ! "village"
+lem:lem  N-cl5 ; ! "langue"
+mba:mba   N-cl1 ; ! "marmite"
+mbà:mbà  N-cl1 ; ! "noix"
+mbâkù:mbâkù  N-cl3 ; ! "cheville"
+mbì:mbì  N-cl1 ; ! "foi"
+mbwə:mbwə  N-cl5 ; ! "chévre"
+mbɛmbɛnə:mbɛnmbɛnə N-cl1 ; ! "caffard"
+mbʉ:mbʉ  N-cl1 ; ! "chien"
+mvɛd:mvɛd N-cl4 ; ! "huile"
+mvɛ̀n:mvɛ̀n N-cl1 ; ! "dos"
+mɑ:mɑ  N-cl3 ; ! "mere"
+mə̀bwɔ:mə̀bwɔ  N-cl3 ; ! "bien"
+mɛn:mɛn N-cl1 ; ! "enfant"
+mɛnntʉ̀n:mɛ̀nntʉ̀n  N-cl3; ! "personne"
+mɛ̀n% nyǎŋtu:mɛ̀n% nyǎŋtu  N-cl3; ! "humain"
+mɛ̀n:mɛ̀n  N-cl3 ; ! "personne"
+ncù:ncù   N-cl3 ; ! "bouche"
+ndùʼ% nkʉa:ndùʼ% nkʉa  N-cl4 ; ! "vin de palme"
+ndùʼ:ndùʼ   N-cl4 ; ! "bier"
+ndɑ̂ntʉ:ndɑ̂ntʉ N-cl1 ; ! "poitrine"
+ngùb:ngub N-cl1 ; ! "peau"
+ngɔ̀:ngɔ̀ N-cl3 ; ! "monde"
+ngɔ̀:ngɔ̀ N-cl3 ; ! "monde"
+ngə̀bə̀ʼ:ngə̀bə̀ʼ  N-cl3 ; ! "épaule"
+nib:nkib  N-cl1 ; ! "ongle"
+ntsə:ntsə N-cl4 ; ! "eau"
+ntʉ:ntʉ N-cl1 ; ! "coeur"
+sɔ̀:sɔ̀  N-cl5 ; ! "dent"
+sə:sə  N-cl1; ! "visage"
+tòŋ:tòŋ   N-cl3 ; ! "oreille"
+tu:tu N-cl1 ; ! "tête"
+tubu:tubu N-cl3 ; ! "doit"
+tùn:tùj  N-cl3 ; ! "fesse"
+tûkù:tûkù  N-cl3 ; ! "orteille"
+tûswə:tûswə   N-cl3 ; ! "ainé"
+tǔnndɑ:tǔnndɑ N-cl1 ; ! "famille"
+tɑ:tɑ  N-cl3 ; ! "père"
+tɔ̌bu:tɔ̌bu N-cl5 ; ! "pomme de main"
+tʉ:tʉ  N-cl5 ; ! "arbre"
+vog:vog N-cl5 ; ! "os"
+wud:wud N-cl1 ; ! "corp"
+zwəʼ:zwəʼ  N-cl1 ; ! "rein"
+
+
+màd:maɗ  Ninf ; ! "habitude"
+gha:gha Ninf ; ! "Bangante"
+fàʼ:fàʼ Ninf ; ! "accident"
+nyǎŋtu:nyǎŋtu  Ninf ; ! "cheveux"
+ka:ka  Ninf ; ! "assiete"
+
+
+LEXICON ProperNouns 
+
+Kamərun NP-TOP ; ! "Cameroon"
+Ngadou:Ngadou  NP-ANT-M ; ! "Ngadou"
+Nsi:Nsi  NP-ANT-M ; ! "Dieu"
+Yɛsɔ:Yɛsɔ  NP-ANT-M ; ! "Jesus"
+
+LEXICON Verbes
+
+nə̀% tɔ:sɛnə V ; ! "crier"
+nə̀% lɑnə:nə̀% lɑnə V ; ! "pleurer"
+nə̀% jʉ:nə% jʉ V ; ! "manger"
+nə̀% kʉ̌:nə̀% kʉ̌ V ; ! "fuir"
+nə̀% fàʼa:nə̀% faʼa V ; ! "travailler"
+nə̀% zwǐ:nə̀% zwǐ V ; ! "rire"
+nə̀% zwi:nə̀% zwi V ; ! "tuer"
+nə̀% yǐ:nə̀% yǐ V ; ! "voler"
+nə̀% yənə:nə̀% yənə V ; ! "voir"
+nə̀% juʼu:juʼu V ; ! "entendre"
+nə̀% kwǎ:nə̀% kwǎ V ; ! "reflechir"
+nə̀% ziʼtə:nə̀% ziʼtə V ; ! "apprendre"
+nə̀% tswìtə̌:nə% tswìtə̌ V ; ! "enseigner"
+nə̀% kwʉlə:nə̀% kwʉlə V ; ! "batir"
+nə̀% nàbə:nə̀% nàbə V ; ! "arranger"
+nə̀% bagte:nə̀% bagtə V ; ! "gater"
+nə̀% tadtə:nə̀% tadtə V ; ! "mentir"
+nə̀% ywiʼi:nə̀% ywiʼi V ; ! "vomir"
+nə̀% mǐ:nə̀% mǐ V ; ! "blanc"
+nə'% yaʼa:nə̀% yaʼa V ; ! "traverser"
+
+
+LEXICON Adjectifs
+
+sɛnə:sɛnə ADJ ; ! "noire"
+bǎ:bǎ ADJ ; ! "rouge"
+fogə:fogə ADJ ; ! "blanc"
+nyìnnyìn:nyìnyìn ADJ ; ! "muliticolor"
+fi:fi ADJ ; ! "froid"
+dumə:dumə ADJ ; ! "chaud"
+fogə:fogə ADJ ; ! "blanc"
+nyìnnyìn:nyìnyìn ADJ ; ! "muliticolor"
+
+LEXICON Nombres
+
+bɑ̌nbɑn:bɑ̌nbɑn NUM ; ! "zero"
+ncʉʼ:ncʉʼ NUM ; ! "one"
+bɑhɑ:bɑhɑ NUM ; ! "two"
+tad:tad NUM ; ! "three"
+kuɑ̀:kuɑ̀ NUM ; ! "four"
+tɑn:tɑn NUM ; ! "five"
+ntogə:ntogə NUM ; ! "six"
+sɑ̀mmbɑhɑ:sɑ̀mmbɑhɑ NUM ; ! "seven"
+fomə:fomə NUM ; ! "eight"
+bwə̀ʼə:bwə̀ʼə  NUM ; ! "nine"
+gham:gham NUM ; ! "ten"
+ncobncʉ̀ʼ% gham:ncobncʉ̀ʼ% gham NUM ; ! "eleven"
+ncòbbɑhɑ% gham:ncobbɑhɑ% gham NUM ; ! "twelve"
+ncobtadʼ% gham:ncobtad% gham NUM ; ! "thirteen"
+ncobkuɑ̀% gham:ncobkuɑ̀% gham NUM ; ! "fourteen"
+ncobtɑn% gham:ncobtɑŋ% gham NUM ; ! "fifteen"
+ncobntogə% gham:ncobntogə% gham NUM ; ! "sixteen"
+ncobsɑ̀mmbɑhɑ% gham:ncobsɑ̀mmbɑhɑ% gham NUM ; ! "seventeen"
+ncobfôm% gham:ncobfôm% gham NUM ; ! "eighteen"
+ncobbwə̀ʼə̂% gham:ncobbwə̀ʼə̂% gham NUM ; ! "nineteen"
+ŋamnbɑhɑ:ŋammbɑhɑ NUM-TWENTY ; ! "twenty"
+ŋamtad:ŋamtad NUM ; ! "thirty"
+ŋâmnkuɑ̀:ŋâmkuɑ̀ NUM ; ! "forty"
+ŋamtɑb:ŋamtɑn NUM ; ! "fifty"
+ŋâmntogə:ŋâmntogə NUM ; ! "sixty"
+ŋâmsɑ̀mmbɑhɑ:ŋâmsɑ̀mmbɑhɑ NUM ; ! "seventy"
+ŋâmfomə:ŋâmfomə NUM ; ! "eighty"
+ŋâmbwəʼə:ŋâmbwəʼə NUM ; ! "ninety"
+nkʉ:nkʉ NUM ; ! "hundred"
+nkʉbɑhɑ:nkʉbɑhɑ NUM ; ! "twohundred"
+nkʉtad:nkʉtad NUM ; ! "threehundred"
+nkʉ̌kuɑ̀:nkʉ̌kuɑ̀ NUM ; ! "fourhundred"
+nkʉtɑn:nkʉtɑn NUM ; ! "fivehundred"
+nkʉ̌ntogə:nkʉ̌ntogə NUM ; ! "sixhundred"
+nkʉ̌sɑmmbɑhɑ:nkʉ̌sɑ̀mmbɑhɑ NUM ; ! "sevenhundred"
+nkʉ̌fomə:nkʉ̌fomə NUM ; ! "eighthundred"
+nkʉ̌bwə̀ʼə:nkʉ̌bwə̀ʼə NUM ; ! "ninehundred"
+ncaʼ:ncaʼ NUM ; ! "thousand"
+ncâʼnkʉ:ncâʼnkʉ NUM ; !  "100000"
+ncuʼ:ncuʼ NUM ; ! "million"
+mɑ̂ncuʼ:mɑ̂ncuʼ NUM ; ! "billion"
+mɑ% mɑ̂ncuʼ:mɑ% mɑ̂ncuʼ NUM ; ! "trillion"
+
+
+LEXICON Punctuation
+
+%.%<sent%>:%. # ;
 
