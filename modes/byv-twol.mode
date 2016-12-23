@@ -1,4 +1,0 @@
-
-      
-    hfst-strings2fst -S| hfst-compose-intersect '/home/mathematic-alpha/Desktop/bootstrap-master/apertium-byv/.deps/byv.twol.hfst' | hfst-fst2strings
-  

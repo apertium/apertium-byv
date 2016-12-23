@@ -1,8 +1,0 @@
-prefix=/usr/local
-exec_prefix=${prefix}
-srcdir=${prefix}/share/apertium/apertium-byv
-
-Name: apertium-byv
-Description: Finite-state morphological transducer and constraint grammar for Medumba 
-Version: 0.1.0
-
