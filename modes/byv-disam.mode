@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w '/home/mathematic-alpha/Desktop/bootstrap-master/apertium-byv/byv.automorf.bin' | cg-conv -a| vislcg3 --trace --grammar '/home/mathematic-alpha/Desktop/bootstrap-master/apertium-byv/byv.rlx.bin' 
+  

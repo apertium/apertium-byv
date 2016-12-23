@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w '/home/mathematic-alpha/Desktop/bootstrap-master/apertium-byv/byv.automorf.bin' | cg-proc -w '/home/mathematic-alpha/Desktop/bootstrap-master/apertium-byv/byv.rlx.bin' 
+  
