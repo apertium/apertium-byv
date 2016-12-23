@@ -1,14 +1,4 @@
 * text=auto !eol
-.deps/.d -text
-.deps/byv.LR.hfst -text
-.deps/byv.LR.lexc -text
-.deps/byv.LR.lexc.hfst -text
-.deps/byv.RL.hfst -text
-.deps/byv.RL.lexc -text
-.deps/byv.RL.lexc.hfst -text
-.deps/byv.autogen.att -text
-.deps/byv.automorf.att -text
-.deps/byv.twol.hfst -text
 /AUTHORS -text
 /COPYING -text
 /ChangeLog -text
