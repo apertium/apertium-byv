@@ -19,6 +19,7 @@ Multichar_Symbols
 %<cl4%>     ! Classe IV
 %<cl5%>     ! Classe V
 %<cl6%>     ! Classe VI
+%<inf%>     ! Infinitif
 %<GD%>      ! Classe non connue
 
 %<sent%>    ! 
@@ -29,6 +30,7 @@ Multichar_Symbols
 
 LEXICON Root
 
+Miscellaneous ;
 Nouns ;
 ProperNouns ;
 Verbes ;
@@ -96,6 +98,10 @@ LEXICON PRON-PERS
 %<prn%>%<pers%>: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Miscellaneous
+
+nə̀:nə̀ INF ;
 
 LEXICON Prepositions 
 
@@ -288,33 +294,34 @@ Yɛsɔ:Yɛsɔ  NP-ANT-M ; ! "Jesus"
 
 LEXICON Verbes
 
-nə̀% bə̌:nə̀% bə̌ V ; ! "pencher"
-nə̀% yaʼa:nə̀% yaʼa V ; ! "traverser"
-nə̀% bagte:nə̀% bagtə V ; ! "gater"
-nə̀% fàʼa:nə̀% faʼa V ; ! "travailler"
-nə̀% fitə:nə̀% fitə V ; ! "se reposer"
-nə̀% juʼu:juʼu V ; ! "entendre"
-nə̀% jʉ:nə% jʉ V ; ! "manger"
-nə̀% kiɑ̀gə:nə̀% kiɑ̀gə V ; ! "detacher"
-nə̀% kwǎ:nə̀% kwǎ V ; ! "reflechir"
-nə̀% kwʉlə:nə̀% kwʉlə V ; ! "batir"
-nə̀% kəbə:nə̀% kəbə V ; ! "couper"
-nə̀% kʉ̌:nə̀% kʉ̌ V ; ! "fuir"
-nə̀% lǒ:nə̀% lǒ V ; ! "quitter"
-nə̀% lɑnə:nə̀% lɑnə V ; ! "pleurer"
-nə̀% mǐ:nə̀% mǐ V ; ! "blanc"
-nə̀% na:nə̀% na V ; ! "analiser/préparer"
-nə̀% nàbə:nə̀% nàbə V ; ! "arranger"
-nə̀% tadtə:nə̀% tadtə V ; ! "mentir"
-nə̀% tàŋə:nə̀% tàŋə V ; ! "attacher"
-nə̀% tswìtə̌:nə% tswìtə̌ V ; ! "enseigner"
-nə̀% tɔ:nə̀% tɔ V ; ! "crier"
-nə̀% yǐ:nə̀% yǐ V ; ! "voler"
-nə̀% ywiʼi:nə̀% ywiʼi V ; ! "vomir"
-nə̀% yənə:nə̀% yənə V ; ! "voir"
-nə̀% ziʼtə:nə̀% ziʼtə V ; ! "apprendre"
-nə̀% zwi:nə̀% zwi V ; ! "tuer"
-nə̀% zwǐ:nə̀% zwǐ V ; ! "rire"
+
+bə̌:bə̌ V ; ! "pencher"
+yaʼa:yaʼa V ; ! "traverser"
+bagte:bagtə V ; ! "gater"
+fàʼa:faʼa V ; ! "travailler"
+fitə:fitə V ; ! "se reposer"
+juʼu:juʼu V ; ! "entendre"
+jʉ:nə% jʉ V ; ! "manger"
+kiɑ̀gə:kiɑ̀gə V ; ! "detacher"
+kwǎ:kwǎ V ; ! "reflechir"
+kwʉlə:kwʉlə V ; ! "batir"
+kəbə:kəbə V ; ! "couper"
+kʉ̌:kʉ̌ V ; ! "fuir"
+lǒ:lǒ V ; ! "quitter"
+lɑnə:lɑnə V ; ! "pleurer"
+mǐ:mǐ V ; ! "blanc"
+na:na V ; ! "analiser/préparer"
+nàbə:nàbə V ; ! "arranger"
+tadtə:tadtə V ; ! "mentir"
+tàŋə:tàŋə V ; ! "attacher"
+tswìtə̌:nə% tswìtə̌ V ; ! "enseigner"
+tɔ:tɔ V ; ! "crier"
+yǐ:yǐ V ; ! "voler"
+ywiʼi:ywiʼi V ; ! "vomir"
+yənə:yənə V ; ! "voir"
+ziʼtə:ziʼtə V ; ! "apprendre"
+zwi:zwi V ; ! "tuer"
+zwǐ:zwǐ V ; ! "rire"
 
 
 LEXICON Adjectifs
