@@ -1,17 +1,18 @@
 Alphabet
- a à ǎ â b c ç d ɛ e é è ə f g h i ı j k l m n ŋ o ô ɔ p q r s t u ú ù v w x y z ɑ ʉ ! α ε
- A À Ǎ Â B C Ç D Ɛ E É È Ə F G H   I J K L M N Ŋ O Ô Ɔ P Q R S T U Ú Ù V W X Y Z Ɑ Ʉ ! Α Ε
+ a ǎ â b c ç d ɛ e é ə f g h i ı j k l m n ŋ o ô ɔ p q r s t u ú v w x y z ɑ ʉ ! α ε
+ A Ǎ Â B C Ç D Ɛ E É Ə F G H   I J K L M N Ŋ O Ô Ɔ P Q R S T U Ú V W X Y Z Ɑ Ʉ ! Α Ε
 
 ́
 ̀
 ̂
+̆
 
  %>:0  ;
 
 Sets
 
-Vowel = a à ǎ e é è ə i ı o ô ɔ u ú ù ɑ ʉ
-        A À Ǎ E É È Ə I I O Ô Ɔ U Ú Ù Ɑ Ʉ   ;
+Vowel = a ǎ e é ə i ı o ô ɔ u ú ɑ ʉ
+        A Ǎ E É Ə I I O Ô Ɔ U Ú Ɑ Ʉ   ;
 
 Rules 
 

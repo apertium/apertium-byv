@@ -35,6 +35,7 @@ Pronoms ;
 Adjectifs ;
 Nombres ;
 Prepositions ;
+Punctuation ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -176,17 +177,17 @@ vog:vog N-cl5 ; ! "os"
 wud:wud N-cl1 ; ! "corp"
 ziagə:ziagə N-cl5 ; ! "totém"
 zwəʼ:zwəʼ  N-cl1 ; ! "rein"
-mbà'sa':mbà'sa' N-cl1 ; ! "avocat"
+mbàʼsaʼ:mbàʼsaʼ N-cl1 ; ! "avocat"
 nkə̀dbɑ̀m:nkə̀dbɑ̀m N-cl3 ; ! "bagagiste"
 nɑ̀bkwa:nɑ̀bkwa N-cl5 ; ! "bijoutier"
 nkə̂bncwɛn:nkə̂bncwɛn N-cl1 ; ! "bûcheron"
 ngàyǒbkwì:ngàyǒbkwì N-cl5 ; ! "chanteur"
-nkwìmtûbà':nkwìmtûbà' N-cl3 ; ! "charpentier"
+nkwìmtûbàʼ:nkwìmtûbàʼ N-cl3 ; ! "charpentier"
 ngàdìàg:ngàdìàg Ninf ; ! "chercheur"
 ndɛ̀nngwàd:ndɛ̀nngwàd N-cl1 ; ! "chirurgien"
-yogkə̀fà':yogkə̀fà' Ninf ; ! "chômeur" ! "or yogkə̀màʼ"
+yogkə̀fàʼ:yogkə̀fàʼ Ninf ; ! "chômeur" ! "or yogkə̀màʼ"
 nkômtu:nkômtu N-cl1 ; ! "coiffeur"
-nɑ̀bnkəto'o:nɑ̀bnkəto'o N-cl1 ; ! "cordonnier"
+nɑ̀bnkətoʼo:nɑ̀bnkətoʼo N-cl1 ; ! "cordonnier"
 ntâmnzwə:ntâmnzwə N-cl1 ; ! "couturier/couturière"
 nâcàŋ:nâcàŋ N-cl5 ; ! "cuisinier/cuisinière"
 ngàkwǐndɑ:ngàkwǐndɑ N-cl1 ; ! "décorateur"
@@ -194,16 +195,16 @@ ndɛ̀nnsɔ̀:ndɛ̀nnsɔ̀ N-cl5 ; ! "dentiste"
 nsɔ̀lɑbə:nsɔ̀lɑbə Ninf ; ! "eboueur"
 ndɛ̀nmbwogvə̀:ndɛ̀nmbwogvə̀ Ninf ; ! "électricien" "hmmm"
 ngàtswìtə̀:ngàtswìtə̀ N-cl1 ; ! "enseignant(e)/professeur(e)"
-dìbɑ̀ngàŋwà'nì:dìbɑ̀ngàŋwà'nì N-cl1 ; ! "étudiant(e)"
-ntswìnkʉ̀n'nì:ntswìnkʉ̀n'ni N-cl3 ; ! "facteur" "**confused"
-ngɑ̀bŋwà'nì̀:ngɑ̀bŋwà'nì̀ N-cl3 ; ! "facteur"
+dìbɑ̀ngàŋwàʼnì:dìbɑ̀ngàŋwàʼnì N-cl1 ; ! "étudiant(e)"
+ntswìnkʉ̀nʼnì:ntswìnkʉ̀nʼni N-cl3 ; ! "facteur" "**confused"
+ngɑ̀bŋwàʼnì̀:ngɑ̀bŋwàʼnì̀ N-cl3 ; ! "facteur"
 tɑ̂lɑ̀m:tɑ̂lɑ̀m N-cl1 ; ! "forgeron"
 ncwèghòn:ncwèghòn Ninf ; ! "infirmier/infirmière"
 ndɛ̀nlǒŋvə̀:ndɛ̀nlǒŋvə̀ N-cl5 ; ! "informaticien"
 ngɑ̂mvə̀:ngɑ̂mvə̀ Ninf ; ! "informatique"
 ntswìnkʉ̀n:ntswìnkʉ̀n N-cl3 ; ! "journaliste"
-nco'tə̀ncà:nco'tə̀ncà N-cl3 ; ! "juge"
-nkûdbà':nkûdbà' N-cl1 ; ! "maçon"
+ncoʼtə̀ncà:ncoʼtə̀ncà N-cl3 ; ! "juge"
+nkûdbàʼ:nkûdbàʼ N-cl1 ; ! "maçon"
 ngàlǎntsə:ngàlǎntsə N-cl4 ; ! "marin"
 ndɛ̀nghòn:ndɛ̀nghòn N-cl1 ; ! "médecin"
 nkômncwɛn:nkômncwɛn N-cl1 ; ! "menuisier"
@@ -212,8 +213,8 @@ ngàghǒmngǒntsə:ngàghǒmngǒntsə N-cl5 ; ! "pêcheur"
 ntoŋnkù:ntoŋnkù N-cl5 ; ! "policier"
 mbêbnzə̀ndɑ:mbêbnzə̀ndɑ Ninf ; ! "portier"
 ntə̂kɑb:ntə̂kɑb Ninf ; ! "potier"
-ndè'càm:ndè'càm Ninf ; ! "secrétaire"
-nkə̀tu'u:nkə̀tu'u Ninf ; ! "soldat"
+ndèʼcàm:ndèʼcàm Ninf ; ! "secrétaire"
+nkə̀tuʼu:nkə̀tuʼu Ninf ; ! "soldat"
 ntâmnzwə:ntâmnzwə Ninf ; ! "tailleur"
 ntɑ̌blɑ̀m:ntɑ̌blɑ̀m Ninf ; ! "usine"
 ndɛ̀nnyɑ̀m:ndɛ̀nnyɑ̀m Ninf ; ! "vétérinaire"
@@ -322,4 +323,4 @@ LEXICON Punctuation
 %;%<sent%>:%; # ;
 %:%<sent%>:%: # ;
 %,%<cm%>:%, # ;
-
+%…%<sent%>:%… # ;
