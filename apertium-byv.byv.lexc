@@ -2,24 +2,25 @@
 
 Multichar_Symbols
 
-%<n%>  ! Noun
-%<np%> ! Proper noun
-%<top%> ! Toponym
-%<ant%> ! Anthroponym
-%<pl%> ! Plural
-%<sg%> ! Singular
-%<cl1%> !classe 1
-%<cl3%>
-%<cl5%>
-%<cl4%>
-%<cl6%>
-%<GD%>
-%<sent%> 
-%<pr%>  !preposition
-%<prn%>  !pronom
-%<v%> !verbe
-%<adj%> !adjectifs
-%<num%>
+%<n%>       ! Noun
+%<np%>      ! Proper noun
+%<pr%>      ! Preposition
+%<prn%>     ! Pronom
+%<v%>       ! Verbe
+%<adj%>     ! Adjectifs
+%<num%>     ! Nombre
+%<top%>     ! Toponym
+%<ant%>     ! Anthroponym
+%<pl%>      ! Plural
+%<sg%>      ! Singular
+%<cl1%>     ! Classe I
+%<cl3%>     ! Classe III
+%<cl4%>     ! Classe IV
+%<cl5%>     ! Classe V
+%<cl6%>     ! Classe VI
+%<GD%>      ! Classe non connue
+
+%<sent%>    ! 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                       M O R P H O T A C T I C S                         !!!
@@ -30,6 +31,7 @@ LEXICON Root
 Nouns ;
 ProperNouns ;
 Verbes ;
+Pronoms ;
 Adjectifs ;
 Nombres ;
 Prepositions ;
@@ -83,6 +85,10 @@ LEXICON PREP
 
 %<pr%>: # ;
 
+LEXICON PRON
+
+%<prn%>: # ; ! Pronom 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON Prepositions 
@@ -90,7 +96,11 @@ LEXICON Prepositions
 mbàŋ:mbàŋ PREP ; ! "à côte de"
 nyàm:nyàm PREP ; ! "deriere"
 nùm:nùm PREP ; ! "sur"
-mʙә:mʙә PREP ; ! "devant"
+mbwə:mbwə PREP ; ! "devant"
+
+LEXICON Pronoms
+
+ɔm:ɔm PRON ; 
 
 LEXICON Nouns
 
