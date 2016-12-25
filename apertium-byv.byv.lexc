@@ -12,6 +12,7 @@ Multichar_Symbols
 %<top%>     ! Toponym
 %<ant%>     ! Anthroponym
 %<pl%>      ! Plural
+%<pers%>    ! Personal
 %<sg%>      ! Singular
 %<cl1%>     ! Classe I
 %<cl3%>     ! Classe III
@@ -90,6 +91,10 @@ LEXICON PRON
 
 %<prn%>: # ; ! Pronom 
 
+LEXICON PRON-PERS
+
+%<prn%>%<pers%>: # ;
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON Prepositions 
@@ -101,6 +106,7 @@ mbwə:mbwə PREP ; ! "devant"
 
 LEXICON Pronoms
 
+mə:mə PRON ; 
 ɔm:ɔm PRON ; 
 
 LEXICON Nouns
@@ -223,6 +229,55 @@ gha:gha Ninf ; ! "Bangante"
 fà:fà N-cl5 ; ! "accident"
 nyǎŋtu:nyǎŋtu  N-cl6 ; ! "cheveux"
 ka:ka  N-cl1 ; ! "assiete"
+
+bʉn:bʉn Ninf ; ! ""
+bùsi:bùsi Ninf ; ! ""
+cu:cu Ninf ; ! ""
+fə̀dmbàŋ:fə̀dmbàŋ Ninf ; ! ""
+ghə’:ghə’ Ninf ; ! ""
+ju:ju Ninf ; ! ""
+kə̀kag:kə̀kag Ninf ; ! ""
+ləm:ləm Ninf ; ! ""
+lɑg:lɑg Ninf ; ! ""
+lòŋ:lòŋ Ninf ; ! ""
+mbabə:mbabə Ninf ; ! ""
+mbɑb:mbɑb Ninf ; ! ""
+mbì:mbì Ninf ; ! ""
+mbwogcʉ:mbwogcʉ Ninf ; ! ""
+mfê’bu:mfê’bu Ninf ; ! ""
+mfə̌dnjʉ:mfə̌dnjʉ Ninf ; ! ""
+mɑŋwʉ:mɑŋwʉ Ninf ; ! ""
+ncù:ncù Ninf ; ! ""
+ncwɛ̂dtùn:ncwɛ̂dtùn Ninf ; ! ""
+ncwɛn:ncwɛn Ninf ; ! ""
+nga:nga Ninf ; ! ""
+ngǒntsə:ngǒntsə Ninf ; ! ""
+ngù’njʉ:ngù’njʉ Ninf ; ! ""
+njàmtu:njàmtu Ninf ; ! ""
+nkaŋmiɑg:nkaŋmiɑg Ninf ; ! ""
+nkî̂bbu:nkî̂bbu Ninf ; ! ""
+nkɔ̀nì:nkɔ̀nì Ninf ; ! ""
+nkɔ̀ntsəlɑg:nkɔ̀ntsəlɑg Ninf ; ! ""
+nkwàtə̀:nkwàtə̀ Ninf ; ! ""
+nto:nto Ninf ; ! ""
+ntsi:ntsi Ninf ; ! ""
+nyàm:nyàm Ninf ; ! ""
+nyǎŋncù:nyǎŋncù Ninf ; ! ""
+nyǎŋtu:nyǎŋtu Ninf ; ! ""
+nyu:nyu Ninf ; ! ""
+nzə̂mbwogə:nzə̂mbwogə Ninf ; ! ""
+saŋ:saŋ Ninf ; ! ""
+tadtə̀:tadtə̀ Ninf ; ! ""
+tàmmbwə̀:tàmmbwə̀ Ninf ; ! ""
+tɛ̀dtswə’:tɛ̀dtswə’ Ninf ; ! ""
+tòŋ:tòŋ Ninf ; ! ""
+tɔ:tɔ Ninf ; ! ""
+tsiàŋtə̀:tsiàŋtə̀ Ninf ; ! ""
+tûkə̀kwi’:tûkə̀kwi’ Ninf ; ! ""
+tǔnbu:tǔnbu Ninf ; ! ""
+vogə:vogə Ninf ; ! ""
+zwiɑ̀g:zwiɑ̀g Ninf ; ! ""
+
 
 LEXICON ProperNouns 
 
