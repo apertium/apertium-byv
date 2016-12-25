@@ -5,7 +5,7 @@ Multichar_Symbols
 %<n%>       ! Noun
 %<np%>      ! Proper noun
 %<pr%>      ! Preposition
-%<cnjcoo%>  ! 
+%<cnjcoo%>  ! conjunction de coordination
 %<prn%>     ! Pronom
 %<v%>       ! Verbe
 %<adj%>     ! Adjectifs
@@ -145,7 +145,7 @@ fu:fu  N-cl5 ; ! "reméde"
 kâtu:kâtu  N-cl3; ! "crane"
 ki:ki   N-cl1 ; ! "clé"
 kù:kù  N-cl3; ! "pied"
-kəbwɔ:kə̀bwɔ̀  N-cl1 ; ! "mal"
+kə̀bwɔ:kə̀bwɔ̀  N-cl1 ; ! "mal"
 kə̀bǎdnjɑb:kə̀bǎbnjɑb  N-cl3 ; ! "binjamin"
 kə̀lɔ̀:kə̀lɔ̀  N-cl5; ! "banane"
 kə̀nà:kə̀nà  N-cl1 ; ! "arrachide"
