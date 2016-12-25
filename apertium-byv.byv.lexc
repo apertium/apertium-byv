@@ -6,6 +6,7 @@ Multichar_Symbols
 %<np%>      ! Proper noun
 %<pr%>      ! Preposition
 %<adv%>     ! 
+%<rel%>     ! 
 %<cnjcoo%>  ! Conjunction de coordination
 %<cnjsub%>  ! 
 %<cop%>     ! 
@@ -146,6 +147,7 @@ nə̀%<inf%>:nə̀ # ;
 ɑ̂%<foc%>:ɑ̂ # ;
 kəʼ%<neg%>:kəʼ  # ;
 àʼ%<fut%>:àʼ # ;
+zə̀%<rel%>:zə̀ # ; 
 
 LEXICON Conjonctions 
 
@@ -395,6 +397,7 @@ ziʼtə:ziʼtə V ; ! "apprendre"
 zwi:zwi V ; ! "tuer"
 zwǐ:zwǐ V ; ! "rire"
 kɔ̌:kɔ̌ V ; ! "aimer"
+ghʉ̌:ghʉ̌ V ; ! "faire"
 
 LEXICON Nombres
 
