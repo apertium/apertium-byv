@@ -13,4 +13,5 @@
 /autogen.sh -text
 /byv.prob -text svneol=unset#unset
 /configure.ac -text
+dev/spellrelax.twol -text
 /modes.xml -text
