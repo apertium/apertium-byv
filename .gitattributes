@@ -13,6 +13,8 @@
 /autogen.sh -text
 /byv.prob -text svneol=unset#unset
 /configure.ac -text
+dev/AnnaBelewWords.tsv -text
+dev/CShaughnessyWords.tsv -text
 dev/random.fra-byv-eng.txt -text
 dev/spellrelax.twol -text
 /modes.xml -text
