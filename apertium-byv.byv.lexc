@@ -101,7 +101,7 @@ LEXICON PRON-PERS
 
 LEXICON Miscellaneous
 
-nə̀:nə̀ INF ;
+nə̀%<inf%>:nə̀ # ;
 
 LEXICON Prepositions 
 
@@ -384,5 +384,8 @@ LEXICON Punctuation
 %.%<sent%>:%. # ;
 %;%<sent%>:%; # ;
 %:%<sent%>:%: # ;
+%!%<sent%>:%! # ;
+%"%<quot%>:%" # ;
+%?%<sent%>:%? # ;
 %,%<cm%>:%, # ;
 %…%<sent%>:%… # ;

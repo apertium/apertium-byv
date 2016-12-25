@@ -20,3 +20,5 @@ dev/CShaughnessyWords.tsv -text
 dev/random.fra-byv-eng.txt -text
 dev/spellrelax.twol -text
 /modes.xml -text
+texts/compte.byv.txt -text
+texts/compte.fra.txt -text
