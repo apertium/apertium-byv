@@ -32,6 +32,7 @@ ProperNouns ;
 Verbes ;
 Adjectifs ;
 Nombres ;
+Prepositions ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -75,7 +76,18 @@ LEXICON V
 
 %<v%>: # ;
 
+LEXICON PREP 
+
+%<pr%>: # ;
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Prepositions 
+
+mbàŋ:mbàŋ PREP ; ! "à côte de"
+ɲàm:ɲàm PREP ; ! ""
+nùm:nùm PREP ; ! "sur"
+mʙә:mʙә PREP ; ! "devant"
 
 LEXICON Nouns
 
