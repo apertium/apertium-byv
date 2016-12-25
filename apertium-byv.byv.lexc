@@ -5,6 +5,7 @@ Multichar_Symbols
 %<n%>       ! Noun
 %<np%>      ! Proper noun
 %<pr%>      ! Preposition
+%<cnjcoo%>  ! 
 %<prn%>     ! Pronom
 %<v%>       ! Verbe
 %<adj%>     ! Adjectifs
@@ -31,6 +32,7 @@ Multichar_Symbols
 LEXICON Root
 
 Miscellaneous ;
+Conjonctions ;
 Nouns ;
 ProperNouns ;
 Verbes ;
@@ -69,6 +71,10 @@ LEXICON NUM
 LEXICON NUM-TWENTY
 %<num%>:   # ;
 
+LEXICON NP-ANT-F
+
+%<np%>%<ant%>%<f%>: # ;
+
 LEXICON NP-ANT-M
 
 %<np%>%<ant%>%<m%>: # ;
@@ -89,6 +95,10 @@ LEXICON PREP
 
 %<pr%>: # ;
 
+LEXICON CC 
+
+%<cnjcoo%>: # ;
+
 LEXICON PRON
 
 %<prn%>: # ; ! Pronom 
@@ -103,11 +113,15 @@ LEXICON Miscellaneous
 
 nə̀%<inf%>:nə̀ # ;
 
+LEXICON Conjonctions 
+
+bô:bô CC ; ! "et"
+
 LEXICON Prepositions 
 
 mbàŋ:mbàŋ PREP ; ! "à côte de"
 nyàm:nyàm PREP ; ! "deriere"
-nùm:nùm PREP ; ! "sur"
+ntʉ̂m:ntʉ̂m PREP ; ! "sur"
 mbwə:mbwə PREP ; ! "devant"
 
 LEXICON Pronoms
@@ -291,6 +305,8 @@ Kamərun NP-TOP ; ! "Cameroon"
 Ngadou:Ngadou  NP-ANT-M ; ! "Ngadou"
 Nsi:Nsi  NP-ANT-M ; ! "Dieu"
 Yɛsɔ:Yɛsɔ  NP-ANT-M ; ! "Jesus"
+Jean:Jean  NP-ANT-M ; ! ""
+Marie:Marie NP-ANT-F ; ! ""
 
 LEXICON Verbes
 
