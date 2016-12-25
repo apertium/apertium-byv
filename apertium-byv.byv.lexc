@@ -5,9 +5,17 @@ Multichar_Symbols
 %<n%>       ! Noun
 %<np%>      ! Proper noun
 %<pr%>      ! Preposition
-%<cnjcoo%>  ! conjunction de coordination
+%<adv%>     ! 
+%<cnjcoo%>  ! Conjunction de coordination
+%<cnjsub%>  ! 
+%<cop%>     ! 
+%<neg%>     ! 
+%<fut%>     ! 
+%<foc%>     ! 
+%<itg%>     ! 
 %<prn%>     ! Pronom
 %<v%>       ! Verbe
+%<past%>    ! 
 %<adj%>     ! Adjectifs
 %<num%>     ! Nombre
 %<top%>     ! Toponym
@@ -36,6 +44,7 @@ Conjonctions ;
 Nouns ;
 ProperNouns ;
 Verbes ;
+Adverbes ;
 Pronoms ;
 Adjectifs ;
 Nombres ;
@@ -91,6 +100,15 @@ LEXICON V
 
 %<v%>: # ;
 
+LEXICON V-YENE 
+
+%<v%>:ə # ;
+%<v%>%<past%>: # ;
+
+LEXICON COP
+
+bə%<cop%>%<pres%>:bə # ;
+
 LEXICON PREP 
 
 %<pr%>: # ;
@@ -99,9 +117,22 @@ LEXICON CC
 
 %<cnjcoo%>: # ;
 
+LEXICON CS 
+
+%<cnjsub%>: # ;
+
+LEXICON ADV-ITG
+
+%<adv%>%<itg%>: # ;
+
 LEXICON PRON
 
 %<prn%>: # ; ! Pronom 
+
+LEXICON PRON-POSS-OM
+
+%<prn%>%<pos%>:ɔm # ; !
+%<prn%>%<pos%>%<cl1%>:mɔm # ; ! Pronom 
 
 LEXICON PRON-PERS
 
@@ -112,22 +143,29 @@ LEXICON PRON-PERS
 LEXICON Miscellaneous
 
 nə̀%<inf%>:nə̀ # ;
+ɑ̂%<foc%>:ɑ̂ # ;
+kəʼ%<neg%>:kəʼ  # ;
+àʼ%<fut%>:àʼ # ;
 
 LEXICON Conjonctions 
 
 bô:bô CC ; ! "et"
+mbə:mbə CS ; ! "que"
 
 LEXICON Prepositions 
 
-mbàŋ:mbàŋ PREP ; ! "à côte de"
+mbàŋ:mbàŋ PREP ; ! "à côté de"
 nyàm:nyàm PREP ; ! "deriere"
 ntʉ̂m:ntʉ̂m PREP ; ! "sur"
 mbwə:mbwə PREP ; ! "devant"
 
 LEXICON Pronoms
 
-mə:mə PRON ; 
-ɔm:ɔm PRON ; 
+mə:mə PRON-PERS ; 
+a:a PRON-PERS ; 
+wʉ̀:wʉ̀ PRON-PERS ; 
+
+PRON-POSS-OM ; 
 
 LEXICON Nouns
 
@@ -308,7 +346,25 @@ Yɛsɔ:Yɛsɔ  NP-ANT-M ; ! "Jesus"
 Jean:Jean  NP-ANT-M ; ! ""
 Marie:Marie NP-ANT-F ; ! ""
 
+LEXICON Adjectifs
+
+bǎ:bǎ ADJ ; ! "rouge"
+dumə:dumə ADJ ; ! "chaud"
+fi:fi ADJ ; ! "froid"
+fogə:fogə ADJ ; ! "blanc"
+nyìnnyìn:nyìnyìn ADJ ; ! "muliticolor"
+sɛnə:sɛnə ADJ ; ! "noire"
+
+
+LEXICON Adverbes
+
+yɑ:yɑ ADV-ITG ; ! "où"
+
 LEXICON Verbes
+
+ COP ; ! "être"
+
+yənə:yən V-YENE ; ! "voir"
 
 bagte:bagtə V ; ! "gater"
 bə̌:bə̌ V ; ! "pencher"
@@ -335,19 +391,10 @@ tɔ:tɔ V ; ! "crier"
 yaʼa:yaʼa V ; ! "traverser"
 yǐ:yǐ V ; ! "voler"
 ywiʼi:ywiʼi V ; ! "vomir"
-yənə:yənə V ; ! "voir"
 ziʼtə:ziʼtə V ; ! "apprendre"
 zwi:zwi V ; ! "tuer"
 zwǐ:zwǐ V ; ! "rire"
-
-LEXICON Adjectifs
-
-bǎ:bǎ ADJ ; ! "rouge"
-dumə:dumə ADJ ; ! "chaud"
-fi:fi ADJ ; ! "froid"
-fogə:fogə ADJ ; ! "blanc"
-nyìnnyìn:nyìnyìn ADJ ; ! "muliticolor"
-sɛnə:sɛnə ADJ ; ! "noire"
+kɔ̌:kɔ̌ V ; ! "aimer"
 
 LEXICON Nombres
 
