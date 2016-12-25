@@ -1,24 +1,19 @@
 Alphabet
- a à ǎ b c ç d e é è ə f g h i ı j k l m n ŋ o ô ɔ p q r s t u ú ù v w x y z ɑ ʉ ! α
- A À Ǎ B C Ç D E É È Ə F G H   I J K L M N Ŋ O Ô Ɔ P Q R S T U Ú Ù V W X Y Z Ɑ Ʉ ! Α
+ a à ǎ â b c ç d ɛ e é è ə f g h i ı j k l m n ŋ o ô ɔ p q r s t u ú ù v w x y z ɑ ʉ ! α ε
+ A À Ǎ Â B C Ç D Ɛ E É È Ə F G H   I J K L M N Ŋ O Ô Ɔ P Q R S T U Ú Ù V W X Y Z Ɑ Ʉ ! Α Ε
 
- %{A%}:a %>:0  ;
+́
+̀
+̂
+
+ %>:0  ;
 
 Sets
 
 Vowel = a à ǎ e é è ə i ı o ô ɔ u ú ù ɑ ʉ
         A À Ǎ E É È Ə I I O Ô Ɔ U Ú Ù Ɑ Ʉ   ;
 
-
 Rules 
 
 "Remove suffix vowel with vowel-ending stem"
 a:a <=> _ ;
-
-! Resources:
-! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
-! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
-! http://hfst.sourceforge.net/
-! http://wiki.apertium.org/wiki/Twol
-! http://wiki.apertium.org/wiki/Hfst
-
