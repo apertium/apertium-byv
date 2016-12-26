@@ -6,6 +6,8 @@ Multichar_Symbols
 %<np%>      ! Proper noun
 %<pr%>      ! Preposition
 %<adv%>     ! 
+%<ij%>      ! 
+%<qst%>     ! 
 %<rel%>     ! 
 %<cnjcoo%>  ! Conjunction de coordination
 %<cnjsub%>  ! 
@@ -33,6 +35,8 @@ Multichar_Symbols
 %<GD%>      ! Classe non connue
 
 %<sent%>    ! 
+%<cm%>      ! 
+%<quot%>    ! 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                       M O R P H O T A C T I C S                         !!!
@@ -50,6 +54,7 @@ Pronoms ;
 Adjectifs ;
 Nombres ;
 Prepositions ;
+Interjections ;
 Punctuation ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -139,6 +144,10 @@ LEXICON PRON-PERS
 
 %<prn%>%<pers%>: # ;
 
+LEXICON INTERJ
+
+%<ij%>: # ;
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON Miscellaneous
@@ -148,6 +157,7 @@ nə̀%<inf%>:nə̀ # ;
 kəʼ%<neg%>:kəʼ  # ;
 àʼ%<fut%>:àʼ # ;
 zə̀%<rel%>:zə̀ # ; 
+ki%<qst%>:ki # ;
 
 LEXICON Conjonctions 
 
@@ -338,6 +348,8 @@ tǔnbu:tǔnbu Ninf ; ! ""
 vogə:vogə Ninf ; ! ""
 zwiɑ̀g:zwiɑ̀g Ninf ; ! ""
 
+ŋjʉ:ŋjʉ Ninf ; ! "temps" ! njʉ (?)
+
 LEXICON ProperNouns 
 
 Kamərun NP-TOP ; ! "Cameroon"
@@ -429,20 +441,24 @@ ncobbwə̀ʼə̂% gham:ncobbwə̀ʼə̂% gham NUM ; ! "nineteen"
 ŋâmfomə:ŋâmfomə NUM ; ! "eighty"
 ŋâmbwəʼə:ŋâmbwəʼə NUM ; ! "ninety"
 nkʉ:nkʉ NUM ; ! "hundred"
-nkʉbɑhɑ:nkʉbɑhɑ NUM ; ! "twohundred"
-nkʉtad:nkʉtad NUM ; ! "threehundred"
-nkʉ̌kuɑ̀:nkʉ̌kuɑ̀ NUM ; ! "fourhundred"
-nkʉtɑn:nkʉtɑn NUM ; ! "fivehundred"
-nkʉ̌ntogə:nkʉ̌ntogə NUM ; ! "sixhundred"
-nkʉ̌sɑmmbɑhɑ:nkʉ̌sɑ̀mmbɑhɑ NUM ; ! "sevenhundred"
-nkʉ̌fomə:nkʉ̌fomə NUM ; ! "eighthundred"
-nkʉ̌bwə̀ʼə:nkʉ̌bwə̀ʼə NUM ; ! "ninehundred"
+nkʉbɑhɑ:nkʉbɑhɑ NUM ; ! "two hundred"
+nkʉtad:nkʉtad NUM ; ! "three hundred"
+nkʉ̌kuɑ̀:nkʉ̌kuɑ̀ NUM ; ! "four hundred"
+nkʉtɑn:nkʉtɑn NUM ; ! "five hundred"
+nkʉ̌ntogə:nkʉ̌ntogə NUM ; ! "six hundred"
+nkʉ̌sɑmmbɑhɑ:nkʉ̌sɑ̀mmbɑhɑ NUM ; ! "seven hundred"
+nkʉ̌fomə:nkʉ̌fomə NUM ; ! "eight hundred"
+nkʉ̌bwə̀ʼə:nkʉ̌bwə̀ʼə NUM ; ! "nine hundred"
 ncaʼ:ncaʼ NUM ; ! "thousand"
 ncâʼnkʉ:ncâʼnkʉ NUM ; !  "100000"
 ncuʼ:ncuʼ NUM ; ! "million"
 mɑ̂ncuʼ:mɑ̂ncuʼ NUM ; ! "billion"
 mɑ% mɑ̂ncuʼ:mɑ% mɑ̂ncuʼ NUM ; ! "trillion"
 
+LEXICON Interjections
+
+a:a INTERJ ; ! "oui"
+nga:nga INTERJ ; ! "non"
 
 LEXICON Punctuation
 
