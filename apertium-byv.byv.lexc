@@ -115,6 +115,16 @@ LEXICON V-YENE
 %<v%>:ə # ;
 %<v%>%<past%>: # ;
 
+LEXICON V-JUʼU
+
+%<v%>:ʼu # ;
+%<v%>%<past%>:̂ʼ # ;
+
+LEXICON V-COBE
+
+%<v%>:bə # ;
+%<v%>%<past%>:b # ;
+
 LEXICON COP
 
 bə%<cop%>%<pres%>:bə # ;
@@ -142,7 +152,15 @@ LEXICON PRON
 LEXICON PRON-POSS-OM
 
 %<prn%>%<pos%>:ɔm # ; !
-%<prn%>%<pos%>%<cl1%>:mɔm # ; ! Pronom 
+%<prn%>%<pos%>%<cl1%>:mɔm # ; ! Pronom  ?
+
+LEXICON PRON-PERS-NOM
+
+%<prn%>%<pers%>%<nom%>: # ;
+
+LEXICON PRON-PERS-ACC
+
+%<prn%>%<pers%>%<acc%>: # ;
 
 LEXICON PRON-PERS
 
@@ -183,9 +201,11 @@ mbwə:mbwə PREP ; ! "devant"
 
 LEXICON Pronoms
 
-mə:mə PRON-PERS ; 
-a:a PRON-PERS ; 
+mə:mə PRON-PERS-NOM ; 
+a:a PRON-PERS-NOM ; 
 u:u PRON-PERS ; 
+i:i PRON-PERS ; 
+yi:yi PRON-PERS-ACC ; 
 wʉ̀:wʉ̀ PRON-PERS ; 
 
 PRON-POSS-OM ; 
@@ -396,14 +416,15 @@ LEXICON Verbes
  COP ; ! "être"
 
 yənə:yən V-YENE ; ! "voir"
+juʼu:ju V-JUʼU ; ! "entendre"
+cobə:co V-COBE ; ! "dire"
 
 bagte:bagtə V ; ! "gater"
 bə̌:bə̌ V ; ! "pencher"
 fàʼa:faʼa V ; ! "travailler"
 fitə:fitə V ; ! "se reposer"
 fɑ:fɑ V ; ! "donner"
-juʼu:juʼu V ; ! "entendre"
-jʉ:nə% jʉ V ; ! "manger"
+jʉ:jʉ V ; ! "manger"
 kiɑ̀gə:kiɑ̀gə V ; ! "detacher"
 kwǎ:kwǎ V ; ! "reflechir"
 kwʉlə:kwʉlə V ; ! "batir"
@@ -417,7 +438,7 @@ na:na V ; ! "cuisiner"
 nàbə:nàbə V ; ! "arranger"
 tadtə:tadtə V ; ! "mentir"
 tàŋə:tàŋə V ; ! "attacher"
-tswìtə̌:nə% tswìtə̌ V ; ! "enseigner"
+tswìtə̌:tswìtə̌ V ; ! "enseigner"
 tɔ:tɔ V ; ! "crier"
 yaʼa:yaʼa V ; ! "traverser"
 yǐ:yǐ V ; ! "voler"
