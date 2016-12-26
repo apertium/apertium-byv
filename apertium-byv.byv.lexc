@@ -6,6 +6,7 @@ Multichar_Symbols
 %<np%>      ! Proper noun
 %<pr%>      ! Preposition
 %<adv%>     ! 
+%<det%>     ! 
 %<ij%>      ! 
 %<qst%>     ! 
 %<rel%>     ! 
@@ -17,6 +18,7 @@ Multichar_Symbols
 %<foc%>     ! 
 %<prog%>    ! 
 %<itg%>     ! 
+%<ind%>     ! 
 %<prn%>     ! Pronom
 %<v%>       ! Verbe
 %<past%>    ! 
@@ -51,6 +53,7 @@ Nouns ;
 ProperNouns ;
 Verbes ;
 Adverbes ;
+Determiners ;
 Pronoms ;
 Adjectifs ;
 Nombres ;
@@ -149,13 +152,18 @@ LEXICON INTERJ
 
 %<ij%>: # ;
 
+LEXICON DET-IND
+
+%<det%>%<ind%>: # ;
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON Miscellaneous
 
 nə̀%<inf%>:nə̀ # ;
 ɑ̂%<foc%>:ɑ̂ # ;
-kəʼ%<neg%>:kəʼ  # ;
+kə̂ʼ%<neg%>:kə̂ʼ # ;
+!kə̀%<neg%>:kə̀  # ;
 àʼ%<fut%>:àʼ # ;
 zə̀%<rel%>:zə̀ # ; 
 ki%<qst%>:ki # ;
@@ -181,6 +189,10 @@ u:u PRON-PERS ;
 wʉ̀:wʉ̀ PRON-PERS ; 
 
 PRON-POSS-OM ; 
+
+LEXICON Determiners 
+
+tàʼ:tàʼ DET-IND ; ! "un" (eng. "a, an")
 
 LEXICON Nouns
 
@@ -351,6 +363,7 @@ tǔnbu:tǔnbu Ninf ; ! ""
 vogə:vogə Ninf ; ! ""
 zwiɑ̀g:zwiɑ̀g Ninf ; ! ""
 mɑnndùm:mɑnndùm Ninf ; ! "homme"
+bùsi:bùsi Ninf ; ! "chat"
 
 ŋjʉ:ŋjʉ Ninf ; ! "temps" ! njʉ (?)
 
@@ -371,6 +384,7 @@ fi:fi ADJ ; ! "froid"
 fogə:fogə ADJ ; ! "blanc"
 nyìnnyìn:nyìnyìn ADJ ; ! "muliticolor"
 sɛnə:sɛnə ADJ ; ! "noire"
+mətòʼ:mətòʼ ADJ ; ! "petit"
 
 
 LEXICON Adverbes
