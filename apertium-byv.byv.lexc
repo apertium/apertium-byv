@@ -15,6 +15,7 @@ Multichar_Symbols
 %<neg%>     ! 
 %<fut%>     ! 
 %<foc%>     ! 
+%<prog%>    ! 
 %<itg%>     ! 
 %<prn%>     ! Pronom
 %<v%>       ! Verbe
@@ -158,6 +159,7 @@ kəʼ%<neg%>:kəʼ  # ;
 àʼ%<fut%>:àʼ # ;
 zə̀%<rel%>:zə̀ # ; 
 ki%<qst%>:ki # ;
+cwɛ̌d%<prog%>:cwɛ̌d # ;
 
 LEXICON Conjonctions 
 
@@ -306,7 +308,7 @@ bùsi:bùsi Ninf ; ! ""
 cu:cu Ninf ; ! ""
 fə̀dmbàŋ:fə̀dmbàŋ Ninf ; ! ""
 ghə’:ghə’ Ninf ; ! ""
-ju:ju Ninf ; ! ""
+ju:ju Ninf ; ! "chose"
 kə̀kag:kə̀kag Ninf ; ! ""
 ləm:ləm Ninf ; ! ""
 lɑg:lɑg Ninf ; ! ""
@@ -337,7 +339,7 @@ nyǎŋncù:nyǎŋncù Ninf ; ! ""
 nyǎŋtu:nyǎŋtu Ninf ; ! ""
 nyu:nyu Ninf ; ! ""
 nzə̂mbwogə:nzə̂mbwogə Ninf ; ! ""
-saŋ:saŋ Ninf ; ! ""
+saŋ:saŋ Ninf ; ! "oiseau"
 tadtə̀:tadtə̀ Ninf ; ! ""
 tàmmbwə̀:tàmmbwə̀ Ninf ; ! ""
 tɛ̀dtswə’:tɛ̀dtswə’ Ninf ; ! ""
@@ -348,6 +350,7 @@ tûkə̀kwi’:tûkə̀kwi’ Ninf ; ! ""
 tǔnbu:tǔnbu Ninf ; ! ""
 vogə:vogə Ninf ; ! ""
 zwiɑ̀g:zwiɑ̀g Ninf ; ! ""
+mɑnndùm:mɑnndùm Ninf ; ! "homme"
 
 ŋjʉ:ŋjʉ Ninf ; ! "temps" ! njʉ (?)
 
