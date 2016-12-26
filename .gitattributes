@@ -17,7 +17,9 @@ dev/AnnaBelewSentences.tsv -text
 dev/AnnaBelewWords.tsv -text
 dev/CShaughnessySentences.tsv -text
 dev/CShaughnessyWords.tsv -text
+dev/editdist.py -text
 dev/random.fra-byv-eng.txt -text
+dev/simple-coverage.sh -text
 dev/spellrelax.twol -text
 /modes.xml -text
 texts/compte.byv.txt -text
