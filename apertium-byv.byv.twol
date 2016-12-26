@@ -22,5 +22,8 @@ Vowel = a ǎ e é ə i ı o ô ɔ u ú ɑ ʉ
 
 Rules 
 
-"Remove suffix vowel with vowel-ending stem"
+"Rule 1"
 l:d <=> n %>: _ ;
+
+"Rule 2"
+h:0 <=> n %>: g _  ;
