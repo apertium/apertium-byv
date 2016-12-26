@@ -2,11 +2,16 @@ Alphabet
  a ǎ â b c ç d ɛ e é ə f g h i ı j k l m n ŋ o ô ɔ p q r s t u ú v w x y z ɑ ʉ ! α ε
  A Ǎ Â B C Ç D Ɛ E É Ə F G H   I J K L M N Ŋ O Ô Ɔ P Q R S T U Ú V W X Y Z Ɑ Ʉ ! Α Ε
 
-́
 ̀
+́
 ̂
-̆
 ̌
+
+ %{ˆ%}:̂       ! Ton descendent
+ %{ˇ%}:̌       ! Ton montant
+ %{ˋ%}:̀       ! Ton bas
+ %{ˊ%}:́       ! Ton haut
+
 
  %>:0  ;
 
@@ -18,4 +23,4 @@ Vowel = a ǎ e é ə i ı o ô ɔ u ú ɑ ʉ
 Rules 
 
 "Remove suffix vowel with vowel-ending stem"
-a:a <=> _ ;
+l:d <=> n %>: _ ;

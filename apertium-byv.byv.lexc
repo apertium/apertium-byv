@@ -38,6 +38,14 @@ Multichar_Symbols
 %<inf%>     ! Infinitif
 %<GD%>      ! Classe non connue
 
+%{ˆ%}       ! Ton descendent
+%{ˇ%}       ! Ton montant
+%{ˋ%}       ! Ton bas
+%{ˊ%}       ! Ton haut
+
+%[%+nasal%] ! 
+%[%+n%]     !
+
 %<sent%>    ! 
 %<cm%>      ! 
 %<quot%>    ! 
@@ -75,6 +83,7 @@ LEXICON N-cl1
 
 LEXICON N-cl3
 %<n%>%<cl3%>:   # ;
+%<n%>%<cl3%>%<pos%>:%{ˆ%}   # ;
 
 LEXICON N-cl5
 %<n%>%<cl5%>:   # ;
@@ -110,21 +119,46 @@ LEXICON ADJ
 LEXICON V 
 
 %<v%>: # ;
+%<v%>%<nasal%>%[%+nasal%]: # ;
 
 LEXICON V-YENE 
 
 %<v%>:ə # ;
-%<v%>%<past%>: # ;
+%<v%>: # ;
+%<v%>%<nasal%>%[%+nasal%]: # ;
 
 LEXICON V-JUʼU
 
 %<v%>:ʼu # ;
-%<v%>%<past%>:̂ʼ # ;
+%<v%>:%{ˆ%}ʼ # ;
+%<v%>%<nasal%>%[%+nasal%]: # ;
 
 LEXICON V-COBE
 
 %<v%>:bə # ;
-%<v%>%<past%>:b # ;
+%<v%>:b # ;
+%<v%>:%{ˆ%}b # ;
+%<v%>%<nasal%>%[%+nasal%]:b # ;
+
+LEXICON V-LENE
+
+%<v%>:̀nə # ;
+%<v%>:%{ˇ%}n # ;
+%<v%>:%{ˆ%}n # ;
+%<v%>%<nasal%>%[%+nasal%]:n # ;
+
+LEXICON V-NENO
+
+%<v%>:̀nɔ # ;
+%<v%>:%{ˇ%}n # ;
+%<v%>:%{ˆ%}n # ;
+%<v%>%<nasal%>%[%+nasal%]:n # ;
+
+LEXICON V-ZWI
+
+%<v%>:%{ˇ%} # ;
+%<v%>:%{ˆ%} # ;
+%<v%>%<nasal%>%[%+nasal%]: # ;
 
 LEXICON COP
 
@@ -142,6 +176,10 @@ LEXICON CS
 
 %<cnjsub%>: # ;
 
+LEXICON ADV
+
+%<adv%>: # ;
+
 LEXICON ADV-ITG
 
 %<adv%>%<itg%>: # ;
@@ -152,8 +190,10 @@ LEXICON PRON
 
 LEXICON PRON-POSS-OM
 
-%<prn%>%<pos%>:ɔm # ; !
-%<prn%>%<pos%>%<cl1%>:mɔm # ; ! Pronom  ?
+ɑm%<prn%>%<pos%>:ɑm # ; !
+ɑm%<prn%>%<pos%>:ɑm # ; !
+ɑm%<prn%>%<pos%>%<cl3%>:ɑb # ; !
+ɑm%<prn%>%<pos%>%<cl1%>:mɑm # ; ! Pronom  ?
 
 LEXICON PRON-PERS-NOM
 
@@ -166,6 +206,10 @@ LEXICON PRON-PERS-ACC
 LEXICON PRON-PERS
 
 %<prn%>%<pers%>: # ;
+
+LEXICON PRON-ITG
+
+%<prn%>%<itg%>: # ;
 
 LEXICON INTERJ
 
@@ -194,6 +238,12 @@ àʼ%<fut%>:àʼ # ;
 zə̀%<rel%>:zə̀ # ; 
 ki%<qst%>:ki # ;
 cwɛ̌d%<prog%>:cwɛ̌d # ;
+bə̂%<foc%>:bə̂ # ;
+! P¹
+lò%<past%>:lò # ; ! P²
+! P³
+! P⁴
+! P⁵
 
 LEXICON Conjonctions 
 
@@ -202,7 +252,7 @@ mbə:mbə CS ; ! "que"
 
 LEXICON Prepositions 
 
-mbàŋ:mbàŋ PREP ; ! "à côté de"
+mbaŋ:mbaŋ PREP ; ! "à côté de"
 nyàm:nyàm PREP ; ! "deriere"
 ntʉ̂m:ntʉ̂m PREP ; ! "sur"
 mbwə:mbwə PREP ; ! "devant"
@@ -210,14 +260,18 @@ mbwə:mbwə PREP ; ! "devant"
 LEXICON Pronoms
 
 mə:mə PRON-PERS-NOM ; ! "je"
-bo:bo PRON-PERS-NOM ; ! "ils"
 a:a PRON-PERS-NOM ;   ! "il/elle"
 u:u PRON-PERS ; 
 i:i PRON-PERS ; 
 yi:yi PRON-PERS-ACC ; 
 wʉ̀:wʉ̀ PRON-PERS ; 
 
+bǐn:bǐn PRON-PERS ; ! "vous"
+bo:bo PRON-PERS-NOM ; ! "ils"
+
 PRON-POSS-OM ; 
+
+kə:kə PRON-ITG ; ! "que, quoi, qu'est ce que" 
 
 LEXICON Determiners 
 
@@ -262,7 +316,6 @@ mbɛmbɛnə:mbɛnmbɛnə N-cl1 ; ! "caffard"
 mbʉ:mbʉ  N-cl1 ; ! "chien"
 mvɛd:mvɛd N-cl4 ; ! "huile"
 mvɛ̀n:mvɛ̀n N-cl1 ; ! "dos"
-mɑ:mɑ  N-cl3 ; ! "mere"
 mə̀bwɔ:mə̀bwɔ  N-cl3 ; ! "bien"
 mɛn:mɛn N-cl1 ; ! "enfant"
 bon:bon N-cl6 ; ! "enfants"
@@ -345,7 +398,6 @@ màd:màd  N-cl1 ; ! "habitude"
 gha:gha Ninf ; ! "Bangante"
 fà:fà N-cl5 ; ! "accident"
 nyǎŋtu:nyǎŋtu  N-cl6 ; ! "cheveux"
-ka:ka  N-cl1 ; ! "assiete"
 sa:sa N-cl5 ; ! "jeu"
 
 bʉn:bʉn Ninf ; ! ""
@@ -397,9 +449,13 @@ vogə:vogə Ninf ; ! ""
 zwiɑ̀g:zwiɑ̀g Ninf ; ! ""
 mɑnndùm:mɑnndùm Ninf ; ! "homme"
 bùsi:bùsi Ninf ; ! "chat"
+bàʼ:bàʼ Ninf ; ! "maison"
+
+mɑ:mɑ  N-cl3 ; ! "mere" 
 
 ngùʼ:ngùʼ N-cl3 ; ! "an"
 ŋjʉ:ŋjʉ Ninf ; ! "temps" ! njʉ (?)
+ka:ka  N-cl1 ; ! "assiete" ! ká (?)
 
 
 LEXICON ProperNouns 
@@ -426,14 +482,27 @@ LEXICON Adverbes
 
 yɑ:yɑ ADV-ITG ; ! "où"
 
+bə̂:bə̂ ADV ; ! "toujours"
+
 LEXICON Verbes
 
+%[%+n%]:n%> Radicales ;
+            Radicales ;
+
  COP ; ! "être"
+
+LEXICON Radicales
 
 yənə:yən V-YENE ; ! "voir"
 juʼu:ju V-JUʼU ; ! "entendre"
 cobə:co V-COBE ; ! "dire"
+lɛ̀nə:lɛ V-LENE ; ! "savoir"
+zìnə:zì V-LENE ; ! "marcher"
+nɛnɔ:nɛ V-NENO ; ! "aller"
+zwǐ:zwi V-ZWI ; ! "rire"
 
+lɔtə:lɔtə V ; ! "regarder"
+kwatə:kwatə V ; ! "penser"
 bagte:bagtə V ; ! "gater"
 bə̌:bə̌ V ; ! "pencher"
 fàʼa:faʼa V ; ! "travailler"
@@ -460,10 +529,11 @@ yǐ:yǐ V ; ! "voler"
 ywiʼi:ywiʼi V ; ! "vomir"
 ziʼtə:ziʼtə V ; ! "apprendre"
 zwi:zwi V ; ! "tuer"
-zwǐ:zwǐ V ; ! "rire"
-kɔ̌:kɔ̌ V ; ! "aimer"
 ghʉ̌:ghʉ̌ V ; ! "faire"
 ghʉ:ghʉ V ; ! "avoir"
+
+kɔ̌:kɔ̌ V ; ! "aimer"
+
 
 LEXICON Nombres
 

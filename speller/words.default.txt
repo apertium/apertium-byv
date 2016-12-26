@@ -1,0 +1,4 @@
+# Add complete words here as misspelling:correct followed by a TAB and the
+# weight:
+#jih:jïh	0.0
+ghə̌:ghʉ̌	0.0
