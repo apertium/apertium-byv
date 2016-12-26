@@ -19,6 +19,7 @@ Multichar_Symbols
 %<prog%>    ! 
 %<itg%>     ! 
 %<ind%>     ! 
+%<dem%>     ! 
 %<prn%>     ! Pronom
 %<v%>       ! Verbe
 %<past%>    ! 
@@ -174,6 +175,13 @@ LEXICON DET-IND
 
 %<det%>%<ind%>: # ;
 
+LEXICON DET-DEM 
+
+yə̂n%<det%>%<dem%>%<cl1%>:yə̂n # ; ! "ce"
+yə̂n%<det%>%<dem%>%<cl6%>:cə̂n # ; ! "ces"
+yə̂nna%<det%>%<dem%>%<cl1%>:yə̂nna # ; ! "ça"
+yə̂nna%<det%>%<dem%>%<cl1%>:cə̂nna # ; ! "ça"
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON Miscellaneous
@@ -201,8 +209,9 @@ mbwə:mbwə PREP ; ! "devant"
 
 LEXICON Pronoms
 
-mə:mə PRON-PERS-NOM ; 
-a:a PRON-PERS-NOM ; 
+mə:mə PRON-PERS-NOM ; ! "je"
+bo:bo PRON-PERS-NOM ; ! "ils"
+a:a PRON-PERS-NOM ;   ! "il/elle"
 u:u PRON-PERS ; 
 i:i PRON-PERS ; 
 yi:yi PRON-PERS-ACC ; 
@@ -213,6 +222,8 @@ PRON-POSS-OM ;
 LEXICON Determiners 
 
 tàʼ:tàʼ DET-IND ; ! "un" (eng. "a, an")
+
+DET-DEM  ; ! "ce, ces"
 
 LEXICON Nouns
 
@@ -254,6 +265,7 @@ mvɛ̀n:mvɛ̀n N-cl1 ; ! "dos"
 mɑ:mɑ  N-cl3 ; ! "mere"
 mə̀bwɔ:mə̀bwɔ  N-cl3 ; ! "bien"
 mɛn:mɛn N-cl1 ; ! "enfant"
+bon:bon N-cl6 ; ! "enfants"
 mɛnntʉ̀n:mɛ̀nntʉ̀n  N-cl3; ! "personne"
 mɛ̀n% nyǎŋtu:mɛ̀n% nyǎŋtu  N-cl3; ! "humain"
 mɛ̀n:mɛ̀n  N-cl3 ; ! "personne"
@@ -334,6 +346,7 @@ gha:gha Ninf ; ! "Bangante"
 fà:fà N-cl5 ; ! "accident"
 nyǎŋtu:nyǎŋtu  N-cl6 ; ! "cheveux"
 ka:ka  N-cl1 ; ! "assiete"
+sa:sa N-cl5 ; ! "jeu"
 
 bʉn:bʉn Ninf ; ! ""
 cu:cu Ninf ; ! ""
@@ -385,8 +398,9 @@ zwiɑ̀g:zwiɑ̀g Ninf ; ! ""
 mɑnndùm:mɑnndùm Ninf ; ! "homme"
 bùsi:bùsi Ninf ; ! "chat"
 
+ngùʼ:ngùʼ N-cl3 ; ! "an"
 ŋjʉ:ŋjʉ Ninf ; ! "temps" ! njʉ (?)
-sa:sa N-cl5 ; ! "jeu"
+
 
 LEXICON ProperNouns 
 
@@ -449,6 +463,7 @@ zwi:zwi V ; ! "tuer"
 zwǐ:zwǐ V ; ! "rire"
 kɔ̌:kɔ̌ V ; ! "aimer"
 ghʉ̌:ghʉ̌ V ; ! "faire"
+ghʉ:ghʉ V ; ! "avoir"
 
 LEXICON Nombres
 
