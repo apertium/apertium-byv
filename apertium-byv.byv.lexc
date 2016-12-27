@@ -160,6 +160,7 @@ LEXICON V-Ə
 %<v%>:ə%{ˊ%} # ;
 %<v%>:%>%{↘%} # ;
 %<v%>:%>%{↗%} # ;
+%<v%>%<deriv%>:tə%{ˊ%}%>%{↓%} # ;
 %<v%>%<consec%>%[%+nasal%]: # ;
 %<v%>%<consec%>%[%+nasal%]:%>%{↘%} # ;
 %<v%>%<consec%>%[%+nasal%]:%>%{↓%} # ;
@@ -275,7 +276,7 @@ ki%<qst%>:ki # ;
 !mə - Adverbialiser
 
 kə̂ʼ%<neg%>:kə̂ʼ # ;
-!kə̀%<neg%>:kə̀  # ;
+kə̀%<neg%>:kə̀  # ;
 nə̀%<inf%>:nə̀ # ;
 àʼ%<fut%>:àʼ # ;
 cwɛ̌d%<prog%>:cwɛ̌d # ;
@@ -464,16 +465,20 @@ Marie:Marie NP-ANT-F ; ! ""
 
 LEXICON Adjectifs
 
-bǎ:ba%{ˇ%} ADJ ; ! "rouge"
 dumə:du%{ˊ%}mə%{ˊ%} ADJ ; ! "chaud"
 fi:fi%{ˊ%} ADJ ; ! "froid"
-fogə:fo%{ˊ%}gə%{ˊ%} ADJ ; ! "blanc"
+
 mətòʼ:mə%{ˊ%}to%{ˋ%}ʼ ADJ ; ! "petit"
-nyìnnyìn:nyi%{ˋ%}nyi%{ˋ%}n ADJ ; ! "muliticolor"
-sɛnə:sɛ%{ˊ%}nə%{ˊ%} ADJ ; ! "noire"
-dʉtə̂:dʉ%{ˊ%}tə ADJ ; ! "sucré"
 ndʉb:ndʉ%{ˊ%}b ADJ ; ! "grand"
+dʉtə̂:dʉ%{ˊ%}tə ADJ ; ! "sucré"
 ndàʼndǎʼ:nda%{ˋ%}ʼnda%{ˇ%}ʼ ADJ ; ! "lent"
+
+nyìnnyìn:nyi%{ˋ%}nyi%{ˋ%}n ADJ ; ! "muliticolor"
+
+bǎ:ba%{ˇ%} ADJ ; ! "rouge"
+fogə:fo%{ˊ%}gə%{ˊ%} ADJ ; ! "blanc"
+sɛnə:sɛ%{ˊ%}nə%{ˊ%} ADJ ; ! "noire"
+nə̀nɑ̀% fi:nə%{ˋ%}nɑ%{ˋ%}% fi%{ˊ%} ADJ ; ! "vert"
 
 LEXICON Adverbes 
 
@@ -506,6 +511,7 @@ ghʉ̌:ghʉ%{ˇ%} V ; ! "faire"
 !kɔ:kɔ%{ˊ%} V ; ! "monter"
 səʼ:sə%{ˊ%}ʼ V ; ! "venir"
 nu:nu%{ˊ%} V ; ! "boire"
+juʼu:ju%{ˊ%}ʼ V ; ! "écouter, entendre"
 
 diɑgə:diɑ%{ˊ%}g V-Ə ; ! "chercher"
 lɛnə:lɛ%{ˊ%}n V-Ə ; ! "savoir"
