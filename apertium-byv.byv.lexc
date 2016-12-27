@@ -257,6 +257,7 @@ LEXICON Miscellaneous
 
 ɑ̂%<foc%>:ɑ̂ # ;
 bə̂%<foc%>:bə̂ # ;
+lɑ%<foc%>:lɑ%{ˊ%} # ; 
 
 zə̀%<rel%>:zə̀ # ; 
 ki%<qst%>:ki # ;
@@ -330,6 +331,7 @@ bə̀lòŋ:bə%{ˋ%}lo%{ˋ%}ŋ N-5-5 ; ! "patate"
 kù:ku%{ˋ%} N-3-4 ; ! "pied"
 bu:bu%{ˊ%} N-3-4 ; ! "main"
 tòŋ:to%{ˋ%}ŋ N-3-4 ; ! "oreille"
+tu:tu%{ˊ%} N-1-4 ; ! "tête
 
 mɛn:mɛ%{ˊ%}n N-3 ; ! "enfant"
 mɛn:bo%{ˊ%}n N-6 ; ! "enfants"
@@ -349,6 +351,7 @@ bəbunə:bə%{ˊ%}bunə%{ˊ%} N-4 ; ! "statuette"
 bubu:bu%{ˊ%}bu%{ˊ%} N-5 ; ! "papaye"
 buma:bu%{ˊ%}ma%{ˊ%} N-1 ; ! "orange"
 bun:bu%{ˊ%}n N-5 ; ! "mammelle"
+bə̀nntʉ̀n:bə%{ˋ%}nntʉ%{ˋ%}n N-6 ; ! "gens"
 
 caŋ:ca%{ˊ%}ŋ N-X ; ! "alimentation"
 cɛ̌dkù:cɛ%{ˇ%}dku%{ˋ%} N-1 ; ! "souris"
@@ -380,6 +383,7 @@ mbùʼ:mbu%{ˋ%}ʼ  N-1 ; ! "valise"
 mbwə:mbwə%{ˊ%} N-5 ; ! "chévre"
 mbàʼsaʼ:mba%{ˋ%}ʼsaʼ N-1 ; ! "avocat"
 mbɛmbɛnə:mbɛ%{ˊ%}mbɛ%{ˊ%}nə%{ˊ%} N-1 ; ! "caffard"
+mbʉ̀ntə:mbʉ%{ˋ%}ntə%{ˊ%} N-1 ; ! "reponse"
 mvɛd:mvɛ%{ˊ%}d N-4 ; ! "huile"
 mvɛ̀n:mvɛ%{ˋ%}n N-1 ; ! "dos"
 mɑ:mɑ%{ˊ%} N-3 ; ! "mère"
@@ -407,7 +411,6 @@ sɔ̀:sɔ%{ˋ%}  N-5 ; ! "dent"
 sə:sə%{ˊ%}  N-1; ! "visage"
 
 tɑ:tɑ%{ˊ%} N-3 ; ! "père"
-tu:tu%{ˊ%} N-1 ; ! "tête
 tubu:tu%{ˊ%}b%{ˊ%} N-3 ; ! "doit"
 tǔnndɑ:tu%{ˇ%}nndɑ N-1 ; ! "famille"
 tʉ:tʉ%{ˊ%} N-5 ; ! "arbre"
@@ -456,12 +459,14 @@ ghʉ̌:ghʉ%{ˇ%} V ; ! "faire"
 jʉ:jʉ%{ˊ%} V ; ! "manger"
 tswə:tswə%{ˊ%} V ; ! "s'assier"
 tə:tə%{ˊ%} V ; ! "mettre"
+zwǐ:zwi%{ˇ%} V ; ! "rire"
 
 diɑgə:diɑ%{ˊ%}g V-Ə ; ! "chercher"
 cobə:co%{ˊ%}b V-Ə ; ! "dire"
 yənə:yə%{ˊ%}n V-Ə ; ! "regarder, voir"
 bɛnə:bɛ%{ˊ%}n V-Ə ; ! "rentrer"
 tamə:ta%{ˊ%}m V-Ə ; ! ""
+nɛnə:nɛ%{ˊ%}n V-Ə ; ! "aller"
 
 tʉntə:tʉ%{ˊ%}n V-TƏ ; ! "compter"
 lɔtə:lɔ%{ˊ%} V-TƏ ; ! "regarder"
