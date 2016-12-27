@@ -40,11 +40,15 @@ Multichar_Symbols
 %<cl5%>     ! Classe V
 %<cl6%>     ! Classe VI
 %<inf%>     ! Infinitif
+
+%<ND%>      ! Nombre non connue
 %<GD%>      ! Classe non connue
 
 %<nom%>
 %<acc%>
 %<nasal%>
+
+%{N%}       ! n, m
 
 %{ˆ%}       ! Ton descendent
 %{ˇ%}       ! Ton montant
@@ -52,6 +56,8 @@ Multichar_Symbols
 %{ˊ%}       ! Ton haut
 
 %{↘%}       ! 
+%{↗%}       ! 
+%{↓%}       ! 
 
 %[%+nasal%] ! 
 %[%+n%]     !
@@ -68,16 +74,13 @@ LEXICON Root
 
 Miscellaneous ;
 Conjonctions ;
-Nouns ;
 ProperNouns ;
-Verbes ;
 Adverbes ;
 Determiners ;
 Pronoms ;
 Adjectifs ;
 Nombres ;
 Prepositions ;
-
 Prefixes ;
 Interjections ;
 Punctuation ;
@@ -105,9 +108,139 @@ LEXICON N-5-5
 %<n%>%<cl5%>%<sg%>%<pos%>:%>%{↘%} # ;
 %<n%>%<cl5%>%<pl%>%<pos%>:%>%{↘%} # ;
 
+LEXICON N-1
+
+%<n%>%<cl1%>%<sg%>: # ;
+%<n%>%<cl1%>%<sg%>%<pos%>:%>%{↘%} # ;
+
+LEXICON N-3
+
+%<n%>%<cl3%>%<sg%>: # ;
+%<n%>%<cl3%>%<sg%>%<pos%>:%>%{↘%} # ;
+
+LEXICON N-4
+
+%<n%>%<cl4%>%<ND%>: # ;
+%<n%>%<cl4%>%<ND%>%<pos%>:%>%{↘%} # ;
+
+LEXICON N-5
+
+%<n%>%<cl5%>%<ND%>: # ;
+%<n%>%<cl5%>%<ND%>%<pos%>:%>%{↘%} # ;
+
+LEXICON N-6
+
+%<n%>%<cl6%>%<pl%>: # ;
+%<n%>%<cl6%>%<pl%>%<pos%>:%>%{↘%} # ;
+
+LEXICON N-X
+
+%<n%>%<GD%>%<ND%>: # ;
+%<n%>%<GD%>%<ND%>%<pos%>:%>%{↘%} # ;
+
+LEXICON N-X-X
+
+%<n%>%<GD%>%<sg%>: # ;
+%<n%>%<GD%>%<pl%>: # ;
+%<n%>%<GD%>%<sg%>%<pos%>:%>%{↘%} # ;
+%<n%>%<GD%>%<pl%>%<pos%>:%>%{↘%} # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON V
+
+%<v%>: # ;
+%<v%>%<nasal%>%[%+nasal%]: # ;
+%<v%>%<nasal%>%[%+nasal%]:%>%{↘%} # ;
+
+LEXICON V-Ə
+
+%<v%>: # ;
+%<v%>:ə%{ˊ%} # ;
+%<v%>:%>%{↘%} # ;
+%<v%>:%>%{↗%} # ;
+%<v%>%<nasal%>%[%+nasal%]: # ;
+%<v%>%<nasal%>%[%+nasal%]:%>%{↘%} # ;
+%<v%>%<nasal%>%[%+nasal%]:%>%{↓%} # ;
+
+LEXICON V-TƏ
+
+%<v%>: # ;
+%<v%>:tə%{ˊ%} # ;
+%<v%>:tə%{ˊ%}%>%{↓%} # ;
+%<v%>:%>%{↘%} # ;
+%<v%>:%>%{↗%} # ;
+%<v%>%<nasal%>%[%+nasal%]: # ;
+%<v%>%<nasal%>%[%+nasal%]:%>%{↘%} # ;
+%<v%>%<nasal%>%[%+nasal%]:%>%{↓%} # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRON-PERS 
+
+%<prn%>%<pers%>: # ;
+
+LEXICON NP-ANT-F
+
+%<np%>%<ant%>%<f%>: # ;
+
+LEXICON NP-ANT-M
+
+%<np%>%<ant%>%<m%>: # ;
+
+LEXICON NP-TOP 
+
+%<np%>%<top%>: # ;
+
+LEXICON ADV-ITG
+
+%<adv%>%<itg%>: # ; 
+
+LEXICON ADV
+
+%<adv%>: # ; 
+
+LEXICON CC
+
+%<cnjcoo%>: # ; 
+
+LEXICON CS
+
+%<cnjsub%>: # ; 
+
+LEXICON PREP
+
+%<pr%>: # ; 
+
 LEXICON INTERJ 
 
 %<ij%>: # ; 
+
+LEXICON ADJ
+
+%<adj%>: # ; 
+
+LEXICON NUM 
+
+%<num%>: # ; 
+
+LEXICON DET-IND 
+
+%<det%>%<ind%>: # ;
+
+LEXICON DET-DEM 
+
+yə̂n%<det%>%<dem%>%<cl1%>:yə̂n # ; ! "ce"
+yə̂n%<det%>%<dem%>%<cl6%>:cə̂n # ; ! "ces"
+yə̂nna%<det%>%<dem%>%<cl1%>:yə̂nna # ; ! "ça"
+yə̂nna%<det%>%<dem%>%<cl1%>:cə̂nna # ; ! "ça"
+
+LEXICON PRON-POSS 
+
+ɑm%<prn%>%<pos%>%<cl1%>:ɑm # ; !
+ɑb%<prn%>%<pos%>%<cl3%>:ɑb # ; !
+yub%<prn%>%<pos%>%<cl3%>:yub # ; ! 
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -115,15 +248,223 @@ LEXICON INTERJ
 
 LEXICON Prefixes
 
-%[%+n%]:n%> Noms ;
-            Noms ;
+%[%+n%]:%{N%}%> Noms ;
+                Noms ;
+%[%+n%]:%{N%}%> Verbes ;
+                Verbes ;
+
+LEXICON Miscellaneous
+
+ɑ̂%<foc%>:ɑ̂ # ;
+bə̂%<foc%>:bə̂ # ;
+
+zə̀%<rel%>:zə̀ # ; 
+ki%<qst%>:ki # ;
+
+kə̂ʼ%<neg%>:kə̂ʼ # ;
+!kə̀%<neg%>:kə̀  # ;
+nə̀%<inf%>:nə̀ # ;
+àʼ%<fut%>:àʼ # ;
+cwɛ̌d%<prog%>:cwɛ̌d # ;
+
+! P¹
+lò%<past%>:lò # ; ! P²
+! P³
+! P⁴
+! P⁵
+
+bə%<cop%>%<pres%>:bə # ;
+
+LEXICON Conjonctions 
+
+bô:bo%{ˆ%} CC ; ! "et"
+mbə:mbə%{ˊ%} CS ; ! "que"
+
+LEXICON Prepositions 
+
+mbaŋ:mba%{ˊ%}ŋ PREP ; ! "à côté de"
+nyàm:nya%{ˋ%}m PREP ; ! "deriere"
+ntʉ̂m:ntʉ%{ˆ%}m PREP ; ! "sur"
+mbwə:mbwə%{ˊ%} PREP ; ! "devant"
+bô:bo%{ˆ%} PREP ;     ! "avec"
+
+LEXICON Pronoms
+
+mə:mə%{ˊ%} PRON-PERS ;   ! "je"
+mə̀:mə%{ˋ%} PRON-PERS ;   ! 
+a:a%{ˊ%} PRON-PERS ;     ! "il/elle"
+u:u%{ˊ%} PRON-PERS ;     ! 
+i:i%{ˊ%} PRON-PERS ;     ! 
+yi:yi%{ˊ%} PRON-PERS ;   !
+wʉ̀:wʉ%{ˋ%} PRON-PERS ;   !
+bǐn:bi%{ˇ%}n PRON-PERS ; ! "vous"
+bo:bo%{ˊ%} PRON-PERS ;   ! "ils"
+
+0:0 PRON-POSS ; !
+
+LEXICON Determiners 
+
+tàʼ:ta%{ˋ%}ʼ DET-IND ; ! "un" (eng. "a, an")
+
+0:0 DET-DEM ; 
+
+LEXICON Nombres
+
+bɑ̌nbɑn:bɑ%{ˇ%}nbɑ%{ˊ%}n NUM ; ! "zero"
+ncʉʼ:ncʉ%{ˊ%}ʼ NUM ; ! "un" 
+bɑhɑ:bɑ%{ˊ%}hɑ%{ˊ%} NUM ; ! "deux"
+tad:ta%{ˊ%}d NUM ; ! "trois"
+kuɑ̀:kuɑ%{ˋ%} NUM ; ! "quatre"
+tɑn:tɑ%{ˊ%}n NUM ; ! "cinq"
+ntogə:nto%{ˊ%}gə%{ˊ%} NUM ; ! "six"
+sɑ̀mmbɑhɑ:sɑ%{ˋ%}mmbɑ%{ˊ%}hɑ%{ˊ%} NUM ; ! "sept"
+fomə:fo%{ˊ%}mə%{ˊ%} NUM ; ! "huit"
+bwə̀ʼə:bwə%{ˋ%}ʼə%{ˊ%}  NUM ; ! "neuf"
+gham:gha%{ˊ%}m NUM ; ! "dix"
 
 LEXICON Noms 
 
 ka:ka%{ˊ%} N-1-4 ; ! "assiette"
 cɔ̀:cɔ%{ˋ%} N-5-5 ; ! "histoire"
-bə̀lòŋ:bə{ˋ%}lo{ˋ%}ŋ N-5-5 ; ! "patate"
+bə̀lòŋ:bə%{ˋ%}lo%{ˋ%}ŋ N-5-5 ; ! "patate"
 kù:ku%{ˋ%} N-3-4 ; ! "pied"
+bu:bu%{ˊ%} N-3-4 ; ! "main"
+tòŋ:to%{ˋ%}ŋ N-3-4 ; ! "oreille"
+
+mɛn:mɛ%{ˊ%}n N-3 ; ! "enfant"
+mɛn:bo%{ˊ%}n N-6 ; ! "enfants"
+mɛ̀n:mɛ%{ˋ%}n N-1 ; ! "personne"
+mɛ̀n:bənntʉ%{ˋ%}n N-6 ; ! "personnes"
+
+mbʉ:mbʉ%{ˊ%} N-1 ; ! "chien"
+mbʉ:bɑ%{ˋ%}% mbʉ%{ˊ%} N-6 ; ! "chiens"
+
+bùsi:bu%{ˋ%}si%{ˊ%} N-X-X ; ! "chat"
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+bàʼ:ba%{ˋ%}ʼ N-X ; ! "maison"
+bàm:ba%{ˋ%}m N-5 ; ! "ventre"
+bəbunə:bə%{ˊ%}bunə%{ˊ%} N-4 ; ! "statuette"
+bubu:bu%{ˊ%}bu%{ˊ%} N-5 ; ! "papaye"
+buma:bu%{ˊ%}ma%{ˊ%} N-1 ; ! "orange"
+bun:bu%{ˊ%}n N-5 ; ! "mammelle"
+
+caŋ:ca%{ˊ%}ŋ N-X ; ! "alimentation"
+cɛ̌dkù:cɛ%{ˇ%}dku%{ˋ%} N-1 ; ! "souris"
+com:co%{ˊ%}m N-5 ; ! "safrou, prune"
+cwɛd:cwɛ%{ˊ%}d N-3 ; ! "champ"
+
+fà:fa%{ˋ%} N-5 ; ! "accident"
+fu:fu%{ˊ%} N-5 ; ! "reméde
+
+ju:ju%{ˊ%} N-X ; ! "chose"
+
+kâtu:ka%{ˆ%}tu N-3 ; ! "crane"
+kə̀bwɔ̀:kə%{ˋ%}bwɔ%{ˋ%} N-1 ; ! "mal"
+kə̀lɔ̀:kə%{ˋ%}lɔ%{ˋ%} N-5 ; ! "banane"
+kə̀nà:kə%{ˋ%}na%{ˋ%} N-1 ; ! "arrachide"
+ki:ki%{ˊ%} N-1 ; ! "clé"
+
+lag:la%{ˊ%}g N-5 ; ! "oeil"
+laʼ:la%{ˊ%}ʼ N-5 ; ! "village"
+lɛn:lɛ%{ˊ%}n N-1 ; ! "nom"
+
+màd:ma%{ˋ%}d N-1 ; ! "habitude"
+mba:mba%{ˊ%} N-1 ; ! "marmite"
+mbà:mba%{ˋ%} N-1 ; ! "noix"
+mbâkù:mba%{ˆ%}ku%{ˋ%} N-3 ; ! "cheville"
+mbì:mbi%{ˋ%} N-1 ; ! "foi"
+mbogə:mbo%{ˊ%}gə%{ˊ%} N-1 ; ! "feu"
+mbùʼ:mbu%{ˋ%}ʼ  N-1 ; ! "valise"
+mbwə:mbwə%{ˊ%} N-5 ; ! "chévre"
+mbàʼsaʼ:mba%{ˋ%}ʼsaʼ N-1 ; ! "avocat"
+mbɛmbɛnə:mbɛ%{ˊ%}mbɛ%{ˊ%}nə%{ˊ%} N-1 ; ! "caffard"
+mvɛd:mvɛ%{ˊ%}d N-4 ; ! "huile"
+mvɛ̀n:mvɛ%{ˋ%}n N-1 ; ! "dos"
+mɑ:mɑ%{ˊ%} N-3 ; ! "mère"
+mɑnndùm:mɑnndu%{ˋ%}m N-X ; ! "homme"
+mə̀bwɔ:mə%{ˋ%}bwɔ%{ˊ%}  N-3 ; ! "bien"
+
+ncù:ncu%{ˋ%} N-3 ; ! "bouche"
+ndùʼ:ndu%{ˋ%}ʼ N-4 ; ! "bier"
+ngɔ̀:ngɔ%{ˋ%} N-3 ; ! "monde"
+ngə̀bə̀ʼ:ngə%{ˋ%}bə%{ˋ%}ʼ  N-3 ; ! "épaule"
+ngùʼ:ngu%{ˋ%}ʼ N-3 ; ! "an"
+nkɑb:nkɑ%{ˊ%}b N-1 ; ! "argent"
+nkib:nki%{ˊ%}b  N-1 ; ! "ongle"
+njʉ:njʉ%{ˊ%} N-X ; ! "temps"
+ntsə:ntsə%{ˊ%} N-4 ; ! "eau"
+ntʉ:ntʉ%{ˊ%} N-1 ; ! "coeur"
+nyam:nya%{ˊ%}m   N-3 ; ! "soleil"
+nyǎŋtu:nya%{ˇ%}ŋtu%{ˊ%}  N-6 ; ! "cheveux"
+nyɑ̀m:nyɑ%{ˋ%}m N-X ; ! "animal"
+
+sa:sa%{ˊ%} N-5 ; ! "jeu"
+saŋ:sa%{ˊ%}ŋ N-X ; ! "oiseau"
+sog:so%{ˊ%}g  N-5 ; ! "piment"
+sɔ̀:sɔ%{ˋ%}  N-5 ; ! "dent"
+sə:sə%{ˊ%}  N-1; ! "visage"
+
+tɑ:tɑ%{ˊ%} N-3 ; ! "père"
+tu:tu%{ˊ%} N-1 ; ! "tête
+tubu:tu%{ˊ%}b%{ˊ%} N-3 ; ! "doit"
+tǔnndɑ:tu%{ˇ%}nndɑ N-1 ; ! "famille"
+tʉ:tʉ%{ˊ%} N-5 ; ! "arbre"
+
+wud:wu%{ˊ%}d N-1 ; ! "corp"
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON ProperNouns 
+
+Kamərun:Ka%{ˊ%}mə%{ˊ%}ru%{ˊ%}n NP-TOP ; ! "Cameroon"
+Yɑùndè:Yɑu%{ˋ%}nde%{ˋ%} NP-TOP ; ! ""
+Ngadou:Ngadou  NP-ANT-M ; ! "Ngadou"
+Nsi:Nsi%{ˊ%}  NP-ANT-M ; ! "Dieu"
+Yɛsɔ:Yɛsɔ%{ˊ%}  NP-ANT-M ; ! "Jesus"
+Jean:Jean  NP-ANT-M ; ! ""
+Marie:Marie NP-ANT-F ; ! ""
+
+LEXICON Adjectifs
+
+bǎ:ba%{ˇ%} ADJ ; ! "rouge"
+dumə:du%{ˊ%}mə%{ˊ%} ADJ ; ! "chaud"
+fi:fi%{ˊ%} ADJ ; ! "froid"
+fogə:fo%{ˊ%}gə%{ˊ%} ADJ ; ! "blanc"
+mətòʼ:mə%{ˊ%}to%{ˋ%}ʼ ADJ ; ! "petit"
+nyìnnyìn:nyi%{ˋ%}nyi%{ˋ%}n ADJ ; ! "muliticolor"
+sɛnə:sɛ%{ˊ%}nə%{ˊ%} ADJ ; ! "noire"
+dʉtə̂:dʉ%{ˊ%}tə ADJ ; ! "sucré"
+ndʉb:ndʉ%{ˊ%}b ADJ ; ! "grand"
+
+LEXICON Adverbes 
+
+yɑ:yɑ%{ˊ%} ADV-ITG ; ! "où"
+
+nə̀shù:nə%{ˋ%}shu%{ˋ%} ADV ; ! "beaucoup, trop, très" !@!
+sɛn:sɛ%{ˊ%}n ADV ; ! "aujourd'hui"                   !@!
+
+bə̂:bə%{ˆ%} ADV ; ! "toujours"
+
+LEXICON Verbes
+
+zi:zi%{ˊ%} V ; ! "dormir"
+lɛ̌n:lɛ%{ˇ%}n V ; ! "savoir"
+kɔ̌:kɔ%{ˇ%} V ; ! "aimer"
+ghʉ̌:ghʉ%{ˇ%} V ; ! "faire"
+jʉ:jʉ%{ˊ%} V ; ! "manger"
+tswə:tswə%{ˊ%} V ; ! "s'assier"
+tə:tə%{ˊ%} V ; ! "mettre"
+
+diɑgə:diɑ%{ˊ%}g V-Ə ; ! "chercher"
+cobə:co%{ˊ%}b V-Ə ; ! "dire"
+yənə:yə%{ˊ%}n V-Ə ; ! "regarder, voir"
+bɛnə:bɛ%{ˊ%}n V-Ə ; ! "rentrer"
+tamə:ta%{ˊ%}m V-Ə ; ! ""
+
+tʉntə:tʉ%{ˊ%}n V-TƏ ; ! "compter"
+lɔtə:lɔ%{ˊ%} V-TƏ ; ! "regarder"
 
 LEXICON Interjections
 

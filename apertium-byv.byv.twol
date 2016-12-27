@@ -1,6 +1,6 @@
 Alphabet
- a ǎ â b c ç d ɛ e é ə f g h i ı j k l m n ŋ o ô ɔ p q r s t u ú v w x y z ɑ ʉ ! α ε
- A Ǎ Â B C Ç D Ɛ E É Ə F G H   I J K L M N Ŋ O Ô Ɔ P Q R S T U Ú V W X Y Z Ɑ Ʉ ! Α Ε
+ a ǎ â b c ç d ɛ e é ə f g h i ı j k l m n ŋ o ô ɔ p q r s t u ú v w x y z ɑ ʉ ʼ ! α ε
+ A Ǎ Â B C Ç D Ɛ E É Ə F G H   I J K L M N Ŋ O Ô Ɔ P Q R S T U Ú V W X Y Z Ɑ Ʉ ʼ ! Α Ε
 
 ̀
 ́
@@ -13,6 +13,11 @@ Alphabet
  %{ˊ%}:0      ! Ton haut
 
  %{↘%}:0      !
+ %{↗%}:0      !
+ %{↓%}:0      !
+
+
+ %{N%}:n      ! 
 
  %>:0  ;
 
@@ -21,19 +26,33 @@ Sets
 Vow =   a ǎ e é ə i ı o ô ɔ u ú ɑ ʉ
         A Ǎ E É Ə I I O Ô Ɔ U Ú Ɑ Ʉ   ;
 
-Cns =   b c ç d f g h j k l m n ŋ p q r s t v w x y z 
-        B C Ç D F G H J K L M N Ŋ P Q R S T V W X Y Z ;
+Cns =   b c ç d f g h j k l m n ŋ p q r s t v w x y z ʼ
+        B C Ç D F G H J K L M N Ŋ P Q R S T V W X Y Z   ;
 
 Rules 
 
 "Tone in possessive"
-Tx:Ty <=> _ ([ :Cns | :0 ]*) %>: %{↘%}: ; 
+Tx:Ty <=> _ (:Cns) %>: %{↘%}: ; 
       where Tx in ( %{ˋ%}  %{ˊ%}  )
             Ty in (   ̌       ̂     ) 
       matched;
 
-"Rule 1"
-l:d <=> n %>: _ ;
+"High to low tone"
+Tx:Ty <=> _ (:Cns) %>: %{↓%}: ; 
+      where Tx in (   %{ˊ%}  )
+            Ty in (      ̀    ) 
+      matched;
 
-"Rule 2"
-h:0 <=> n %>: g _  ;
+! {N}:m >:0 b ɛ {ˊ}: n:n >:0 {↓}:0
+
+"Nasal assimilation"
+%{N%}:m <=> _ %>: b ;
+
+"Rule 1: Better name?"
+Cx:Cy <=> %{N%}: %>: _ ;
+      where Cx in (  l  y ) 
+            Cy in (  d  j ) 
+      matched ;    
+
+"Rule 2: Better name?"
+h:0 <=> %{N%}: %>: g _  ;
