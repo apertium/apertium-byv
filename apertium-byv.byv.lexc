@@ -209,6 +209,7 @@ LEXICON CC
 LEXICON CA
 
 %<cnjadv%>: # ; 
+%<cnjadv%>:%>%{↘%} # ; 
 
 LEXICON CS
 
@@ -504,6 +505,7 @@ ghʉ̌:ghʉ%{ˇ%} V ; ! "faire"
 !lɔ̀:lɔ%{ˋ%} V ; ! "prendre"
 !kɔ:kɔ%{ˊ%} V ; ! "monter"
 səʼ:sə%{ˊ%}ʼ V ; ! "venir"
+nu:nu%{ˊ%} V ; ! "boire"
 
 diɑgə:diɑ%{ˊ%}g V-Ə ; ! "chercher"
 lɛnə:lɛ%{ˊ%}n V-Ə ; ! "savoir"
