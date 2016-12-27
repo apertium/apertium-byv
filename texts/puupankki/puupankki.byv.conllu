@@ -1,0 +1,15 @@
+1	Jean	Jean	PROPN	np	_	4	nsubj	_	Jean|np|ant|m
+2	bə	bə	VERB	cop	_	4	cop	_	bə|cop|pres
+3	ɑ̂	ɑ̂	PART	foc	_	4	discourse	_	ɑ̂|foc
+4	yɑ	yɑ	ADV	adv	_	0	root	_	yɑ|adv|itg
+5	?	?	PUNCT	sent	_	4	punct	_	?|sent
+
+1	Jean	Jean	PROPN	np	_	7	nsubj	_	Jean|np|ant|m
+2	bô	bô	CCONJ	cnjcoo	_	3	cc	_	bô|cnjcoo
+3	Marie	Marie	PROPN	np	_	1	conj	_	Marie|np|ant|f
+4	bə	bə	VERB	cop	_	7	cop	_	bə|cop|pres
+5	ɑ̂	ɑ̂	PART	foc	_	7	discourse	_	ɑ̂|foc
+6	ntʉ̂m	ntʉ̂m	ADP	pr	_	7	case	_	ntʉ̂m|pr
+7	cwɛd	cwɛd	NOUN	n	Class=3|Number=Sing	0	root	_	cwɛd|n|cl3|sg
+8	.	.	PUNCT	sent	_	7	punct	_	.|sent
+

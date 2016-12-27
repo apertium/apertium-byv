@@ -30,3 +30,5 @@ speller/words.default.txt -text
 tests/noms.yaml -text
 texts/compte.byv.txt -text
 texts/compte.fra.txt -text
+texts/puupankki.byv.feats -text
+texts/puupankki/puupankki.byv.conllu -text
