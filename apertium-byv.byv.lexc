@@ -181,6 +181,11 @@ LEXICON V-TƏ
 LEXICON PRON-PERS 
 
 %<prn%>%<pers%>: # ;
+%<prn%>%<pers%>:%>%{↘%} # ;
+
+LEXICON PRON
+
+%<prn%>: # ;
 
 LEXICON NP-ANT-F
 
@@ -323,13 +328,15 @@ i:i%{ˊ%} PRON-PERS ;     !
 kə̂:kə%{ˆ%} PRON-PERS ;   ! 
 yi:yi%{ˊ%} PRON-PERS ;   !
 wʉ̀:wʉ%{ˋ%} PRON-PERS ;   !
-bàg:ba%{ˋ%}g PRON-PERS ; ! "nous" (excl.)
-bàgbin:ba%{ˋ%}gbin PRON-PERS ; ! "nous" (incl.)
-bàgbo:ba%{ˋ%}gbo PRON-PERS ; ! "nous" (incl.)
-bǐn:bi%{ˇ%}n PRON-PERS ; ! "vous"
+bɑ̀g:bɑ%{ˋ%}g PRON-PERS ; ! "nous" (excl.)
+bɑgɑ̀bin:bɑgɑ%{ˋ%}bin PRON-PERS ; ! "nous" (incl.)
+bɑ̀gbo:bɑ%{ˋ%}gbo PRON-PERS ; ! "nous" (incl.)
+bin:bi%{ˊ%}n PRON-PERS ; ! "vous"
 bo:bo%{ˊ%} PRON-PERS ;   ! "ils"
 
 0:0 PRON-POSS ; !
+
+ntsiâŋtə̀:ntsia%{ˆ%}ŋtə%{ˋ%} PRON ; ! ""
 
 LEXICON Determiners 
 
@@ -422,6 +429,7 @@ mə̀bwɔ:mə%{ˋ%}bwɔ%{ˊ%}  N-3 ; ! "bien"
 miɑg:miɑ%{ˊ%}g N-4 ; ! "œil" 
 
 ncù:ncu%{ˋ%} N-3 ; ! "bouche"
+ncwɛn:ncwɛ%{ˊ%}n N-X ; ! "bois"
 ndùʼ:ndu%{ˋ%}ʼ N-4 ; ! "bier"
 ndɑ:ndɑ%{ˊ%} N-1 ; ! "maison"
 ngɔ̀:ngɔ%{ˋ%} N-3 ; ! "monde"
@@ -542,9 +550,13 @@ LEXICON Punctuation
 %!%<sent%>:%! # ;
 %"%<quot%>:%" # ;
 %»%<quot%>:%» # ;
+%“%<quot%>:%“ # ;
 %«%<quot%>:%« # ;
+%”%<quot%>:%” # ;
 %?%<sent%>:%? # ;
 %,%<cm%>:%, # ;
+%(%<lpar%>:%( # ;
+%)%<rpar%>:%) # ;
 %…%<sent%>:%… # ;
 
 ! Temporary numeral lexicon
