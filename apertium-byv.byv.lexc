@@ -200,6 +200,7 @@ LEXICON ADV-ITG
 LEXICON ADV
 
 %<adv%>: # ; 
+%<adv%>:%>%{↘%} # ; 
 
 LEXICON CC
 
@@ -321,6 +322,8 @@ kə̂:kə%{ˆ%} PRON-PERS ;   !
 yi:yi%{ˊ%} PRON-PERS ;   !
 wʉ̀:wʉ%{ˋ%} PRON-PERS ;   !
 bàg:ba%{ˋ%}g PRON-PERS ; ! "nous" (excl.)
+bàgbin:ba%{ˋ%}gbin PRON-PERS ; ! "nous" (incl.)
+bàgbo:ba%{ˋ%}gbo PRON-PERS ; ! "nous" (incl.)
 bǐn:bi%{ˇ%}n PRON-PERS ; ! "vous"
 bo:bo%{ˊ%} PRON-PERS ;   ! "ils"
 
@@ -455,6 +458,7 @@ Ngadou:Ngadou  NP-ANT-M ; ! "Ngadou"
 Nsi:Nsi%{ˊ%}  NP-ANT-M ; ! "Dieu"
 Yɛsɔ:Yɛsɔ%{ˊ%}  NP-ANT-M ; ! "Jesus"
 Jean:Jean  NP-ANT-M ; ! ""
+André:André NP-ANT-M ; ! ""
 Marie:Marie NP-ANT-F ; ! ""
 
 LEXICON Adjectifs
@@ -482,6 +486,7 @@ nkòg:nko%{ˋ%}g ADV ; ! "hier"                        !@!
 mbɑ̀:mbɑ%{ˋ%} ADV ; ! ""
 
 ndʉlɑlɑ:ndʉ%{ˊ%}lɑ%{ˊ%}lɑ%{ˊ%} ADV ; ! "alors"
+ndɔ̌nni:ndɔ̌nni%{ˊ%} ADV ; ! "maintenant"
 bə̂:bə%{ˆ%} ADV ; ! "toujours"
 
 LEXICON Verbes
