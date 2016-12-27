@@ -204,6 +204,10 @@ LEXICON CC
 
 %<cnjcoo%>: # ; 
 
+LEXICON CA
+
+%<cnjadv%>: # ; 
+
 LEXICON CS
 
 %<cnjsub%>: # ; 
@@ -239,6 +243,8 @@ LEXICON PRON-POSS
 
 ɑm%<prn%>%<pos%>%<cl1%>:ɑm # ; !
 ɑb%<prn%>%<pos%>%<cl3%>:ɑb # ; !
+mi%<prn%>%<pos%>%<cl4%>:mi # ; !
+sə%<prn%>%<pos%>%<cl5%>:sə # ; !
 yub%<prn%>%<pos%>%<cl3%>:yub # ; ! 
 
 
@@ -261,6 +267,7 @@ lɑ%<foc%>:lɑ%{ˊ%} # ;
 
 zə̀%<rel%>:zə̀ # ; 
 ki%<qst%>:ki # ;
+!mə - Adverbialiser
 
 kə̂ʼ%<neg%>:kə̂ʼ # ;
 !kə̀%<neg%>:kə̀  # ;
@@ -280,6 +287,10 @@ LEXICON Conjonctions
 
 bô:bo%{ˆ%} CC ; ! "et"
 mbə:mbə%{ˊ%} CS ; ! "que"
+
+ngəlaŋ:ngə%{ˊ%}la%{ˊ%}ŋ CA ; ! "quand"
+ndǎʼndʉ̂:nda%{ˇ%}ʼndʉ%{ˆ%} CA ; ! "mais"
+mbɑ̀% mbɑ:mbɑ%{ˋ%}% mbɑ CA ; ! "bien que"
 
 LEXICON Prepositions 
 
@@ -358,6 +369,8 @@ cɛ̌dkù:cɛ%{ˇ%}dku%{ˋ%} N-1 ; ! "souris"
 com:co%{ˊ%}m N-5 ; ! "safrou, prune"
 cwɛd:cwɛ%{ˊ%}d N-3 ; ! "champ"
 
+dʉ̌ʼ:dʉ%{ˇ%}ʼ N-5 ; ! "lieu"
+
 fà:fa%{ˋ%} N-5 ; ! "accident"
 fu:fu%{ˊ%} N-5 ; ! "reméde
 
@@ -389,9 +402,11 @@ mvɛ̀n:mvɛ%{ˋ%}n N-1 ; ! "dos"
 mɑ:mɑ%{ˊ%} N-3 ; ! "mère"
 mɑnndùm:mɑnndu%{ˋ%}m N-X ; ! "homme"
 mə̀bwɔ:mə%{ˋ%}bwɔ%{ˊ%}  N-3 ; ! "bien"
+miɑg:miɑ%{ˊ%}g N-4 ; ! "œil" 
 
 ncù:ncu%{ˋ%} N-3 ; ! "bouche"
 ndùʼ:ndu%{ˋ%}ʼ N-4 ; ! "bier"
+ndɑ:ndɑ%{ˊ%} N-1 ; ! "maison"
 ngɔ̀:ngɔ%{ˋ%} N-3 ; ! "monde"
 ngə̀bə̀ʼ:ngə%{ˋ%}bə%{ˋ%}ʼ  N-3 ; ! "épaule"
 ngùʼ:ngu%{ˋ%}ʼ N-3 ; ! "an"
@@ -414,6 +429,7 @@ tɑ:tɑ%{ˊ%} N-3 ; ! "père"
 tubu:tu%{ˊ%}b%{ˊ%} N-3 ; ! "doit"
 tǔnndɑ:tu%{ˇ%}nndɑ N-1 ; ! "famille"
 tʉ:tʉ%{ˊ%} N-5 ; ! "arbre"
+tɔndɑ:tɔ%{ˊ%}ndɑ%{ˊ%} N-1 ; ! "fenêtre"
 
 wud:wu%{ˊ%}d N-1 ; ! "corp"
 
@@ -440,36 +456,45 @@ nyìnnyìn:nyi%{ˋ%}nyi%{ˋ%}n ADJ ; ! "muliticolor"
 sɛnə:sɛ%{ˊ%}nə%{ˊ%} ADJ ; ! "noire"
 dʉtə̂:dʉ%{ˊ%}tə ADJ ; ! "sucré"
 ndʉb:ndʉ%{ˊ%}b ADJ ; ! "grand"
+ndàʼndǎʼ:nda%{ˋ%}ʼnda%{ˇ%}ʼ ADJ ; ! "lent"
 
 LEXICON Adverbes 
 
-yɑ:yɑ%{ˊ%} ADV-ITG ; ! "où"
+yɑ:yɑ%{ˊ%} ADV-ITG ; ! "où?"
+nǔmkə̂:nu%{ˇ%}mkə%{ˆ%} ADV-ITG ; ! "porquoi?"
 
 nə̀shù:nə%{ˋ%}shu%{ˋ%} ADV ; ! "beaucoup, trop, très" !@!
 sɛn:sɛ%{ˊ%}n ADV ; ! "aujourd'hui"                   !@!
+nkòg:nko%{ˋ%}g ADV ; ! "hier"                        !@!
 
+ndʉlɑlɑ:ndʉ%{ˊ%}lɑ%{ˊ%}lɑ%{ˊ%} ADV ; ! "alors"
 bə̂:bə%{ˆ%} ADV ; ! "toujours"
 
 LEXICON Verbes
 
 zi:zi%{ˊ%} V ; ! "dormir"
-lɛ̌n:lɛ%{ˇ%}n V ; ! "savoir"
 kɔ̌:kɔ%{ˇ%} V ; ! "aimer"
 ghʉ̌:ghʉ%{ˇ%} V ; ! "faire"
 jʉ:jʉ%{ˊ%} V ; ! "manger"
 tswə:tswə%{ˊ%} V ; ! "s'assier"
 tə:tə%{ˊ%} V ; ! "mettre"
 zwǐ:zwi%{ˇ%} V ; ! "rire"
+kwatə̌:kwa%{ˊ%}tə%{ˇ%} V ; ! "croire"
+ghaʼa:gha%{ˊ%}ʼa%{ˊ%} V ; ! "ouvrir"
 
 diɑgə:diɑ%{ˊ%}g V-Ə ; ! "chercher"
+lɛnə:lɛ%{ˊ%}n V-Ə ; ! "savoir"
 cobə:co%{ˊ%}b V-Ə ; ! "dire"
 yənə:yə%{ˊ%}n V-Ə ; ! "regarder, voir"
 bɛnə:bɛ%{ˊ%}n V-Ə ; ! "rentrer"
 tamə:ta%{ˊ%}m V-Ə ; ! ""
 nɛnə:nɛ%{ˊ%}n V-Ə ; ! "aller"
+zinə:zi%{ˊ%}n V-Ə ; ! "marcher"
 
 tʉntə:tʉ%{ˊ%}n V-TƏ ; ! "compter"
 lɔtə:lɔ%{ˊ%} V-TƏ ; ! "regarder"
+miɑ̀gtə̌:miɑ%{ˋ%}g ; ! "finir"
+
 
 LEXICON Interjections
 
