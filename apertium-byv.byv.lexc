@@ -150,6 +150,7 @@ LEXICON N-X-X
 LEXICON V
 
 %<v%>: # ;
+%<v%>:%>%{↘%} # ;
 %<v%>%<consec%>%[%+nasal%]: # ;
 %<v%>%<consec%>%[%+nasal%]:%>%{↘%} # ;
 
@@ -319,7 +320,7 @@ i:i%{ˊ%} PRON-PERS ;     !
 kə̂:kə%{ˆ%} PRON-PERS ;   ! 
 yi:yi%{ˊ%} PRON-PERS ;   !
 wʉ̀:wʉ%{ˋ%} PRON-PERS ;   !
-bàg:ba%{ˋ%}g PRON-PERS ; ! "nous"
+bàg:ba%{ˋ%}g PRON-PERS ; ! "nous" (excl.)
 bǐn:bi%{ˇ%}n PRON-PERS ; ! "vous"
 bo:bo%{ˊ%} PRON-PERS ;   ! "ils"
 
@@ -497,6 +498,7 @@ kɔ̌:kɔ%{ˇ%} V ; ! "aimer"
 ghʉ̌:ghʉ%{ˇ%} V ; ! "faire"
 !lɔ̀:lɔ%{ˋ%} V ; ! "prendre"
 !kɔ:kɔ%{ˊ%} V ; ! "monter"
+səʼ:sə%{ˊ%}ʼ V ; ! "venir"
 
 diɑgə:diɑ%{ˊ%}g V-Ə ; ! "chercher"
 lɛnə:lɛ%{ˊ%}n V-Ə ; ! "savoir"

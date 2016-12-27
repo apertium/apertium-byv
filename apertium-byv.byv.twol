@@ -46,7 +46,7 @@ Tx:Ty <=> _ (:Cns) %>: %{↓%}: ;
 ! {N}:m >:0 b ɛ {ˊ}: n:n >:0 {↓}:0
 
 "Nasal assimilation"
-%{N%}:m <=> _ %>: b ;
+%{N%}:m <=> _ %>: [ b | v ] ;
 
 "Rule 1: Better name?"
 Cx:Cy <=> %{N%}: %>: _ ;
