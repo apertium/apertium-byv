@@ -8,7 +8,9 @@ Alphabet
 ̂
 ̌
 
-%<v%> %<nasal%>
+%<v%> %<nasal%> 
+%<n%> %<pos%>
+%<cl1%> %<cl3%> %<cl4%> %<cl5%> %<cl6%>
 
 %[%+n%]:0
 %[%+nasal%]:0

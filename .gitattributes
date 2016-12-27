@@ -27,5 +27,6 @@ speller/editdist.default.txt -text
 speller/index.xml -text
 speller/strings.default.txt -text
 speller/words.default.txt -text
+tests/noms.yaml -text
 texts/compte.byv.txt -text
 texts/compte.fra.txt -text

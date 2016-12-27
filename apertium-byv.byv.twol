@@ -10,17 +10,27 @@ Alphabet
  %{ˆ%}:̂       ! Ton descendent
  %{ˇ%}:̌       ! Ton montant
  %{ˋ%}:̀       ! Ton bas
- %{ˊ%}:́       ! Ton haut
+ %{ˊ%}:0      ! Ton haut
 
+ %{↘%}:0      !
 
  %>:0  ;
 
 Sets
 
-Vowel = a ǎ e é ə i ı o ô ɔ u ú ɑ ʉ
+Vow =   a ǎ e é ə i ı o ô ɔ u ú ɑ ʉ
         A Ǎ E É Ə I I O Ô Ɔ U Ú Ɑ Ʉ   ;
 
+Cns =   b c ç d f g h j k l m n ŋ p q r s t v w x y z 
+        B C Ç D F G H J K L M N Ŋ P Q R S T V W X Y Z ;
+
 Rules 
+
+"Tone in possessive"
+Tx:Ty <=> _ ([ :Cns | :0 ]*) %>: %{↘%}: ; 
+      where Tx in ( %{ˋ%}  %{ˊ%}  )
+            Ty in (   ̌       ̂     ) 
+      matched;
 
 "Rule 1"
 l:d <=> n %>: _ ;

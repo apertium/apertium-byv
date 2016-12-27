@@ -1,0 +1,27 @@
+Config:
+  hfst:
+      App: hfst-lookup
+      Gen: ../tyv.autogen.hfst
+      Morph: ../tyv.automorf.hfst
+
+Tests:
+
+ "[twol] tones":
+    
+    bə̀lòŋ<n><cl5><sg><pos> : bə̀lǒŋ
+    bə̀lòŋ<n><cl5><pl><pos> : bə̀lǒŋ
+    bə̀lòŋ<n><cl5><sg> : bə̀lòŋ
+    bə̀lòŋ<n><cl5><pl> : bə̀lòŋ
+    cɔ̀<n><cl5><sg><pos> : cɔ̌
+    cɔ̀<n><cl5><pl><pos> : cɔ̌
+    cɔ̀<n><cl5><sg> : cɔ̀
+    cɔ̀<n><cl5><pl> : cɔ̀
+    ka<n><cl1><sg> : ka
+    ka<n><cl1><sg><pos> : kâ
+    kù<n><cl3><sg><pos> : kǔ
+    kù<n><cl3><sg> : kù
+    ka<n><cl4><pl> : nka
+    ka<n><cl4><pl><pos> : nkâ
+    kù<n><cl4><pl><pos> : nkǔ
+    kù<n><cl4><pl> : nkù
+    
