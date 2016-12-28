@@ -151,8 +151,12 @@ LEXICON V
 
 %<v%>: # ;
 %<v%>:%>%{↘%} # ;
+%<v%>:%>%{↓%} # ;
+%<v%>:%>%{↗%} # ;
 %<v%>%<consec%>%[%+nasal%]: # ;
 %<v%>%<consec%>%[%+nasal%]:%>%{↘%} # ;
+%<v%>%<consec%>%[%+nasal%]:%>%{↓%} # ;
+%<v%>%<consec%>%[%+nasal%]:%>%{↗%} # ;
 
 LEXICON V-Ə
 
@@ -164,6 +168,7 @@ LEXICON V-Ə
 %<v%>%<consec%>%[%+nasal%]: # ;
 %<v%>%<consec%>%[%+nasal%]:%>%{↘%} # ;
 %<v%>%<consec%>%[%+nasal%]:%>%{↓%} # ;
+%<v%>%<consec%>%[%+nasal%]:%>%{↗%} # ;
 
 LEXICON V-TƏ
 
@@ -435,6 +440,7 @@ ndɑ:ndɑ%{ˊ%} N-1 ; ! "maison"
 ngɔ̀:ngɔ%{ˋ%} N-3 ; ! "monde"
 ngə̀bə̀ʼ:ngə%{ˋ%}bə%{ˋ%}ʼ  N-3 ; ! "épaule"
 ngùʼ:ngu%{ˋ%}ʼ N-3 ; ! "an"
+ngòn:ngo%{ˋ%}n N-X ; ! "soeur"
 nkɑb:nkɑ%{ˊ%}b N-1 ; ! "argent"
 nkib:nki%{ˊ%}b  N-1 ; ! "ongle"
 njʉ:njʉ%{ˊ%} N-X ; ! "temps"
@@ -513,8 +519,8 @@ zwì:zwi%{ˋ%} V ; ! "rire"
 zwi:zwi%{ˊ%} V ; ! "tuer"
 kwatə̌:kwa%{ˊ%}tə%{ˇ%} V ; ! "croire"
 ghaʼa:gha%{ˊ%}ʼa%{ˊ%} V ; ! "ouvrir"
-kɔ̌:kɔ%{ˇ%} V ; ! "aimer"
-ghʉ̌:ghʉ%{ˇ%} V ; ! "faire"
+kɔ̌:kɔ%{ˋ%} V ; ! "aimer"
+ghʉ̌:ghʉ%{ˊ%} V ; ! "faire"
 !lɔ̀:lɔ%{ˋ%} V ; ! "prendre"
 !kɔ:kɔ%{ˊ%} V ; ! "monter"
 səʼ:sə%{ˊ%}ʼ V ; ! "venir"

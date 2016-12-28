@@ -45,6 +45,13 @@ Tx:Ty <=> _ (:Cns) %>: %{↓%}: ;
 
 ! {N}:m >:0 b ɛ {ˊ}: n:n >:0 {↓}:0
 
+"Falling tone"
+Tx:Ty <=> _ (:Cns) %>: %{↗%}: ; 
+      where Tx in (   %{ˋ%}   )
+            Ty in (    ̂     ) 
+      matched;
+
+
 "Nasal assimilation"
 %{N%}:m <=> _ %>: [ b | v ] ;
 
