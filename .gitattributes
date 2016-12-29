@@ -28,6 +28,7 @@ speller/index.xml -text
 speller/strings.default.txt -text
 speller/words.default.txt -text
 tests/noms.yaml -text
+texts/AllSents.tsv -text
 texts/compte.byv.txt -text
 texts/compte.fra.txt -text
 texts/puupankki.byv.feats -text

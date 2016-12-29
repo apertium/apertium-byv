@@ -277,6 +277,7 @@ LEXICON Prefixes
 LEXICON Miscellaneous
 
 ɑ̂%<foc%>:ɑ̂ # ;
+ɑ̂%<foc%>:ɑ%{ˋ%} # ;
 bə̂%<foc%>:bə̂ # ;
 lɑ%<foc%>:lɑ%{ˊ%} # ; 
 à%<foc%>:a%{ˋ%} # ; 
@@ -336,7 +337,7 @@ wʉ̀:wʉ%{ˋ%} PRON-PERS ;   !
 bɑ̀g:bɑ%{ˋ%}g PRON-PERS ; ! "nous" (excl.)
 bɑgɑ̀bin:bɑgɑ%{ˋ%}bin PRON-PERS ; ! "nous" (incl.)
 bɑ̀gbo:bɑ%{ˋ%}gbo PRON-PERS ; ! "nous" (incl.)
-bin:bi%{ˊ%}n PRON-PERS ; ! "vous"
+bìn:bi%{ˋ%}n PRON-PERS ; ! "vous"
 bo:bo%{ˊ%} PRON-PERS ;   ! "ils"
 
 0:0 PRON-POSS ; !
