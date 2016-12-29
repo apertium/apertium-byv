@@ -31,5 +31,6 @@ tests/noms.yaml -text
 texts/AllSents.tsv -text
 texts/compte.byv.txt -text
 texts/compte.fra.txt -text
+texts/nganmou-exemples.txt -text
 texts/puupankki.byv.feats -text
 texts/puupankki/puupankki.byv.conllu -text
