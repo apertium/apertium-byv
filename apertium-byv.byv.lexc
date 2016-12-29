@@ -16,6 +16,7 @@ Multichar_Symbols
 %<rel%>     ! 
 %<cnjcoo%>  ! Conjunction de coordination
 %<cnjsub%>  ! 
+%<cnjadv%>  ! 
 %<cop%>     ! 
 %<neg%>     ! 
 %<fut%>     ! 
@@ -107,6 +108,15 @@ LEXICON N-5-5
 %<n%>%<cl5%>%<pl%>: # ;
 %<n%>%<cl5%>%<sg%>%<pos%>:%>%{↘%} # ;
 %<n%>%<cl5%>%<pl%>%<pos%>:%>%{↘%} # ;
+
+LEXICON N-1-6
+
+%<n%>%<cl1%>%<sg%>: # ;
+%<n%>%<cl6%>%<pl%>: # ;
+%<n%>%<cl1%>%<sg%>%<pos%>:%>%{↘%} # ;
+%<n%>%<cl6%>%<pl%>%<pos%>:%>%{↘%} # ;
+
+
 
 LEXICON N-1
 
@@ -302,7 +312,7 @@ cɑg%<past%>:cɑ%{ˊ%}g # ; ! P⁴
 nɑʼə%<past%>%<impf%>:nɑ%{ˊ%}ʼə%{ˊ%} # ; 
 kə%<dur%>:kə%{ˊ%}  # ;
 nkə%<dur%>%<consec%>:nkə%{ˊ%} # ;
-nùm%<hab%>%<pres%>:nu%{ˋ%}m # ; 
+nùm%<hab%>%<pres%>:nu%{ˋ%}m # ; 
 bə%<hab%>%<consec%>:bə%{ˊ%} # ; ! bəʼə(?)
 
 bə%<cop%>%<pres%>:bə # ;
@@ -368,11 +378,14 @@ LEXICON Noms
 
 ka:ka%{ˊ%} N-1-4 ; ! "assiette"
 cɔ̀:cɔ%{ˋ%} N-5-5 ; ! "histoire"
-bə̀lòŋ:bə%{ˋ%}lo%{ˋ%}ŋ N-5-5 ; ! "patate"
-kù:ku%{ˋ%} N-3-4 ; ! "pied"
+bə̀lòŋ:bə%{ˋ%}lo%{ˋ%}ŋ N-5-5 ; ! "patate"
+kù:ku%{ˋ%} N-3-4 ; ! "pied"
 bu:bu%{ˊ%} N-3-4 ; ! "main"
 tòŋ:to%{ˋ%}ŋ N-3-4 ; ! "oreille"
-tu:tu%{ˊ%} N-1-4 ; ! "tête
+tu:tu%{ˊ%} N-3-4 ; ! "tête
+lɛn:lɛ%{ˊ%}n N-5-4 ; ! "nom"
+mbâkù:mba%{ˆ%}ku%{ˋ%} N-3-4 ; ! "cheville"
+tǔnndɑ:tu%{ˇ%}nndɑ%{ˊ%} N-1-6 ; ! "famille"
 
 mɛn:mɛ%{ˊ%}n N-3 ; ! "enfant"
 mɛn:bo%{ˊ%}n N-6 ; ! "enfants"
@@ -380,9 +393,16 @@ mɛ̀n:mɛ%{ˋ%}n N-1 ; ! "personne"
 mɛ̀n:bənntʉ%{ˋ%}n N-6 ; ! "personnes"
 
 mbʉ:mbʉ%{ˊ%} N-1 ; ! "chien"
-mbʉ:bɑ%{ˋ%}% mbʉ%{ˊ%} N-6 ; ! "chiens"
+mbʉ:ba%{ˋ%}% mbʉ%{ˊ%} N-6 ; ! "chiens"
 
-bùsi:bu%{ˋ%}si%{ˊ%} N-X-X ; ! "chat"
+bùsi:bu%{ˋ%}si%{ˊ%} N-1 ; ! "chat"
+bùsi:bu%{ˋ%}si%{ˊ%} N-6 ; ! "chats"
+
+mə̀bwɔ:mə%{ˋ%}bwɔ%{ˊ%}  N-3-6 ; ! "bien"
+
+tɑm% tʉ:tɑ%{ˊ%}m% tʉ%{ˊ%} N-5-4 ; ! " 
+
+kə̀bwɔ̀:kə%{ˋ%}bwɔ%{ˋ%} N-1 ; ! "mal"
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
@@ -407,41 +427,38 @@ fu:fu%{ˊ%} N-5 ; ! "reméde
 ju:ju%{ˊ%} N-X ; ! "chose"
 
 kâtu:ka%{ˆ%}tu N-3 ; ! "crane"
-kə̀bwɔ̀:kə%{ˋ%}bwɔ%{ˋ%} N-1 ; ! "mal"
 kə̀lɔ̀:kə%{ˋ%}lɔ%{ˋ%} N-5 ; ! "banane"
 kə̀nà:kə%{ˋ%}na%{ˋ%} N-1 ; ! "arrachide"
 ki:ki%{ˊ%} N-1 ; ! "clé"
 
 lag:la%{ˊ%}g N-5 ; ! "oeil"
+miɑg:miɑ%{ˊ%}g N-4 ; ! "yeux" 
 laʼ:la%{ˊ%}ʼ N-5 ; ! "village"
-lɛn:lɛ%{ˊ%}n N-1 ; ! "nom"
 
 màd:ma%{ˋ%}d N-1 ; ! "habitude"
 mba:mba%{ˊ%} N-1 ; ! "marmite"
 mbà:mba%{ˋ%} N-1 ; ! "noix"
-mbâkù:mba%{ˆ%}ku%{ˋ%} N-3 ; ! "cheville"
 mbì:mbi%{ˋ%} N-1 ; ! "foi"
 mbogə:mbo%{ˊ%}gə%{ˊ%} N-1 ; ! "feu"
 mbùʼ:mbu%{ˋ%}ʼ  N-1 ; ! "valise"
 mbwə:mbwə%{ˊ%} N-5 ; ! "chévre"
-mbàʼsaʼ:mba%{ˋ%}ʼsaʼ N-1 ; ! "avocat"
+mbàʼsaʼ:mba%{ˋ%}ʼsaʼ N-1 ; ! "avocat"
 mbɛmbɛnə:mbɛ%{ˊ%}mbɛ%{ˊ%}nə%{ˊ%} N-1 ; ! "caffard"
 mbʉ̀ntə:mbʉ%{ˋ%}ntə%{ˊ%} N-1 ; ! "reponse"
 mvɛd:mvɛ%{ˊ%}d N-4 ; ! "huile"
 mvɛ̀n:mvɛ%{ˋ%}n N-1 ; ! "dos"
 mɑ:mɑ%{ˊ%} N-3 ; ! "mère"
 mɑnndùm:mɑnndu%{ˋ%}m N-X ; ! "homme"
-mə̀bwɔ:mə%{ˋ%}bwɔ%{ˊ%}  N-3 ; ! "bien"
-miɑg:miɑ%{ˊ%}g N-4 ; ! "œil" 
 
 ncù:ncu%{ˋ%} N-3 ; ! "bouche"
 ncwɛn:ncwɛ%{ˊ%}n N-X ; ! "bois"
+ngàŋwàʼnì:nga%{ˋ%}ŋwa%{ˋ%}ʼni%{ˋ%} N-1 ; ! "étudiant" 
 ndùʼ:ndu%{ˋ%}ʼ N-4 ; ! "bier"
 ndɑ:ndɑ%{ˊ%} N-1 ; ! "maison"
 ngɔ̀:ngɔ%{ˋ%} N-3 ; ! "monde"
 ngə̀bə̀ʼ:ngə%{ˋ%}bə%{ˋ%}ʼ  N-3 ; ! "épaule"
 ngùʼ:ngu%{ˋ%}ʼ N-3 ; ! "an"
-ngòn:ngo%{ˋ%}n N-X ; ! "soeur"
+ngòn:ngo%{ˋ%}n N-X ; ! "fille"
 nkɑb:nkɑ%{ˊ%}b N-1 ; ! "argent"
 nkib:nki%{ˊ%}b  N-1 ; ! "ongle"
 njʉ:njʉ%{ˊ%} N-X ; ! "temps"
@@ -459,7 +476,6 @@ sə:sə%{ˊ%}  N-1; ! "visage"
 
 tɑ:tɑ%{ˊ%} N-3 ; ! "père"
 tubu:tu%{ˊ%}b%{ˊ%} N-3 ; ! "doit"
-tǔnndɑ:tu%{ˇ%}nndɑ N-1 ; ! "famille"
 tʉ:tʉ%{ˊ%} N-5 ; ! "arbre"
 tɔndɑ:tɔ%{ˊ%}ndɑ%{ˊ%} N-1 ; ! "fenêtre"
 
