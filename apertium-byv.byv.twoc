@@ -14,6 +14,8 @@ Alphabet
 
 %[%+n%]:0
 %[%+nasal%]:0
+%[%+xp1%]:0
+%[%+past1%]:0
 
 ; 
 
@@ -32,3 +34,13 @@ Rules
 %[%+nasal%]:0 /<= _  ;
    except 
        %[%+n%]:0 (:*) _  ;
+
+"Floating high tone in past I I"
+%[%+xp1%]:0 /<= _  ;
+   except
+       _ (:*) %[%+past1%]:0 ; 
+
+"Floating high tone in past I II"
+%[%+past1%]:0 /<= _  ;
+   except 
+       %[%+xp1%]:0 (:*) _  ;

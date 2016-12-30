@@ -56,6 +56,7 @@ Multichar_Symbols
 %<consec%>
 
 %{N%}       ! n, m
+%{ə%}       ! ə, Ø
 
 %{ˆ%}       ! Ton descendent
 %{ˇ%}       ! Ton montant
@@ -67,7 +68,9 @@ Multichar_Symbols
 %{↓%}       ! 
 
 %[%+nasal%] ! 
+%[%+past1%] ! 
 %[%+n%]     !
+%[%+xp1%]   !
 
 %<sent%>    ! 
 %<cm%>      ! 
@@ -114,6 +117,21 @@ LEXICON N-5-5
 %<n%>%<cl5%>%<pl%>: # ;
 %<n%>%<cl5%>%<sg%>%<pos%>:%>%{↘%} # ;
 %<n%>%<cl5%>%<pl%>%<pos%>:%>%{↘%} # ;
+
+LEXICON N-3-6
+
+%<n%>%<cl3%>%<sg%>: # ;
+%<n%>%<cl5%>%<pl%>: # ;
+%<n%>%<cl3%>%<sg%>%<pos%>:%>%{↘%} # ;
+%<n%>%<cl6%>%<pl%>%<pos%>:%>%{↘%} # ;
+
+
+LEXICON N-5-4
+
+%<n%>%<cl5%>%<sg%>: # ;
+%<n%>%<cl4%>%<pl%>%[%+nasal%]: # ;
+%<n%>%<cl5%>%<sg%>%<pos%>:%>%{↘%} # ;
+%<n%>%<cl4%>%<pl%>%[%+nasal%]%<pos%>:%>%{↘%} # ;
 
 LEXICON N-1-6
 
@@ -162,6 +180,17 @@ LEXICON N-X-X
 %<n%>%<GD%>%<pl%>%<pos%>:%>%{↘%} # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON V-ALL
+
+! Perfect marker is a low tone
+
+%<v%>%<inf%>:%>%{ə%}%{ˊ%} # ;
+%<v%>%<past6%>:%> # ;
+%<v%>%<consec%>%[%+nasal%]: # ;
+%<v%>%<past1%>%[%+past1%]%[%+nasal%]: # ;
+%<v%>%<past5%>%[%+past1%]%[%+nasal%]: # ;                 ! -{ə}{ˊ} 
+%<v%>%<past4%>%[%+past1%]%[%+nasal%]:%>%{ə%}%{ˊ%} # ;
 
 LEXICON V
 
@@ -245,6 +274,8 @@ LEXICON CS
 LEXICON PREP
 
 %<pr%>: # ; 
+%<pr%>:%>%{↘%} # ; 
+%<pr%>:%>%{↗%} # ;
 
 LEXICON INTERJ 
 
@@ -287,8 +318,13 @@ LEXICON Prefixes
 
 %[%+n%]:%{N%}%> Noms ;
                 Noms ;
-%[%+n%]:%{N%}%> Verbes ;
-                Verbes ;
+%[%+n%]:%{N%}%> P_1 ; ! N-
+                P_1 ; !  -
+
+LEXICON P_1
+
+%[+xp1%]:%{ˊ%}%> Verbes ; ! -x´-
+                 Verbes ; !    -
 
 LEXICON Miscellaneous
 
@@ -339,6 +375,7 @@ mbaŋ:mba%{ˊ%}ŋ PREP ; ! "à côté de"
 nyàm:nya%{ˋ%}m PREP ; ! "deriere"
 ntʉ̂m:ntʉ%{ˆ%}m PREP ; ! "sur"
 mbwə:mbwə%{ˊ%} PREP ; ! "devant"
+mbwə:mbwə%{ˇ%} PREP ; ! FIXME
 bô:bo%{ˆ%} PREP ;     ! "avec"
 
 LEXICON Pronoms
@@ -406,11 +443,11 @@ mbʉ:ba%{ˋ%}% mbʉ%{ˊ%} N-6 ; ! "chiens"
 bùsi:bu%{ˋ%}si%{ˊ%} N-1 ; ! "chat"
 bùsi:bu%{ˋ%}si%{ˊ%} N-6 ; ! "chats"
 
-mə̀bwɔ:mə%{ˋ%}bwɔ%{ˊ%}  N-3-6 ; ! "bien"
-
-tɑm% tʉ:tɑ%{ˊ%}m% tʉ%{ˊ%} N-5-4 ; ! " 
+tɑm% tʉ:tɑ%{ˊ%}m% tʉ%{ˊ%} N-5-4 ; ! ""
 
 kə̀bwɔ̀:kə%{ˋ%}bwɔ%{ˋ%} N-1 ; ! "mal"
+
+mə̀bwɔ:mə%{ˋ%}bwɔ%{ˊ%} N-3-6 ; ! "bien"
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
@@ -535,6 +572,7 @@ nkòg:nko%{ˋ%}g ADV ; ! "hier"                        !@!
 mbɑ̀:mbɑ%{ˋ%} ADV ; ! ""
 
 zə̌nnî:zə%{ˇ%}nni%{ˊ%} ADV ; ! "ici"
+bwə:bwə%{ˊ%} ADV ; ! ""
 
 ndʉlɑlɑ:ndʉ%{ˊ%}lɑ%{ˊ%}lɑ%{ˊ%} ADV ; ! "alors"
 ndɔ̌nni:ndɔ̌nni%{ˊ%} ADV ; ! "maintenant"
@@ -542,21 +580,22 @@ bə̂:bə%{ˆ%} ADV ; ! "toujours"
 
 LEXICON Verbes
 
-zi:zi%{ˊ%} V ; ! "dormir"
-jʉ:jʉ%{ˊ%} V ; ! "manger"
-tswə:tswə%{ˊ%} V ; ! "s'assier"
-tə:tə%{ˊ%} V ; ! "mettre"
-zwì:zwi%{ˋ%} V ; ! "rire"
-zwi:zwi%{ˊ%} V ; ! "tuer"
-kwatə̌:kwa%{ˊ%}tə%{ˇ%} V ; ! "croire"
-ghaʼa:gha%{ˊ%}ʼa%{ˊ%} V ; ! "ouvrir"
-kɔ̌:kɔ%{ˋ%} V ; ! "aimer"
-ghʉ̌:ghʉ%{ˊ%} V ; ! "faire"
-!lɔ̀:lɔ%{ˋ%} V ; ! "prendre"
-!kɔ:kɔ%{ˊ%} V ; ! "monter"
-səʼ:sə%{ˊ%}ʼ V ; ! "venir"
-nu:nu%{ˊ%} V ; ! "boire"
-juʼu:ju%{ˊ%}ʼ V ; ! "écouter, entendre"
+zi:zi%{ˊ%} V-ALL ; ! "dormir"
+kəbə:kə%{ˊ%}b V-ALL ; ! "couper"
+làbə:la%{ˋ%}b V-ALL ; ! "frapper"
+zwǐ:zwi%{ˋ%} V-ALL ; ! "rire"
+jʉ:jʉ%{ˊ%} V-ALL ; ! "manger"
+tswə:tswə%{ˊ%} V-ALL ; ! "s'assier"
+tə:tə%{ˊ%} V-ALL ; ! "mettre"
+zwi:zwi%{ˊ%} V-ALL ; ! "tuer"
+ghaʼa:gha%{ˊ%}ʼa%{ˊ%} V-ALL ; ! "ouvrir"
+kɔ̌:kɔ%{ˋ%} V-ALL ; ! "aimer"
+ghʉ̌:ghʉ%{ˋ%} V-ALL ; ! "faire"
+!lɔ̀:lɔ%{ˋ%} V-ALL ; ! "prendre"
+!kɔ:kɔ%{ˊ%} V-ALL ; ! "monter"
+səʼ:sə%{ˊ%}ʼ V-ALL ; ! "venir"
+nu:nu%{ˊ%} V-ALL ; ! "boire"
+juʼu:ju%{ˊ%}ʼ V-ALL ; ! "écouter, entendre"
 
 diɑgə:diɑ%{ˊ%}g V-Ə ; ! "chercher"
 lɛnə:lɛ%{ˊ%}n V-Ə ; ! "savoir"
@@ -566,9 +605,12 @@ bɛnə:bɛ%{ˊ%}n V-Ə ; ! "rentrer"
 tamə:ta%{ˊ%}m V-Ə ; ! ""
 nɛnə:nɛ%{ˊ%}n V-Ə ; ! "aller"
 zinə:zi%{ˊ%}n V-Ə ; ! "marcher"
-làbə:la%{ˋ%}b V-Ə ; ! "frapper"
-kəbə:lə%{ˊ%}b V-Ə ; ! "couper"
+cʉbə:cʉ%{ˊ%}b V-Ə ; ! "tenir"
 
+kwatə̌:kwa%{ˊ%}tə%{ˇ%} V-ALL ; ! "croire"
+bʉ̂ntə:bʉ%{ˆ%}n V-TƏ ; ! "répondre"
+bɛ̂dtə:be%{ˆ%}d V-TƏ ; ! ""
+tadtə:ta%{ˊ%}d V-TƏ ; ! "mentir"
 tʉntə:tʉ%{ˊ%}n V-TƏ ; ! "compter"
 lɔtə:lɔ%{ˊ%} V-TƏ ; ! "regarder"
 miɑ̀gtə̌:miɑ%{ˋ%}g V-TƏ ; ! "finir"

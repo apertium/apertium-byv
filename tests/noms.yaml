@@ -1,8 +1,8 @@
 Config:
   hfst:
       App: hfst-lookup
-      Gen: ../tyv.autogen.hfst
-      Morph: ../tyv.automorf.hfst
+      Gen: ../byv.autogen.hfst
+      Morph: ../byv.automorf.hfst
 
 Tests:
 
