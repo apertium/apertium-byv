@@ -40,6 +40,12 @@ Multichar_Symbols
 %<cl4%>     ! Classe IV
 %<cl5%>     ! Classe V
 %<cl6%>     ! Classe VI
+
+%<pos%>     ! Possessif
+
+%<m%>       !
+%<f%>       !
+
 %<inf%>     ! Infinitif
 
 %<ND%>      ! Nombre non connue
@@ -290,6 +296,7 @@ LEXICON Miscellaneous
 ɑ̂%<foc%>:ɑ%{ˋ%} # ;
 bə̂%<foc%>:bə̂ # ;
 lɑ%<foc%>:lɑ%{ˊ%} # ; 
+lɑ%<foc%>:lɑ%{ˊ%}%>%{↘%} # ; 
 à%<foc%>:a%{ˋ%} # ; 
 
 zə̀%<rel%>:zə̀ # ; 
@@ -339,6 +346,7 @@ LEXICON Pronoms
 mə:mə%{ˊ%} PRON-PERS ;   ! "je"
 mə̀:mə%{ˋ%} PRON-PERS ;   ! 
 a:a%{ˊ%} PRON-PERS ;     ! "il/elle"
+a:a%{ˋ%} PRON-PERS ;     ! "il/elle" (?)
 u:u%{ˊ%} PRON-PERS ;     ! 
 i:i%{ˊ%} PRON-PERS ;     ! 
 kə̂:kə%{ˆ%} PRON-PERS ;   ! 
@@ -404,6 +412,7 @@ tɑm% tʉ:tɑ%{ˊ%}m% tʉ%{ˊ%} N-5-4 ; ! "
 
 kə̀bwɔ̀:kə%{ˋ%}bwɔ%{ˋ%} N-1 ; ! "mal"
 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 bàʼ:ba%{ˋ%}ʼ N-X ; ! "maison"
@@ -431,11 +440,13 @@ kə̀lɔ̀:kə%{ˋ%}lɔ%{ˋ%} N-5 ; ! "banane"
 kə̀nà:kə%{ˋ%}na%{ˋ%} N-1 ; ! "arrachide"
 ki:ki%{ˊ%} N-1 ; ! "clé"
 
-lag:la%{ˊ%}g N-5 ; ! "oeil"
-miɑg:miɑ%{ˊ%}g N-4 ; ! "yeux" 
+lɑg:lɑ%{ˊ%}g N-5 ; ! "oeil"
+lɑg:miɑ%{ˊ%}g N-4 ; ! "yeux" 
 laʼ:la%{ˊ%}ʼ N-5 ; ! "village"
 
 màd:ma%{ˋ%}d N-1 ; ! "habitude"
+mɑ:mɑ%{ˊ%} N-3 ; ! "mère"
+mɑnndùm:mɑnndu%{ˋ%}m N-X ; ! "homme"
 mba:mba%{ˊ%} N-1 ; ! "marmite"
 mbà:mba%{ˋ%} N-1 ; ! "noix"
 mbì:mbi%{ˋ%} N-1 ; ! "foi"
@@ -445,10 +456,9 @@ mbwə:mbwə%{ˊ%} N-5 ; ! "chévre"
 mbàʼsaʼ:mba%{ˋ%}ʼsaʼ N-1 ; ! "avocat"
 mbɛmbɛnə:mbɛ%{ˊ%}mbɛ%{ˊ%}nə%{ˊ%} N-1 ; ! "caffard"
 mbʉ̀ntə:mbʉ%{ˋ%}ntə%{ˊ%} N-1 ; ! "reponse"
+mfʉag:mfʉag N-X ; ! "aire"
 mvɛd:mvɛ%{ˊ%}d N-4 ; ! "huile"
 mvɛ̀n:mvɛ%{ˋ%}n N-1 ; ! "dos"
-mɑ:mɑ%{ˊ%} N-3 ; ! "mère"
-mɑnndùm:mɑnndu%{ˋ%}m N-X ; ! "homme"
 
 ncù:ncu%{ˋ%} N-3 ; ! "bouche"
 ncwɛn:ncwɛ%{ˊ%}n N-X ; ! "bois"
@@ -497,7 +507,9 @@ Marie:Marie NP-ANT-F ; ! ""
 LEXICON Adjectifs
 
 dumə:du%{ˊ%}mə%{ˊ%} ADJ ; ! "chaud"
-fi:fi%{ˊ%} ADJ ; ! "froid"
+fi:fi%{ˊ%} ADJ ; ! "humide"
+fitə:fi%{ˊ%}tə%{ˊ%} ADJ ; ! "frais"
+nko:nko%{ˊ%} ADJ ; ! "froid"
 
 mətòʼ:mə%{ˊ%}to%{ˋ%}ʼ ADJ ; ! "petit"
 ndʉb:ndʉ%{ˊ%}b ADJ ; ! "grand"
