@@ -34,3 +34,8 @@ texts/compte.fra.txt -text
 texts/nganmou-exemples.txt -text
 texts/puupankki.byv.feats -text
 texts/puupankki/puupankki.byv.conllu -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
