@@ -302,16 +302,21 @@ yə̂nna%<det%>%<dem%>%<cl1%>:cə̂nna # ; ! "ça"
 
 LEXICON PRON-POSS 
 
-ɑm%<prn%>%<pos%>%<cl1%>:ɑm # ; !
-ɑb%<prn%>%<pos%>%<cl3%>:ɑb # ; !
+ɑ̀m%<prn%>%<pos%>%<cl1%>:ɑm # ; ! "mine"
+ɑb%<prn%>%<pos%>%<cl3%>:ɑb # ; ! "his in postfix"
+ɑm%<prn%>%<pos%>%<cl3%>:ɑm # ; ! "mine for nouns in cl3"
 mi%<prn%>%<pos%>%<cl4%>:mi # ; !
+mubə%<prn%>%<pos%>%<cl4%>:mubə # ; !
+minə%<prn%>%<pos%>%<cl4%>:minə # ; !
 sə%<prn%>%<pos%>%<cl5%>:sə # ; !
+sɑm%<prn%>%<pos%>%<cl5%>:sɑm# ; !
+sagə%<prn%>%<pos%>%<cl5%>:sagə# ; !
 yàg%<prn%>%<pos%>%<cl1%>:ya%{ˋ%}g # ; !
 yub%<prn%>%<pos%>%<cl3%>:yub # ; ! 
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!                          L E X I C O N                                  !!!
+!!!                          L E X I C O N                                                         !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON Prefixes
@@ -383,7 +388,7 @@ LEXICON Pronoms
 mə:mə%{ˊ%} PRON-PERS ;   ! "je"
 mə̀:mə%{ˋ%} PRON-PERS ;   ! 
 a:a%{ˊ%} PRON-PERS ;     ! "il/elle"
-a:a%{ˋ%} PRON-PERS ;     ! "il/elle" (?)
+a:a%{ˋ%} PRON-PERS ;     ! "il/elle" (?) (NO - s'il like s'il mange)
 u:u%{ˊ%} PRON-PERS ;     ! 
 i:i%{ˊ%} PRON-PERS ;     ! 
 kə̂:kə%{ˆ%} PRON-PERS ;   ! 
@@ -456,6 +461,7 @@ bàʼ:ba%{ˋ%}ʼ N-X ; ! "maison"
 bàm:ba%{ˋ%}m N-5 ; ! "ventre"
 bəbunə:bə%{ˊ%}bunə%{ˊ%} N-4 ; ! "statuette"
 bubu:bu%{ˊ%}bu%{ˊ%} N-5 ; ! "papaye"
+bùsi: bu%{ˋ%}si{ˊ%} N-3; !"chat"
 buma:bu%{ˊ%}ma%{ˊ%} N-1 ; ! "orange"
 bun:bu%{ˊ%}n N-5 ; ! "mammelle"
 bə̀nntʉ̀n:bə%{ˋ%}nntʉ%{ˋ%}n N-6 ; ! "gens"
@@ -537,9 +543,9 @@ Yɑùndè:Yɑu%{ˋ%}nde%{ˋ%} NP-TOP ; ! ""
 Ngadou:Ngadou  NP-ANT-M ; ! "Ngadou"
 Nsi:Nsi%{ˊ%}  NP-ANT-M ; ! "Dieu"
 Yɛsɔ:Yɛsɔ%{ˊ%}  NP-ANT-M ; ! "Jesus"
-Jean:Jean  NP-ANT-M ; ! ""
-André:André NP-ANT-M ; ! ""
-Marie:Marie NP-ANT-F ; ! ""
+Jean : Jean  NP-ANT-M ; ! ""
+André : André NP-ANT-M ; ! ""
+Marie : Marie NP-ANT-F ; ! ""
 
 LEXICON Adjectifs
 
