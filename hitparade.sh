@@ -1,7 +1,7 @@
 DIX=apertium-byv.byv.lexc
 BIN=byv.automorf.hfst
 
-cat ~/apertium-languages/apertium-byv-fra/corpora/byv.txt |  sed "s/\([^ ]\)['’]\([^ ]\)/\1ʼ\2/g"  | apertium-destxt | nice -n 19 hfst-proc -w $BIN | apertium-retxt | sed 's/\$\W*\^/$\n^/g' > /tmp/byv.coverage.txt
+cat ~/apertium-languages/apertium-byv-fra/corpora/byv_bible.csv |  sed "s/\([^ ]\)['’]\([^ ]\)/\1ʼ\2/g"  | apertium-destxt | nice -n 19 hfst-proc -w $BIN | apertium-retxt | sed 's/\$\W*\^/$\n^/g' > /tmp/byv.coverage.txt
 
 EDICT=`cat $DIX | grep '^[^:]\+:[^ ]\+ *[A-Z]' | wc -l`
 EPARA=`cat $DIX | grep -o 'LEXICON ' | wc -l`;
