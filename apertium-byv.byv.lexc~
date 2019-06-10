@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!
-!!!                Morphological Transducer for Mə̀dʉ̂mbɑ̀
+!!!                Morphological Transducer for Medumba
 !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -9,25 +9,25 @@ Multichar_Symbols
 %<n%>       ! Noun
 %<np%>      ! Proper noun
 %<pr%>      ! Preposition
-%<adv%>     !
-%<det%>     !
-%<ij%>      !
-%<qst%>     !
-%<rel%>     !
+%<adv%>     ! 
+%<det%>     ! 
+%<ij%>      ! 
+%<qst%>     ! 
+%<rel%>     ! 
 %<cnjcoo%>  ! Conjunction de coordination
-%<cnjsub%>  !
-%<cnjadv%>  !
-%<cop%>     !
-%<neg%>     !
-%<fut%>     !
-%<foc%>     !
-%<prog%>    !
-%<itg%>     !
-%<ind%>     !
-%<dem%>     !
+%<cnjsub%>  ! 
+%<cnjadv%>  ! 
+%<cop%>     ! 
+%<neg%>     ! 
+%<fut%>     ! 
+%<foc%>     ! 
+%<prog%>    ! 
+%<itg%>     ! 
+%<ind%>     ! 
+%<dem%>     ! 
 %<prn%>     ! Pronom
 %<v%>       ! Verbe
-%<past%>    !
+%<past%>    ! 
 %<adj%>     ! Adjectifs
 %<num%>     ! Nombre
 %<top%>     ! Toponym
@@ -63,18 +63,18 @@ Multichar_Symbols
 %{ˋ%}       ! Ton bas
 %{ˊ%}       ! Ton haut
 
-%{↘%}       !
-%{↗%}       !
-%{↓%}       !
+%{↘%}       ! 
+%{↗%}       ! 
+%{↓%}       ! 
 
-%[%+nasal%] !
-%[%+past1%] !
+%[%+nasal%] ! 
+%[%+past1%] ! 
 %[%+n%]     !
 %[%+xp1%]   !
 
-%<sent%>    !
-%<cm%>      !
-%<quot%>    !
+%<sent%>    ! 
+%<cm%>      ! 
+%<quot%>    ! 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                       M O R P H O T A C T I C S                         !!!
@@ -189,7 +189,7 @@ LEXICON V-ALL
 %<v%>%<past6%>:%> # ;
 %<v%>%<consec%>%[%+nasal%]: # ;
 %<v%>%<past1%>%[%+past1%]%[%+nasal%]: # ;
-%<v%>%<past5%>%[%+past1%]%[%+nasal%]: # ;                 ! -{ə}{ˊ}
+%<v%>%<past5%>%[%+past1%]%[%+nasal%]: # ;                 ! -{ə}{ˊ} 
 %<v%>%<past4%>%[%+past1%]%[%+nasal%]:%>%{ə%}%{ˊ%} # ;
 
 LEXICON V
@@ -228,7 +228,7 @@ LEXICON V-TƏ
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRON-PERS
+LEXICON PRON-PERS 
 
 %<prn%>%<pers%>: # ;
 %<prn%>%<pers%>:%>%{↘%} # ;
@@ -245,66 +245,62 @@ LEXICON NP-ANT-M
 
 %<np%>%<ant%>%<m%>: # ;
 
-LEXICON NP-TOP
+LEXICON NP-TOP 
 
 %<np%>%<top%>: # ;
 
 LEXICON ADV-ITG
 
-%<adv%>%<itg%>: # ;
+%<adv%>%<itg%>: # ; 
 
 LEXICON ADV
 
-%<adv%>: # ;
-%<adv%>:%>%{↘%} # ;
+%<adv%>: # ; 
+%<adv%>:%>%{↘%} # ; 
 
 LEXICON CC
 
-%<cnjcoo%>: # ;
+%<cnjcoo%>: # ; 
 
 LEXICON CA
 
-%<cnjadv%>: # ;
-%<cnjadv%>:%>%{↘%} # ;
+%<cnjadv%>: # ; 
+%<cnjadv%>:%>%{↘%} # ; 
 
 LEXICON CS
 
-%<cnjsub%>: # ;
+%<cnjsub%>: # ; 
 
 LEXICON PREP
 
-%<pr%>: # ;
-%<pr%>:%>%{↘%} # ;
+%<pr%>: # ; 
+%<pr%>:%>%{↘%} # ; 
 %<pr%>:%>%{↗%} # ;
 
-LEXICON INTERJ
+LEXICON INTERJ 
 
-%<ij%>: # ;
+%<ij%>: # ; 
 
 LEXICON ADJ
 
-%<adj%>: # ;
+%<adj%>: # ; 
 
-LEXICON NUM
+LEXICON NUM 
 
-%<num%>: # ;
+%<num%>: # ; 
 
-LEXICON DET-IND
+LEXICON DET-IND 
 
 %<det%>%<ind%>: # ;
 
-LEXICON DET
-
-%<det%>: #
-
-LEXICON DET-DEM
+LEXICON DET-DEM 
 
 yə̂n%<det%>%<dem%>%<cl1%>:yə̂n # ; ! "ce"
 yə̂n%<det%>%<dem%>%<cl6%>:cə̂n # ; ! "ces"
 yə̂nna%<det%>%<dem%>%<cl1%>:yə̂nna # ; ! "ça"
 yə̂nna%<det%>%<dem%>%<cl1%>:cə̂nna # ; ! "ça"
 
-LEXICON PRON-POSS
+LEXICON PRON-POSS 
 
 ɑ̀m%<prn%>%<pos%>%<cl1%>:ɑm # ; ! "mine"
 ɑb%<prn%>%<pos%>%<cl3%>:ɑb # ; ! "his in postfix"
@@ -316,8 +312,7 @@ sə%<prn%>%<pos%>%<cl5%>:sə # ; !
 sɑm%<prn%>%<pos%>%<cl5%>:sɑm# ; !
 sagə%<prn%>%<pos%>%<cl5%>:sagə# ; !
 yàg%<prn%>%<pos%>%<cl1%>:ya%{ˋ%}g # ; !
-yub%<prn%>%<pos%>%<cl3%>:yub # ; !
-cɑm%<prn%>%<pos%>%<cl6%>:cɑm
+yub%<prn%>%<pos%>%<cl3%>:yub # ; ! 
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -341,24 +336,19 @@ LEXICON Miscellaneous
 ɑ̂%<foc%>:ɑ̂ # ;
 ɑ̂%<foc%>:ɑ%{ˋ%} # ;
 bə̂%<foc%>:bə̂ # ;
-lɑ%<foc%>:lɑ%{ˊ%} # ;
-lɑ%<foc%>:lɑ%{ˊ%}%>%{↘%} # ;
-nɑ%<foc%>:nɑ%{ˊ%} #;
-à%<foc%>:a%{ˋ%} # ;
+lɑ%<foc%>:lɑ%{ˊ%} # ; 
+lɑ%<foc%>:lɑ%{ˊ%}%>%{↘%} # ; 
+à%<foc%>:a%{ˋ%} # ; 
 
-zə̀%<rel%>:zə̀ # ;
+zə̀%<rel%>:zə̀ # ; 
 ki%<qst%>:ki # ;
 !mə - Adverbialiser
 
 kə̂ʼ%<neg%>:kə̂ʼ # ;
 kə̀%<neg%>:kə̀  # ;
-kɑ̂%<neg%>:kɑ%{ ̂%}  # ;
 nə̀%<inf%>:nə̀ # ;
 àʼ%<fut%>:àʼ # ;
-naʼ%<past%>:na%{ˊ%}ʼ # ;
-naʼ%<past%>:na%{ˊ%}ʼ # ;
-cwɛ̌d%<prog%>:cwɛ%{ ̌%}d # ;
-nǔm%<prog%>%<past%>:nu%{ ̌%}m # ;
+cwɛ̌d%<prog%>:cwɛ̌d # ;
 
 fə̀%<past%>:fə%{ˋ%} # ;  ! P¹
 lò%<past%>:lo%{ˋ%} # ;  ! P²
@@ -367,15 +357,15 @@ cɑg%<past%>:cɑ%{ˊ%}g # ; ! P⁴
 ! P⁵
 ! P⁶
 
-nɑʼə%<past%>%<impf%>:nɑ%{ˊ%}ʼə%{ˊ%} # ;
+nɑʼə%<past%>%<impf%>:nɑ%{ˊ%}ʼə%{ˊ%} # ; 
 kə%<dur%>:kə%{ˊ%}  # ;
 nkə%<dur%>%<consec%>:nkə%{ˊ%} # ;
-nùm%<hab%>%<pres%>:nu%{ˋ%}m # ;
+nùm%<hab%>%<pres%>:nu%{ˋ%}m # ; 
 bə%<hab%>%<consec%>:bə%{ˊ%} # ; ! bəʼə(?)
 
 bə%<cop%>%<pres%>:bə # ;
 
-LEXICON Conjonctions
+LEXICON Conjonctions 
 
 bô:bo%{ˆ%} CC ; ! "et"
 mbə:mbə%{ˊ%} CS ; ! "que"
@@ -384,7 +374,7 @@ ngəlaŋ:ngə%{ˊ%}la%{ˊ%}ŋ CA ; ! "quand"
 ndǎʼndʉ̂:nda%{ˇ%}ʼndʉ%{ˆ%} CA ; ! "mais"
 mbɑ̀% mbɑ:mbɑ%{ˋ%}% mbɑ CA ; ! "bien que"
 
-LEXICON Prepositions
+LEXICON Prepositions 
 
 mbaŋ:mba%{ˊ%}ŋ PREP ; ! "à côté de"
 nyàm:nya%{ˋ%}m PREP ; ! "deriere"
@@ -392,19 +382,16 @@ ntʉ̂m:ntʉ%{ˆ%}m PREP ; ! "sur"
 mbwə:mbwə%{ˊ%} PREP ; ! "devant"
 mbwə:mbwə%{ˇ%} PREP ; ! FIXME
 bô:bo%{ˆ%} PREP ;     ! "avec"
-num:num%{ˊ%} PREP ;
-nzə̌nnî:nzə%{ ̌%}nni%{ ̂%} PREP ;
-nzə̌nnɑ:nzə%{ ̌%}nnɑ%{ ́%} PREP ;
 
 LEXICON Pronoms
 
 mə:mə%{ˊ%} PRON-PERS ;   ! "je"
-mə̀:mə%{ˋ%} PRON-PERS ;   !
+mə̀:mə%{ˋ%} PRON-PERS ;   ! 
 a:a%{ˊ%} PRON-PERS ;     ! "il/elle"
 a:a%{ˋ%} PRON-PERS ;     ! "il/elle" (?) (NO - s'il like s'il mange)
-o:o%{ˊ%} PRON-PERS ;     !
-i:i%{ˊ%} PRON-PERS ;     !
-kə̂:kə%{ˆ%} PRON-PERS ;   !
+u:u%{ˊ%} PRON-PERS ;     ! 
+i:i%{ˊ%} PRON-PERS ;     ! 
+kə̂:kə%{ˆ%} PRON-PERS ;   ! 
 yi:yi%{ˊ%} PRON-PERS ;   !
 wʉ̀:wʉ%{ˋ%} PRON-PERS ;   !
 bɑ̀g:bɑ%{ˋ%}g PRON-PERS ; ! "nous" (excl.)
@@ -414,25 +401,19 @@ bìn:bi%{ˋ%}n PRON-PERS ; ! "vous"
 bo:bo%{ˊ%} PRON-PERS ;   ! "ils"
 
 0:0 PRON-POSS ; !
-u:u%{ˊ%} PRON-PERS ;     !
 
 ntsiâŋtə̀:ntsia%{ˆ%}ŋtə%{ˋ%} PRON ; ! ""
 
-LEXICON Determiners
+LEXICON Determiners 
 
 tàʼ:ta%{ˋ%}ʼ DET-IND ; ! "un" (eng. "a, an")
-bɑ̀:bɑ%{ˋ%}ʼ DET-IND ; ! "les/des"
 
-fa:fa DET;
-fafa:fafa DET;
-njǒŋ: nj%{ ̌%}ŋ DET;
-
-0:0 DET-DEM ;
+0:0 DET-DEM ; 
 
 LEXICON Nombres
 
 bɑ̌nbɑn:bɑ%{ˇ%}nbɑ%{ˊ%}n NUM ; ! "zero"
-ncʉʼ:ncʉ%{ˊ%}ʼ NUM ; ! "un"
+ncʉʼ:ncʉ%{ˊ%}ʼ NUM ; ! "un" 
 bɑhɑ:bɑ%{ˊ%}hɑ%{ˊ%} NUM ; ! "deux"
 tad:ta%{ˊ%}d NUM ; ! "trois"
 kuɑ̀:kuɑ%{ˋ%} NUM ; ! "quatre"
@@ -443,7 +424,7 @@ fomə:fo%{ˊ%}mə%{ˊ%} NUM ; ! "huit"
 bwə̀ʼə:bwə%{ˋ%}ʼə%{ˊ%}  NUM ; ! "neuf"
 gham:gha%{ˊ%}m NUM ; ! "dix"
 
-LEXICON Noms
+LEXICON Noms 
 
 ka:ka%{ˊ%} N-1-4 ; ! "assiette"
 cɔ̀:cɔ%{ˋ%} N-5-5 ; ! "histoire"
@@ -474,7 +455,7 @@ kə̀bwɔ̀:kə%{ˋ%}bwɔ%{ˋ%} N-1 ; ! "mal"
 mə̀bwɔ:mə%{ˋ%}bwɔ%{ˊ%} N-3-6 ; ! "bien"
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 bàʼ:ba%{ˋ%}ʼ N-X ; ! "maison"
 bàm:ba%{ˋ%}m N-5 ; ! "ventre"
@@ -503,7 +484,7 @@ kə̀nà:kə%{ˋ%}na%{ˋ%} N-1 ; ! "arrachide"
 ki:ki%{ˊ%} N-1 ; ! "clé"
 
 lɑg:lɑ%{ˊ%}g N-5 ; ! "oeil"
-lɑg:miɑ%{ˊ%}g N-4 ; ! "yeux"
+lɑg:miɑ%{ˊ%}g N-4 ; ! "yeux" 
 laʼ:la%{ˊ%}ʼ N-5 ; ! "village"
 
 màd:ma%{ˋ%}d N-1 ; ! "habitude"
@@ -524,7 +505,7 @@ mvɛ̀n:mvɛ%{ˋ%}n N-1 ; ! "dos"
 
 ncù:ncu%{ˋ%} N-3 ; ! "bouche"
 ncwɛn:ncwɛ%{ˊ%}n N-X ; ! "bois"
-ngàŋwàʼnì:nga%{ˋ%}ŋwa%{ˋ%}ʼni%{ˋ%} N-1 ; ! "étudiant"
+ngàŋwàʼnì:nga%{ˋ%}ŋwa%{ˋ%}ʼni%{ˋ%} N-1 ; ! "étudiant" 
 ndùʼ:ndu%{ˋ%}ʼ N-4 ; ! "bier"
 ndɑ:ndɑ%{ˊ%} N-1 ; ! "maison"
 ngɔ̀:ngɔ%{ˋ%} N-3 ; ! "monde"
@@ -555,7 +536,7 @@ wud:wu%{ˊ%}d N-1 ; ! "corp"
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON ProperNouns
+LEXICON ProperNouns 
 
 Kamərun:Ka%{ˊ%}mə%{ˊ%}ru%{ˊ%}n NP-TOP ; ! "Cameroon"
 Yɑùndè:Yɑu%{ˋ%}nde%{ˋ%} NP-TOP ; ! ""
@@ -581,12 +562,12 @@ ndàʼndǎʼ:nda%{ˋ%}ʼnda%{ˇ%}ʼ ADJ ; ! "lent"
 nyìnnyìn:nyi%{ˋ%}nyi%{ˋ%}n ADJ ; ! "muliticolor"
 
 bǎ:ba%{ˇ%} ADJ ; ! "rouge"
-bwɔ̌:bwɔ%{ˇ%} ADJ ;
+bwɔ̌:bwɔ%{ˇ%} ADJ ; 
 fogə:fo%{ˊ%}gə%{ˊ%} ADJ ; ! "blanc"
 sɛnə:sɛ%{ˊ%}nə%{ˊ%} ADJ ; ! "noire"
 nə̀nɑ̀% fi:nə%{ˋ%}nɑ%{ˋ%}% fi%{ˊ%} ADJ ; ! "vert"
 
-LEXICON Adverbes
+LEXICON Adverbes 
 
 yɑ:yɑ%{ˊ%} ADV-ITG ; ! "où?"
 nǔmkə̂:nu%{ˇ%}mkə%{ˆ%} ADV-ITG ; ! "porquoi?"
