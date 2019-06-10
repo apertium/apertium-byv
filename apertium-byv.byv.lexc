@@ -379,6 +379,7 @@ LEXICON Prepositions
 mbaŋ:mba%{ˊ%}ŋ PREP ; ! "à côté de"
 nyàm:nya%{ˋ%}m PREP ; ! "deriere"
 ntʉ̂m:ntʉ%{ˆ%}m PREP ; ! "sur"
+ntʉ̂m:ntùm PREP ; ! "sur" ! Dir/LR ! Err/Orth
 mbwə:mbwə%{ˊ%} PREP ; ! "devant"
 mbwə:mbwə%{ˇ%} PREP ; ! FIXME
 bô:bo%{ˆ%} PREP ;     ! "avec"
@@ -472,6 +473,7 @@ com:co%{ˊ%}m N-5 ; ! "safrou, prune"
 cwɛd:cwɛ%{ˊ%}d N-3 ; ! "champ"
 
 dʉ̌ʼ:dʉ%{ˇ%}ʼ N-5 ; ! "lieu"
+dʉʼ:dùʼ N-5 ; ! Dir/LR ! Err/Orth
 
 fà:fa%{ˋ%} N-5 ; ! "accident"
 fu:fu%{ˊ%} N-5 ; ! "reméde
