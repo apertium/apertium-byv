@@ -65,13 +65,13 @@
      ^11 ^Ò/*Ò$
      ^11 ^nǔ/*nǔ$
      ^11 ^nkwimtə/*nkwimtə$
-     ^11 ^ne/*ne$
+     ^11 ^ne/*ne$ | DNE
      ^10 ^siaŋ/*siaŋ$
      ^10 ^sɛ̂nnî/*sɛ̂nnî$
      ^10 ^nkwatə/*nkwatə$
      ^10 ^ŋwàʼnǐ/*ŋwàʼnǐ$
      ^10 ^ndɔ̌nnî/*ndɔ̌nnî$
-     ^10 ^lǎ/*lǎ$
+     ^10 ^lǎ/*lǎ$ | DNE
      ^10 ^cobtə/*cobtə$
      ^10 ^bin/*bin$
      ^10 ^bɛdtə/*bɛdtə$

@@ -295,7 +295,7 @@ LEXICON DET-IND
 
 LEXICON DET
 
-%<det%>: #
+%<det%>: #;
 
 LEXICON DET-DEM
 
@@ -317,7 +317,7 @@ sɑm%<prn%>%<pos%>%<cl5%>:sɑm# ; !
 sagə%<prn%>%<pos%>%<cl5%>:sagə# ; !
 yàg%<prn%>%<pos%>%<cl1%>:ya%{ˋ%}g # ; !
 yub%<prn%>%<pos%>%<cl3%>:yub # ; !
-cɑm%<prn%>%<pos%>%<cl6%>:cɑm
+cɑm%<prn%>%<pos%>%<cl6%>:cɑm # ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -352,13 +352,13 @@ ki%<qst%>:ki # ;
 
 kə̂ʼ%<neg%>:kə̂ʼ # ;
 kə̀%<neg%>:kə̀  # ;
-kɑ̂%<neg%>:kɑ%{ ̂%}  # ;
+kɑ̂%<neg%>:kɑ̂  # ;
 nə̀%<inf%>:nə̀ # ;
 àʼ%<fut%>:àʼ # ;
 naʼ%<past%>:na%{ˊ%}ʼ # ;
 naʼ%<past%>:na%{ˊ%}ʼ # ;
-cwɛ̌d%<prog%>:cwɛ%{ ̌%}d # ;
-nǔm%<prog%>%<past%>:nu%{ ̌%}m # ;
+cwɛ̌d%<prog%>:cwɛ̌d # ;
+nǔm%<prog%>%<past%>:nǔm # ;
 
 fə̀%<past%>:fə%{ˋ%} # ;  ! P¹
 lò%<past%>:lo%{ˋ%} # ;  ! P²
@@ -394,8 +394,8 @@ mbwə:mbwə%{ˊ%} PREP ; ! "devant"
 mbwə:mbwə%{ˇ%} PREP ; ! FIXME
 bô:bo%{ˆ%} PREP ;     ! "avec"
 num:num%{ˊ%} PREP ;
-nzə̌nnî:nzə%{ ̌%}nni%{ ̂%} PREP ;
-nzə̌nnɑ:nzə%{ ̌%}nnɑ%{ ́%} PREP ;
+nzə̌nnî:nzə̌nnî PREP ;
+!nzə̌nnɑ:nzə%{ ̌%}nnɑ%{ ́%} PREP ;
 
 LEXICON Pronoms
 
@@ -426,7 +426,7 @@ bɑ̀:bɑ%{ˋ%}ʼ DET-IND ; ! "les/des"
 
 fa:fa DET;
 fafa:fafa DET;
-njǒŋ: nj%{ ̌%}ŋ DET;
+!njǒŋ: nj%{ ̌%}ŋ DET;
 
 0:0 DET-DEM ;
 
@@ -584,6 +584,8 @@ nyìnnyìn:nyi%{ˋ%}nyi%{ˋ%}n ADJ ; ! "muliticolor"
 
 bǎ:ba%{ˇ%} ADJ ; ! "rouge"
 bwɔ̌:bwɔ%{ˇ%} ADJ ;
+bwɔ̂:bwɔ%{ ̂%} ADJ ;
+ghuʼu:ghu%{ˊ%}ʼ ADJ ;
 fogə:fo%{ˊ%}gə%{ˊ%} ADJ ; ! "blanc"
 sɛnə:sɛ%{ˊ%}nə%{ˊ%} ADJ ; ! "noire"
 nə̀nɑ̀% fi:nə%{ˋ%}nɑ%{ˋ%}% fi%{ˊ%} ADJ ; ! "vert"
@@ -642,6 +644,7 @@ tadtə:ta%{ˊ%}d V-TƏ ; ! "mentir"
 tʉntə:tʉ%{ˊ%}n V-TƏ ; ! "compter"
 lɔtə:lɔ%{ˊ%} V-TƏ ; ! "regarder"
 miɑ̀gtə̌:miɑ%{ˋ%}g V-TƏ ; ! "finir"
+cobtə:co%{ˊ%}btə%{ˊ%} V-TƏ ;
 
 
 LEXICON Interjections
