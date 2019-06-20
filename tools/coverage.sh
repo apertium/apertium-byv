@@ -2,9 +2,9 @@ cat ~/apertium-byv-fra/corpora/byv.txt | sed "s/\([^ ]\)['’]\([^ ]\)/\1ʼ\2/g"
 
 cat ~/apertium-byv-fra/corpora/byv.txt | sed "s/\([^ ]\)['’]\([^ ]\)/\1ʼ\2/g" | cut -f2 | sed 's/¶//g' | apertium -d apertium-byv-fra byv-fra-morph | sed 's/\$\W*\^/$\n^/g' > /tmp/byv-fra.wiki.cov
 
-lex=`cat apertium-byv/apertium-byv.byv.lexc | grep '^[^:]\+:[^ ]\+ *[A-Z]' | wc -l`
-par=`cat apertium-byv/apertium-byv.byv.lexc | grep -o 'LEXICON ' | wc -l`;
-bidix=`cat apertium-byv-fra/apertium-byv-fra.byv-fra.dix | grep '<l' | wc -l`;
+lex=`cat ~/apertium-byv/apertium-byv.byv.lexc | grep '^[^:]\+:[^ ]\+ *[A-Z]' | wc -l`
+par=`cat ~/apertium-byv/apertium-byv.byv.lexc | grep -o 'LEXICON ' | wc -l`;
+bidix=`cat ~/apertium-byv-fra/apertium-byv-fra.byv-fra.dix | grep '<l' | wc -l`;
 
 bibtot=`cat /tmp/byv-fra.wiki.cov | wc -l`;
 bibkno=`cat /tmp/byv-fra.wiki.cov | grep -v '\*' | wc -l`;
