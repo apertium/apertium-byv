@@ -343,14 +343,11 @@ tsə%<prn%>%<pos%>%<cl6%>:tsə #;
 LEXICON Prefixes
 
 %[%+n%]:%{N%}%> Noms ;
-                Noms ;
 %[%+n%]:%{N%}%> P_1 ; ! N-
-                P_1 ; !  -
 
 LEXICON P_1
 
 %[+xp1%]:%{ˊ%}%> Verbes ; ! -x´-
-                 Verbes ; !    -
 
 LEXICON Miscellaneous
 
@@ -654,8 +651,7 @@ nyìnnyìn:nyi%{ˋ%}nyi%{ˋ%}n ADJ ; ! "muliticolor"
 
 bǎ:ba%{ˇ%} ADJ ; ! "rouge"
 bwɔ̌:bwɔ%{ˇ%} ADJ ;
-bwɔ̌:bwɔ%{ˆ%} ADJ ;
-bwɔ̌:bwɔ%{ˊ%} ADJ ;
+bwɔ̂:bwɔ%{ˆ%} ADJ ;
 ghuʼu:ghu%{ˊ%}ʼ ADJ ;
 fogə:fo%{ˊ%}gə%{ˊ%} ADJ ; ! "blanc"
 sɛnə:sɛ%{ˊ%}nə%{ˊ%} ADJ ; ! "noire"
