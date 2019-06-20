@@ -77,7 +77,7 @@
      ^10 ^bɛdtə/*bɛdtə$
      ^10 ^bàg/*bàg$
       ^9 ^yǒg/*yǒg$
-      ^9 ^tǒʼ/*tǒʼ$
+      ^9 ^tǒʼ/*tǒʼ$  *jamais
       ^9 ^ndə̂ndə/*ndə̂ndə$
       ^9 ^ndǎʼ/*ndǎʼ$
       ^9 ^futə/*futə$
@@ -86,7 +86,8 @@
       ^8 ^tʉʼ/*tʉʼ$
       ^8 ^sɑ̂m/*sɑ̂m$
       ^8 ^njîm/*njîm$
-      ^8 ^nə̀ta/*nə̀ta$
+      ^8 ^nə̀ta/*nə̀ta$  --done
+
       ^8 ^nɛ̀nə/*nɛ̀nə$
       ^8 ^ncobtə/*ncobtə$
       ^7 ^Yù/*Yù$
@@ -95,7 +96,7 @@
       ^7 ^nkwàtə̀/*nkwàtə̀$
       ^7 ^njòŋ/*njòŋ$
       ^7 ^ŋwàʼni/*ŋwàʼni$
-      ^7 ^ndʉ̂gə/*ndʉ̂gə$
+      *^7 ^ndʉ̂gə/*ndʉ̂gə$
       ^7 ^môʼ/*môʼ$
       ^7 ^mfàʼ/*mfàʼ$
       ^7 ^kwàtə̀/*kwàtə̀$
@@ -106,22 +107,23 @@
       ^6 ^tsin/*tsin$
       ^6 ^toʼndɑ/*toʼndɑ$
       ^6 ^tôg/*tôg$
-      ^6 ^sɑ̂mju/*sɑ̂mju$
+      ^6 ^sɑ̂mju/*sɑ̂mju$ | sɑ̌mju
       ^6 ^Sɑ̂m/*Sɑ̂m$
       ^6 ^nsi/*nsi$
       ^6 ^nshùm/*nshùm$
       ^6 ^nkəʼ/*nkəʼ$
       ^6 ^ndɔtə/*ndɔtə$
-      ^6 ^mɑndûm/*mɑndûm$
-      ^6 ^mbwə̀/*mbwə̀$
+      ^6 ^mɑndûm/*mɑndûm$ | DNE
+      ^6 ^mbwə̀/*mbwə̀$ **
       ^6 ^mbɛdtə̀/*mbɛdtə̀$
       ^6 ^kwàtə/*kwàtə$
-      ^6 ^côb/*côb$
+      ^6 ^côb/*côb$ | DONE
+
       ^6 ^cɑ̂m/*cɑ̂m$
       ^5 ^zənnî/*zənnî$
       ^5 ^yôg/*yôg$
       ^5 ^yənnɑ/*yənnɑ$
-      ^5 ^tû/*tû$
+      ^5 ^tû/*tû$ **
       ^5 ^toʼtə/*toʼtə$
       ^5 ^sə̀ʼ/*sə̀ʼ$
       ^5 ^nkûm/*nkûm$
@@ -132,7 +134,7 @@
       ^5 ^nəsɑ̀m/*nəsɑ̀m$
       ^5 ^nənənə/*nənənə$
       ^5 ^ndə/*ndə$
-      ^5 ^ndâʼ/*ndâʼ$
+      ^5 ^ndâʼ/*ndâʼ$ | DNE
       ^5 ^ncʉɑ̂/*ncʉɑ̂$
       ^5 ^kùʼ/*kùʼ$
       ^5 ^kɔ/*kɔ$
@@ -142,13 +144,13 @@
       ^5 ^cʉɑ̂/*cʉɑ̂$
       ^5 ^bwɔ/*bwɔ$
       ^5 ^buʼ/*buʼ$
-      ^4 ^zitə/*zitə$
+      ^4 ^zitə/*zitə$ | DNE
       ^4 ^zə/*zə$
       ^4 ^wa/*wa$
       ^4 ^tum/*tum$
       ^4 ^tswəʼ/*tswəʼ$
       ^4 ^sǔ/*sǔ$
-      ^4 ^Sɑ̂mmɛ̀n/*Sɑ̂mmɛ̀n$
+      ^4 ^Sɑ̂mmɛ̀n/*Sɑ̂mmɛ̀n$ | DNE
       ^4 ^sə̂/*sə̂$
       ^4 ^ɔ/*ɔ$
       ^4 ^nzə̌nnɑ/*nzə̌nnɑ$
@@ -175,6 +177,7 @@
       ^4 ^Me/*Me$
       ^4 ^mbwɔ̀/*mbwɔ̀$
       ^4 ^lòʼ/*lòʼ$
+      
       ^4 ^lɑ̂/*lɑ̂$
       ^4 ^kwimtə/*kwimtə$
       ^4 ^kwì/*kwì$
@@ -237,7 +240,7 @@
       ^3 ^Bɑ̀/*Bɑ̀$
       ^2 ^zwiʼtə̀/*zwiʼtə̀$
       ^2 ^zwiʼtə/*zwiʼtə$
-      ^2 ^zîn/*zîn$
+      ^2 ^ok /*zîn$
       ^2 ^zənnɑ/*zənnɑ$
       ^2 ^yubə/*yubə$
       ^2 ^yòŋ/*yòŋ$

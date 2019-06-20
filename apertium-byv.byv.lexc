@@ -233,6 +233,11 @@ LEXICON PRON-PERS
 %<prn%>%<pers%>: # ;
 %<prn%>%<pers%>:%>%{↘%} # ;
 
+LEXICON PRON-PERS-IND
+
+%<prn%>%<pers%>%<ind%>: # ;
+%<prn%>%<pers%>%<ind%>:%>%{↘%} # ;
+
 LEXICON PRON
 
 %<prn%>: # ;
@@ -339,8 +344,10 @@ LEXICON P_1
 LEXICON Miscellaneous
 
 ɑ̂%<foc%>:ɑ̂ # ;
-ɑ̂%<foc%>:ɑ%{ˋ%} # ;
+ɑ%<foc%>:ɑ # ;
+ɑ̀%<foc%>:ɑ%{ˋ%} # ;
 bə̂%<foc%>:bə̂ # ;
+yǒg<foc%>:yo%{ˇ%}g # ;
 lɑ%<foc%>:lɑ%{ˊ%} # ;
 lɑ%<foc%>:lɑ%{ˊ%}%>%{↘%} # ;
 nɑ%<foc%>:nɑ%{ˊ%} #;
@@ -352,6 +359,7 @@ ki%<qst%>:ki # ;
 
 kə̂ʼ%<neg%>:kə̂ʼ # ;
 kə̀%<neg%>:kə̀  # ;
+nkə%<prog%>:nkə  # ;
 kɑ̂%<neg%>:kɑ̂  # ;
 nə̀%<inf%>:nə̀ # ;
 àʼ%<fut%>:àʼ # ;
@@ -380,6 +388,7 @@ LEXICON Conjonctions
 bô:bo%{ˆ%} CC ; ! "et"
 mbə:mbə%{ˊ%} CS ; ! "que"
 
+Ngə̀laŋ:Ngə%{ˋ%}la%{ˊ%}ŋ CA ;
 ngəlaŋ:ngə%{ˊ%}la%{ˊ%}ŋ CA ; ! "quand"
 ndǎʼndʉ̂:nda%{ˇ%}ʼndʉ%{ˆ%} CA ; ! "mais"
 mbɑ̀% mbɑ:mbɑ%{ˋ%}% mbɑ CA ; ! "bien que"
@@ -388,14 +397,17 @@ LEXICON Prepositions
 
 mbaŋ:mba%{ˊ%}ŋ PREP ; ! "à côté de"
 nyàm:nya%{ˋ%}m PREP ; ! "deriere"
+njàm:nja%{ˋ%}m PREP ;
 ntʉ̂m:ntʉ%{ˆ%}m PREP ; ! "sur"
-ntʉ̂m:ntùm PREP ; ! "sur" ! Dir/LR ! Err/Orth
+ntʉ̂m:ntʉ%{ˆ%}m PREP ;
+ntʉ̂:ntʉ%{ˆ%} PREP ; ! "sur" ! Dir/LR ! Err/Orth
 mbwə:mbwə%{ˊ%} PREP ; ! "devant"
 mbwə:mbwə%{ˇ%} PREP ; ! FIXME
 bô:bo%{ˆ%} PREP ;     ! "avec"
+nkûm:nku%{ˆ%}m PREP ;
 num:num%{ˊ%} PREP ;
 nzə̌nnî:nzə̌nnî PREP ;
-!nzə̌nnɑ:nzə%{ ̌%}nnɑ%{ ́%} PREP ;
+nzə̌nnɑ:nzə%{ ̌%}nnɑ%{ ́%} PREP ;
 
 LEXICON Pronoms
 
@@ -425,8 +437,13 @@ tàʼ:ta%{ˋ%}ʼ DET-IND ; ! "un" (eng. "a, an")
 bɑ̀:bɑ%{ˋ%}ʼ DET-IND ; ! "les/des"
 
 fa:fa DET;
+sɑ̌mju:sɑ̌mju DET;
 fafa:fafa DET;
-!njǒŋ: nj%{ ̌%}ŋ DET;
+njǒŋ: njo%{ˇ%}ŋ DET;
+njòŋ: njo%{ˋ%}ŋ DET;
+ndǎʼ: nda%{ˇ%}ʼ DET;
+mǒʼ: mǒ%{ˇ%}ʼ DET;
+môʼ: mô%{ˆ%}ʼ DET;
 
 0:0 DET-DEM ;
 
@@ -649,6 +666,7 @@ cobtə:co%{ˊ%}btə%{ˊ%} V-TƏ ;
 
 LEXICON Interjections
 
+ɔ:ɔ%{ˊ%} INTERJ ;
 ŋ̂:ŋ%{ˆ%} INTERJ ; ! "oui"
 nga:nga INTERJ ; ! "non"
 
