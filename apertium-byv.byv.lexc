@@ -324,9 +324,9 @@ sə%<prn%>%<pos%>%<cl5%>:sə # ; !
 sɑm%<prn%>%<pos%>%<cl5%>:sɑm # ; !
 sɑ̂m%<prn%>%<pos%>%<cl5%>:sɑ̂m # ; !
 Sɑ̂m%<prn%>%<pos%>%<cl5%>:Sɑ̂m # ;
-sagə%<prn%>%<pos%>%<cl5%>:sagə# ; !
+sagə%<prn%>%<pos%>%<cl5%>:sagə # ; !
 su%<prn%>%<pos%>%<cl%>:su # ;
-yɑm%<prn%>%<pos%>%<cl3%>:yɑm# ;
+yɑm%<prn%>%<pos%>%<cl3%>:yɑm # ;
 yɑ̀m%<prn%>%<pos%>%<cl1%>:yɑ%{ˋ%}m # ;
 yù%<prn%>%<pos%>%<cl1%>:yù # ;
 yu%<prn%>%<pos%>%<cl3%>:yu # ;
@@ -469,6 +469,7 @@ sɑ̌mju:sɑ̌mju DET;
 fafa:fafa DET;
 njǒŋ: njo%{ˇ%}ŋ DET;
 njòŋ: njo%{ˋ%}ŋ DET;
+Njòŋ: Njo%{ˋ%}ŋ DET;
 ndǎʼ: nda%{ˇ%}ʼ DET;
 mǒʼ: mǒ%{ˇ%}ʼ DET;
 môʼ: mô%{ˆ%}ʼ DET;
@@ -527,6 +528,8 @@ cɛ̌dkù:cɛ%{ˇ%}dku%{ˋ%} N-1 ; ! "souris"
 ju:ju%{ˊ%} N-1 ; ! "chose"
 kə̀nà:kə%{ˋ%}na%{ˋ%} N-1 ; ! "arrachide"
 ki:ki%{ˊ%} N-1 ; ! "clé"
+ngɔ̀:ngɔ%{ˋ%} N-1 ;
+ngɔ̌:ngɔ%{ˇ%} N-1 ;
 wa:wa%{ˊ%} N-1 ;
 màd:ma%{ˋ%}d N-1 ; ! "habitude"
 mɑnndùm:mɑnndu%{ˋ%}m N-X ; ! "homme"
@@ -541,6 +544,7 @@ mbàʼsaʼ:mba%{ˋ%}ʼsaʼ N-1 ; ! "avocat"
 mbɛmbɛnə:mbɛ%{ˊ%}mbɛ%{ˊ%}nə%{ˊ%} N-1 ; ! "caffard"
 mbʉ̀ntə:mbʉ%{ˋ%}ntə%{ˊ%} N-1 ; ! "reponse"
 mvɛ̀n:mvɛ%{ˋ%}n N-1 ; ! "dos"
+mfɛd:mfɛ%{ˊ%}d N-1 ;
 tɔndɑ:tɔ%{ˊ%}ndɑ%{ˊ%} N-1 ; ! "fenêtre"
 wud:wu%{ˊ%}d N-1 ; ! "corp"
 nkɑb:nkɑ%{ˊ%}b N-1 ; ! "argent"
@@ -562,7 +566,7 @@ ngə̀laŋ:ngə%{ˋ%}laŋ N-1 ;
 nkwimtə̀:nkwimtə%{ˋ%} N-1 ;
 ngòn:ngo%{ˋ%}n N-1 ; ! "fille"
 nshùm:nshu%{ˋ%}m N-1 ;
-nshùm:nshu%{ˋ%}m N-1 ;
+Nshùm:Nshu%{ˋ%}m N-1 ;
 nshun:nshu%{ˊ%}n N-1 ;
 
 bàʼ:ba%{ˋ%}ʼ N-3 ; ! "maison"
@@ -586,8 +590,10 @@ ntsə:ntsə%{ˊ%} N-4 ; ! "eau"
 ndùʼ:ndu%{ˋ%}ʼ N-4 ; ! "bier"
 ncobə:ncobə%{ˊ%} N-4 ;
 ncob:ncob N-4 ;
+mbuʼ:mbuʼ N-4 ;
 mfàʼ:mfa%{ˋ%} N-4 ;
 nkwàtə̀:nkwa%{ˊ%}tə%{ˋ%} N-4 ;
+mbuntə̀:mbu%{ˊ%}ntə%{ˋ%} N-4 ;
 
 bàm:ba%{ˋ%}m N-5 ; ! "ventre"
 bubu:bu%{ˊ%}bu%{ˊ%} N-5 ; ! "papaye"
@@ -610,7 +616,11 @@ tʉ:tʉ%{ˊ%} N-5 ; ! "arbre"
 lɛn:lɛ%{ˆ%}n N-5;
 kwì:kwi%{ˋ%} N-5;
 bìn:bi%{ˋ%}n N-5;
+ncà:nca%{ˋ%} N-5;
+Ncà:Nca%{ˋ%} N-5;
 ntsiâŋtə̀:ntsia%{ˆ%}ŋtə%{ˋ%} N-5; ! "
+tsiâŋtə̀:tsia%{ˆ%}ŋtə%{ˋ%} N-5;
+ntsiàŋtə̌:ntsia%{ˋ%}ŋtə%{ˇ%} N-5;
 
 bə̀nntʉ̀n:bə%{ˋ%}nntʉ%{ˋ%}n N-6 ; ! "gens"
 nyǎŋtu:nya%{ˇ%}ŋtu%{ˊ%}  N-6 ; ! "cheveux"
@@ -694,7 +704,8 @@ ndɔ̌nnî:ndɔ%{ˇ%}nni%{ˆ%} ADV ;
 ndə̂ndə:ndə%{ˆ%}ndə%{ˊ%} ADV ;
 ncʉâ:ncʉ%{ˊ%}a%{ˆ%} ADV ;
 ndə:ndə%{ˊ%} ADV ;
-nkòg:nko%{ˋ%}g ADV ; ! "hier"                        !@!
+nkòg:nko%{ˋ%}g ADV ; ! "hier"                       !@!
+ndǎmnjʉ:nda%{ˇ%}mnjʉ%{ˊ%} ADV ;
 
 mbɑ̀:mbɑ%{ˋ%} ADV ; ! ""
 tswəʼ:tswə%{ˊ%}ʼ ADV ;
@@ -748,6 +759,8 @@ ghʉ̌:ghʉ%{ˋ%} V-ALL ; ! "faire"
 sǒ:so%{ˇ%} V-ALL ;
 sô:so%{ˆ%} V-ALL ;
 so:so%{ˊ%} V-ALL ;
+lǒ:lo%{ˇ%} V-ALL ;
+ta:ta%{ˊ%} V-ALL ;
 ghʉ̌:ghʉ%{ˊ%} V-ALL ;
 kùʼu:ku%{ˋ%}ʼu V-ALL ;
 kùʼu:ku%{ˋ%}ʼ V-ALL ;
@@ -805,9 +818,12 @@ nɛnə:nɛ%{ˊ%}n V-Ə ; ! "aller"
 zìnə:zi%{ˊ%}n V-Ə ; ! "marcher"
 cʉbə:cʉ%{ˊ%}b V-Ə ; ! "tenir"
 bolə:bo%{ˊ%}lə%{ˊ%} V-Ə ;
+mbolə:mbo%{ˊ%}lə%{ˊ%} V-Ə ;
 siaŋə:si%{ˊ%}a%{ˊ%}ŋə%{ˊ%} V-Ə ;
 
-kwatə̌:kwa%{ˊ%}tə%{ˇ%} V-ALL ; ! "croire"
+kwatə̌:kwa%{ˆ%} V-TƏ ; ! "croire"
+nàbtə̌:na%{ˊ%}b V-TƏ ;
+kwatə̌:kwa%{ˆ%} V-TƏ ;
 làʼtə̌:la%{ˋ%}ʼt V-TƏ ; ! "monter"
 ziʼtə:zi%{ˊ%}ʼt V-TƏ ;
 kìtə̌:ki%{ˋ%}ʼt V-TƏ ; ! "monter"
@@ -818,10 +834,10 @@ tadtə:ta%{ˊ%}d V-TƏ ; ! "mentir"
 tʉntə:tʉ%{ˊ%}n V-TƏ ; ! "compter"
 lɔtə:lɔ%{ˊ%} V-TƏ ; ! "regarder"
 miɑ̀gtə̌:miɑ%{ˋ%}g V-TƏ ; ! "finir"
+miɑ̂gtə:miɑ%{ˆ%}g V-TƏ ;
 bɛdtə:bɛ%{ˊ%}dtə%{ˊ%} V-TƏ ;
 futə:fu%{ˊ%}tə%{ˊ%} V-TƏ ;
-tsiâŋtə̀:tsia%{ˆ%}ŋtə%{ˋ%} N-5;
-ntsiàŋtə̌:ntsia%{ˋ%}ŋtə%{ˇ%} N-5;
+nàbtə̌:na%{ˋ%}btə N-5;
 
 
 LEXICON Interjections
@@ -843,9 +859,9 @@ LEXICON Punctuation
 %“%<quot%>:%“ # ;
 %«%<quot%>:%« # ;
 %”%<quot%>:%” # ;
-%?%<sent%>:%? # ;
+%?%<sent%>:%? # ; ! 
 %,%<cm%>:%, # ;
-%(%<lpar%>:%( # ;
+%(%<lpar%>:%( # ; !
 %)%<rpar%>:%) # ;
 %…%<sent%>:%… # ;
 

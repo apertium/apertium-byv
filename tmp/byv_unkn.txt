@@ -218,9 +218,9 @@
       ^3 ^Nshùm/*Nshùm$
       ^3 ^nkwâtə/*nkwâtə$
       ^3 ^Njòŋ/*Njòŋ$
-      ^3 ^njôn/*njôn$
-      ^3 ^njǒn/*njǒn$
-      ^3 ^njà/*njà$
+      ^3 ^njôn/*njôn$ ????
+      ^3 ^njǒn/*njǒn$ ????
+      ^3 ^njà/*njà$**
       ^3 ^ngɔ̌/*ngɔ̌$
       ^3 ^ndǎmnjʉ/*ndǎmnjʉ$
       ^3 ^Ncà/*Ncà$
