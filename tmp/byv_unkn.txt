@@ -232,10 +232,10 @@
       ^3 ^mbuʼ/*mbuʼ$
       ^3 ^mbolə/*mbolə$
       ^3 ^lǒ/*lǒ$
-      ^3 ^lo/*lo$
+      ^3 ^lo/*lo$ ?????
       ^3 ^Lɛ̂n/*Lɛ̂n$
       ^3 ^kwǎʼ/*kwǎʼ$
-      ^3 ^Flansi/*Flansi$
+      ^3 ^Flansi/*Flansi$ | not found
       ^3 ^fə/*fə$
       ^3 ^fɑ̂/*fɑ̂$
       ^3 ^fɑ/*fɑ$
@@ -246,26 +246,26 @@
       ^3 ^Bɑ̀/*Bɑ̀$
       ^2 ^zwiʼtə̀/*zwiʼtə̀$
       ^2 ^zwiʼtə/*zwiʼtə$
-      ^2 ^ok /*zîn$
+      ^2 ^ok /*zîn$ ****
       ^2 ^zənnɑ/*zənnɑ$
       ^2 ^yubə/*yubə$
       ^2 ^yòŋ/*yòŋ$
       ^2 ^Yòg/*Yòg$
       ^2 ^Yɑ̀m/*Yɑ̀m$
       ^2 ^yîn/*yîn$
-      ^2 ^yennî/*yennî$
+      ^2 ^yennî/*yennî$ | Error
       ^2 ^yɑ̂b/*yɑ̂b$
       ^2 ^yag/*yag$
       ^2 ^wəlô/*wəlô$
-      ^2 ^wə̀/*wə̀$
-      ^2 ^wə/*wə$
+      ^2 ^wə̀/*wə̀$ ??????
+      ^2 ^wə/*wə$ ??????
       ^2 ^Wʉ/*Wʉ$
       ^2 ^vʉ/*vʉ$
       ^2 ^ù/*ù$
       ^2 ^tumə/*tumə$
-      ^2 ^tùʼ/*tùʼ$
+      ^2 ^tùʼ/*tùʼ$ | Error
       ^2 ^tsinə/*tsinə$
-      ^2 ^tsə̀ʼ/*tsə̀ʼ$
+      ^2 ^tsə̀ʼ/*tsə̀ʼ$ ????
       ^2 ^Tôg/*Tôg$
       ^2 ^tog/*tog$
       ^2 ^sû/*sû$
@@ -279,7 +279,7 @@
       ^2 ^nzə̌nî/*nzə̌nî$
       ^2 ^nzə̀ndɑ/*nzə̀ndɑ$
       ^2 ^nzə̀/*nzə̀$
-      ^2 ^ntsə̂/*ntsə̂$
+      ^2 ^ntsə̂/*ntsə̂$ | Error
       ^2 ^ntsə̌/*ntsə̌$
       ^2 ^ntog/*ntog$
       ^2 ^ntʉm/*ntʉm$

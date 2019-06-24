@@ -294,7 +294,7 @@
  Tu ̌nndɑ bə ɑ ̂ ndʉ ̂gə ?
  A ghuʼ nə ̀shu ̀
  A kə ̂ʼ mbɛ ̀m mbə ɑ ̂
- Mə kɔ ̌ nə ̀ cobtə bog wʉ ̌ tu ̀ʼ bə ̀
+ Mə kɔ ̌ nə ̀ cobtə bɑg wʉ ̌ tʉ ̀ʼ bə ̀
  A bə ɑ ̂ mbɑ ̀ a to ̂g lɑ
  A ki ̌ ta ̀ʼ ŋwa ̀ʼni ̀
  Mə ghuʼ nə ̀shu ̀
@@ -333,7 +333,7 @@
  Bɑ ̀m ɑm bi
  Mə lɛ ̌n yu ̀ mɛ ̂n shu ̀m
  Mə ̀ lɛn mbə a ghʉ ̌ fa ̀ʼ
- Mə kɔ ̌ nə ̀ bə cɑm ɑ tsə ̀ʼ ɑ ̀m
+ Mə kɔ ̌ nə ̀ bə cɑm ɑ tsʉ ̀ʼ ɑ ̀m
  Lɔtə mɛ ̂n ngo ̌n ni ̂
  A lo ̀ nsag ɑm tsə
  Mə mbɛ ̂n mbo ̂g mbwə ̀ 
@@ -601,7 +601,7 @@
  To ̀ʼndɑ li kə ̂ʼ ghuʼ
  a ̀ na ̂ʼ fa ̌ʼ fa ̀ʼ a bwɔ
  a ̀ bə ɑ ̂ nshu ̀m ɑ ̀m
- Mə lo ̀ nkə nkwatə mbə ̀ mə lo ̀ mbə ɑ ̂ tu ̀ʼ ɑ ̀m
+ Mə lo ̀ nkə nkwatə mbə ̀ mə lo ̀ mbə ɑ ̂ tʉ ̀ʼ ɑ ̀m
  A lo ̀ mbə ɑ ̂ kwa ̀ʼ taʼ liʼ mə ̀bwɔ
  Mbɑ ̀ mə naʼ nkə mə ɑ mbɑ ̂ wʉ ̀ lɑ
  A lo ̀ mbɔ ̂ mbə ̌ o ̀ lɛnə
@@ -645,7 +645,7 @@
  Mbə mə ̀ yənə
  Mə kwa ̀tə ̀ mbə a kə ̂ ku ̌ʼ njo ̌ŋ moʼo
  Sɑ ̂m mɛ ̌n lo ̀ kə ̀ mbɛ ̀n ngʉ ̂ ju nə ̀ cobə
- Mə ko ̌ ta ̀ʼ *fʉa ̂ʼmbwogə mbɑ ̂ yenni ̂ lɑ
+ Mə ko ̌ ta ̀ʼ *fʉa ̂ʼmbwogə mbɑ ̂ yənni ̂ lɑ
  O fu mɛ ̌n zə ̀ a bo ̂d ta ̀ʼ lɑ
  Miɑ ̂g mi nkə bə ɑ ̂ bə ̂ nu ̌m bin
  Mə kɔ ̌ ta ̀ʼ nta ncob zə ̀ a ̀ bwɔ ̂ lɑ
@@ -691,7 +691,7 @@
  Nə ̀ yən ngəʼ li ̂ kə ̂ʼ ghʉ ̌ tu i
  Bə bag nɛn ngəlaŋ ba ̀g lo ̂ʼ kəbntsiʼ lɑ
  a ̀ kə ̂ʼ ghʉ ̌ fitə ̀ ntʉ mbɑ ̀ mə ju i
- A nkə ntswə ɑ ̂ tsə ̀ʼ i
+ A nkə ntswə ɑ ̂ tsʉ ̀ʼ i
  A lo ̌ʼ mɛ ̀n wa
  A bə ɑ ̂ ngə ̀laŋ nə ̀ nɛ ̌n ŋwa ̀ʼni ̀
  Mə ̀ kə ̂ʼ kwimtə ̀ nu ̂ nu ̀m bwə
@@ -748,7 +748,7 @@
  Yu ̀ mbɛdtə ̀ kə ̂ʼ ghʉ ̌ mbwu ̀ntə
  Bo fɑ ̂ mə ̀
  Mə cwɛ ̂ɗ nkwimtə ndɔ ̌nni ̂
- Lə ̂d ntsə ̂ li ̂ bə ɑ ̂ zə ̂ ndɑ
+ Lə ̂d ntsə ̌ li ̂ bə ɑ ̂ zə ̂ ndɑ
  Tɑ bə ɑ ̂ ntʉ ̂m sə ̂ ndɑ ̂ fa ̀ʼ
  Mə nkə nkwatə mbə bin lo ̀ yɑ ̂ nɛ ̀nə
  Mə ̀ kə ̂ʼ bə na ̂ cɑ ̂m kwa ̀ʼ ca ̌ŋ
@@ -826,7 +826,7 @@
  Konfekshiu mbə ma ̀d bə ̀nntʉ ̀n bə ̂ mbə toʼtə mbwɔ ̂
  Bo ̀ bə ̂ mbwə mɛ ̀nntʉ ̀n ɑ ̂ bo ̂ ma ̀d nə̀ tsinə
  Ju ̂ bɑ ̂ fla ̀nsi bo ̀ nkə ndʉ ̂ mbə o mia ̀gtə ̌ ŋwa ̀ʼni ̀ ɑ ̂ ngə ̀laŋ zə ̀ mɛn ziʼtə cu tsə ncʉ ̀ʼ ngɔ ̌ cwɛ ̌d laʼtə lɑ.
- Mbɑ ̀ bɑ ̀ ntɑm tʉ ntʉ ̂m dʉ ̀ʼ nya ̀m kə ̂ʼ bə ta nə ̀shu ̀ lɑ bə ̂ nkɔ ̂ ntsə ̂ yɑmə
+ Mbɑ ̀ bɑ ̀ ntɑm tʉ ntʉ ̂m dʉ ̀ʼ nya ̀m kə ̂ʼ bə ta nə ̀shu ̀ lɑ bə ̂ nkɔ ̂ ntsə ̌ yɑmə
  Nə ̀ na bə ̂nnzwi yamə bə ɑ ju bo bə ̂ nstia ̂ŋ *...
  Ghosɔ mbə bo bə ̂ mbə bwə mɛn a ghʉ ̂ ma ̀d mə ̀bwɔ nda ̌ʼndʉ ̂ njʉ nkə ngʉ ̂ a ba ̂tə ̀ ma ̀d
  Ju a bə ncaʼtə ma ̀d mə ̀bwɔ tsə mə loʼ nkɑ nkwatə mbɛ ̀n nkitə nkə ngʉ ̂ mbə ̌ a tsin mbɛ ̀n ndɑn nɑ mbə mɛ ̀nntʉ ̀n ghʉ ̂ ma ̀d mə ̀bwɔ ɑ ̂ fə nsi, a bə ̂ nkɔ ̂ mbə ̌ cu tsə bo tsin nɑ ; Ntʉ ̂ mɛ ̀nntʉ ̀n kə ̂ʼ ghʉ ̌ ma ̀d kə ̀bwɔ ngə ̀laŋbo bwə i lɑ, bɑ ̀ nku ̂zi ̀n *nature bə ɑ ̂ nda ̂ŋndaŋ
@@ -838,7 +838,7 @@
  Nsɔ nkə ̀ nku ̂ʼ ncu i ɑ ̂ nco ̀bbɑhɑ ŋa ̂mkuɑ ̀ ngə ̀laŋ a ghʉ ̂ ŋwʉ ntog lɑ
  Mə bə
  Mə ̀ bə ɑ ̂ mɛ ̀n mə ̀ bə ̂ lɑ 
- A bə ɑ ̂ nzə ̌ni ̂ ki ?
+ A bə ɑ ̂ nzə ̌nni ̂ ki ?
  Mə kɔ ̀ o
  a ̀ mbɛ ̂n mbə ɑ ̂ kə ?
  Kɑ ̂ bi ̀d ɑm !
@@ -867,11 +867,11 @@
  Ghʉ ̌ ju
  Ba ̀g nɛ ̂n kəb ntsiʼ
  Sə ̂ cɔ ̂ fi
- Mə kɔ ̂ nə ̀ bə mbɑ ̂ wə ̀ lɑ 
+ Mə kɔ ̂ nə ̀ bə mbɑ ̂ wʉ ̀ lɑ 
  A bə ɑ ̂ mbɑ ̀ a ̀ bə ̂ lɑ
  a ̀ kə ̂ʼ bə ɑ ̂ bag
  A yɑ ̂ bwɔ ̌
- Mə kɔ ̂ nə ̀ ghʉ ̀ i wə ̀
+ Mə kɔ ̂ nə ̀ ghʉ ̀ i wʉ ̀
  a ̂ we lɑ ̂ ?
  A ku ̀ʼ ki ?
  a ̂ njoŋ i fa ki ?
@@ -898,11 +898,11 @@
  Nga mbɑ ̀ nda ̌ʼ nə ̀ toʼtə
  Mə ̀ kə ̂ʼ mbɛ ̀n nkɔ ̂ nə̀ ghʉ ̂
  Mə ̀ kə ̂ʼ to ̌ʼ cob ndʉlɑlɑ
- a ̂ wə a ̀ ghʉ ̂ yenni ̂ ɑ ̀ ?
+ a ̂ wʉ a ̀ ghʉ ̂ yənni ̂ ɑ ̀ ?
  A futə ju ̂ mə ̀bwɔ
  Mə kɔ ̌ nə ̀ ghʉ i mə ̀bwɔ
  Nɛ ̀n lɔtə ̀ mɛ ̀n a ̀ bə ̂ yi lɑ 
- A wə zə ̀ a ̀ ghʉ ɑ ?
+ A wʉ zə ̀ a ̀ ghʉ ɑ ?
  A bə ̂ ncobtə yɑmə
  A ndʉ ̂ a ̀ cobtə ̀
  Wʉ ̀ ɔ ?
@@ -935,7 +935,7 @@
  sɑ ̂mju kə ̂ʼ bə bwɔ ̀ tsə
  Ba ̌g ku ̌m dʉ ̀ʼ sə 
  A bwɔ ̌ nə ̀shu ̀
- A sə ̂ʼ nzə ̌ni ̂ ɑ ̂ nu ̀m ɑm
+ A sə ̂ʼ nzə ̌nni ̂ ɑ ̂ nu ̀m ɑm
  Mə ̀ kə ̂ʼ ku ̀ʼni ̌ nə ̀ ghʉ ̌
  Cɔ ̌ fi, yu ̂ bag ɔ
  Mə ̀ kə ̂ʼ ku ̀ʼni ̀
