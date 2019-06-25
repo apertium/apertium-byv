@@ -1,0 +1,46 @@
+Alphabet 
+
+ a ǎ â b c ç d ɛ e é ə f g h i ı j k l m n ŋ o ô ɔ p q r s t u ú v w x y z ɑ ʉ 
+ A Ǎ Â B C Ç D Ɛ E É Ə F G H   I J K L M N Ŋ O Ô Ɔ P Q R S T U Ú V W X Y Z Ɑ Ʉ 
+
+̀
+́
+̂
+̌
+
+%<v%> %<consec%> 
+%<n%> %<pos%>
+%<cl1%> %<cl3%> %<cl4%> %<cl5%> %<cl6%>
+
+%[%+n%]:0
+%[%+nasal%]:0
+%[%+xp1%]:0
+%[%+past1%]:0
+
+; 
+
+Sets 
+
+Verb = %<v%>  ; 
+
+Rules
+
+"Nasalisation I"
+%[%+n%]:0 /<= _  ;
+   except
+       _ (:*) %[%+nasal%]:0 ; 
+
+"Nasalisation II"
+%[%+nasal%]:0 /<= _  ;
+   except 
+       %[%+n%]:0 (:*) _  ;
+
+"Floating high tone in past I I"
+%[%+xp1%]:0 /<= _  ;
+   except
+       _ (:*) %[%+past1%]:0 ; 
+
+"Floating high tone in past I II"
+%[%+past1%]:0 /<= _  ;
+   except 
+       %[%+xp1%]:0 (:*) _  ;
