@@ -35,6 +35,9 @@ Cns =   b c d f g h j k l m n ŋ q s t v w x y z ʼ
 
 Rules 
 
+"Ignore high tone"
+%{ˊ%}:0 <=> _ ;
+
 !"Tone in possessive"
 !Tx:Ty <=> _ (:Cns) %>: %{↘%}: ; 
 !      where Tx in ( %{ˋ%}  %{ˊ%}  )
