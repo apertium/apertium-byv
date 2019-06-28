@@ -1,6 +1,6 @@
 Alphabet
- a b c ç d ɛ e ə f g h i ı j k l m n ŋ o ɔ p q r s t u v w x y z ɑ ʉ ʼ ! α ε
- A B C Ç D Ɛ E Ə F G H   I J K L M N Ŋ O Ɔ P Q R S T U V W X Y Z Ɑ Ʉ ʼ ! Α Ε
+ a b c d ɛ e ə f g h i j k l m n ŋ o ɔ s t u v w x y z ɑ ʉ ʼ ! α ε
+ A B C D Ɛ E Ə F G H I J K L M N Ŋ O Ɔ S T U V W X Y Z Ɑ Ʉ ʼ ! Α Ε
 
 ̀
 ́
@@ -15,7 +15,7 @@ Alphabet
  %{↘%}:0      !
  %{↗%}:0      !
  %{↓%}:0      !
-
+ !%{ˊ%}:0 <=> _ !
 
  %{N%}:n      ! 
  %{ə%}:ə      ! 
@@ -27,10 +27,13 @@ Sets
 Vow =   a e ɛ ə i ı o ɔ u ɑ ʉ
         A E ɛ Ə I I O Ɔ U Ɑ Ʉ   ;
 
-Cns =   b c ç d f g h j k l m n ŋ p q r s t v w x y z ʼ
-        B C Ç D F G H J K L M N Ŋ P Q R S T V W X Y Z   ;
+Cns =   b c d f g h j k l m n ŋ s t v w x y z ʼ
+        B C D F G H J K L M N Ŋ S T V W X Y Z   ;
 
 Rules 
+
+"Ignore high tone"
+%{ˊ%}:0 <=> _ ;
 
 !"Tone in possessive"
 !Tx:Ty <=> _ (:Cns) %>: %{↘%}: ; 

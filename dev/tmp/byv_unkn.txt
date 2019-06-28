@@ -1,0 +1,834 @@
+     ^75 ^mbɛ/*mbɛ$ // DNE
+     ^52 ^nə/*nə$ // DNE
+     ^44 ^fa/*fa$
+     ^64 ^ghʉ̂/*ghʉ̂$
+     ^42 ^lî/*lî$
+     ^42 ^fàʼ/*fàʼ$
+     *^37 ^ɑ̂m/*ɑ̂m$
+     ^36 ^o/*o$
+     ^34 ^mɛ̂n/*mɛ̂n$
+     ^31 ^ò/*ò$
+     ^30 ^nɛ̂n/*nɛ̂n$ | vb
+     ^29 ^ngʉ̂/*ngʉ̂$ | vb
+     ^28 ^lɛ̂n/*lɛ̂n$ | vb
+     ^26 ^cu/*cu$   | nom
+     ^26 ^bwɔ̌/*bwɔ̌$ | adj
+     ^25 ^lɛ̌n/*lɛ̌n$ | vb
+     ^22 ^nɑ/*nɑ$ | intj
+     ^22 ^mbə̌/*mbə̌$ conj
+     ^22 ^bwɔ̂/*bwɔ̂$ adj
+     ^22 ^Bò/*Bò$ pron
+     ^21 ^njǒŋ/*njǒŋ$
+     *^21 ^kwàʼ/*kwàʼ$ 
+     ^20 ^yɑmə/*yɑmə$
+     ^19 ^nǔm/*nǔm$
+     ^19 ^ŋwàʼnî/*ŋwàʼnî$ | DNE
+     ^19 ^cɑm/*cɑm$ | pos
+     ^18 ^tsə/*tsə$
+     ^18 ^bɑ̀/*bɑ̀$
+     ^17 ^nzə̌nnî/*nzə̌nnî$
+     ^17 ^ghʉ/*ghʉ$
+     ^16 ^ndɑ̂/*ndɑ̂$
+     ^16 ^cwɛ̂d/*cwɛ̂d$ | DNE
+     ^15 ^î/*î$
+     ^15 ^fǎʼ/*fǎʼ$
+     ^15 ^bod/*bod$
+     ^15 ^bag/*bag$
+     ^14 ^yû/*yû$
+     *^14 ^yɑ̂/*yɑ̂$
+     *^14 ^tʉ̀ʼ/*tʉ̀ʼ$
+     ^14 ^O/*O$
+     ^14 ^nglisi/*nglisi$
+     ^14 ^nɛ̌n/*nɛ̌n$
+     *^14 ^mbə̂/*mbə̂$
+     ^14 ^ghuʼ/*ghuʼ$
+     ^14 ^Bag/*Bag$
+     ^13 ^yɑm/*yɑm$
+     ^13 ^wʉd/*wʉd$
+     ^13 ^nù/*nù$
+     ^13 ^Njǒŋ/*Njǒŋ$
+     ^13 ^kùʼnǐ/*kùʼnǐ$
+     ^13 ^Kɑ̂/*Kɑ̂$
+     ^12 ^ngə̀laŋ/*ngə̀laŋ$
+     ^12 ^nâʼ/*nâʼ$
+     ^12 ^naʼ/*naʼ$
+     ^12 ^mɛ̀nntʉ̀n/*mɛ̀nntʉ̀n$
+     ^12 ^mbɔ̀/*mbɔ̀$
+     ^12 ^li/*li$
+     ^12 ^kwʉ/*kwʉ$
+     ^12 ^dʉ̀ʼ/*dʉ̀ʼ$
+     ^12 ^Bàg/*Bàg$
+     ^11 ^yɑ̀m/*yɑ̀m$
+     ^11 ^wʉ/*wʉ$
+     ^11 ^tà/*tà$
+     ^11 ^shun/*shun$
+     ^11 ^Ò/*Ò$
+     ^11 ^nǔ/*nǔ$
+     ^11 ^nkwimtə/*nkwimtə$
+     ^11 ^ne/*ne$ | DNE
+     ^10 ^siaŋ/*siaŋ$
+     ^10 ^sɛ̂nnî/*sɛ̂nnî$
+     ^10 ^nkwatə/*nkwatə$
+     ^10 ^ŋwàʼnǐ/*ŋwàʼnǐ$
+     ^10 ^ndɔ̌nnî/*ndɔ̌nnî$
+     ^10 ^lǎ/*lǎ$ | DNE
+     ^10 ^cobtə/*cobtə$
+     ^10 ^bin/*bin$
+     ^10 ^bɛdtə/*bɛdtə$
+     ^10 ^bàg/*bàg$
+      ^9 ^yǒg/*yǒg$
+      ^9 ^tǒʼ/*tǒʼ$  *jamais
+      ^9 ^ndə̂ndə/*ndə̂ndə$
+      ^9 ^ndǎʼ/*ndǎʼ$
+      ^9 ^futə/*futə$
+      ^9 ^ɑ/*ɑ$
+      ^8 ^yaŋbàʼ/*yaŋbàʼ$
+      ^8 ^tʉʼ/*tʉʼ$
+      ^8 ^sɑ̂m/*sɑ̂m$
+      ^8 ^njîm/*njîm$
+      ^8 ^nə̀ta/*nə̀ta$  --done
+
+      ^8 ^nɛ̀nə/*nɛ̀nə$
+      ^8 ^ncobtə/*ncobtə$
+      ^7 ^Yù/*Yù$
+      ^7 ^tsə̀môʼ/*tsə̀môʼ$
+      ^7 ^tsəʼ/*tsəʼ$
+      ^7 ^nkwàtə̀/*nkwàtə̀$
+      ^7 ^njòŋ/*njòŋ$
+      ^7 ^ŋwàʼni/*ŋwàʼni$
+      *^7 ^ndʉ̂gə/*ndʉ̂gə$
+      ^7 ^môʼ/*môʼ$
+      ^7 ^mfàʼ/*mfàʼ$
+      ^7 ^kwàtə̀/*kwàtə̀$
+      ^7 ^kùʼu/*kùʼu$
+      ^7 ^jun/*jun$
+      ^7 ^bə̀n/*bə̀n$
+      ^6 ^ziʼ/*ziʼ$
+      ^6 ^tsin/*tsin$
+      ^6 ^toʼndɑ/*toʼndɑ$
+      ^6 ^tôg/*tôg$
+      ^6 ^sɑ̂mju/*sɑ̂mju$ | sɑ̌mju
+      ^6 ^Sɑ̂m/*Sɑ̂m$
+      ^6 ^nsi/*nsi$
+      ^6 ^nshùm/*nshùm$
+      ^6 ^nkəʼ/*nkəʼ$
+      ^6 ^ndɔtə/*ndɔtə$
+      ^6 ^mɑndûm/*mɑndûm$ | DNE
+      ^6 ^mbwə̀/*mbwə̀$ **
+      ^6 ^mbɛdtə̀/*mbɛdtə̀$
+      ^6 ^kwàtə/*kwàtə$
+      ^6 ^côb/*côb$ | DONE
+
+      ^6 ^cɑ̂m/*cɑ̂m$
+      ^5 ^zənnî/*zənnî$
+      ^5 ^yôg/*yôg$
+      ^5 ^yənnɑ/*yənnɑ$
+      ^5 ^tû/*tû$ **
+      ^5 ^toʼtə/*toʼtə$
+      ^5 ^sə̀ʼ/*sə̀ʼ$
+      ^5 ^nkûm/*nkûm$
+      ^5 ^njàm/*njàm$
+      ^5 ^Ngə̀laŋ/*Ngə̀laŋ$
+      ^5 ^ngàtswìtə̀/*ngàtswìtə̀$
+      ^5 ^ngʉ/*ngʉ$
+      ^5 ^nəsɑ̀m/*nəsɑ̀m$
+      ^5 ^nənənə/*nənənə$
+      ^5 ^ndə/*ndə$
+      ^5 ^ndâʼ/*ndâʼ$ | DNE
+      ^5 ^ncʉɑ̂/*ncʉɑ̂$
+      ^5 ^kùʼ/*kùʼ$
+      ^5 ^kɔ/*kɔ$
+      ^5 ^kǐ/*kǐ$
+      ^5 ^fàʼa/*fàʼa$
+      ^5 ^co/*co$
+      ^5 ^cʉɑ̂/*cʉɑ̂$
+      ^5 ^bwɔ/*bwɔ$
+      ^5 ^buʼ/*buʼ$
+      ^4 ^zitə/*zitə$ | DNE
+      ^4 ^zə/*zə$
+      ^4 ^wa/*wa$
+      ^4 ^tum/*tum$
+      ^4 ^tswəʼ/*tswəʼ$
+      ^4 ^sǔ/*sǔ$
+      ^4 ^Sɑ̂mmɛ̀n/*Sɑ̂mmɛ̀n$ | DNE
+      ^4 ^sə̂/*sə̂$
+      ^4 ^ɔ/*ɔ$
+      ^4 ^nzə̌nnɑ/*nzə̌nnɑ$
+      ^4 ^num/*num$
+      ^4 ^ntʉ̂/*ntʉ̂$
+      ^4 ^nswə/*nswə$
+      ^4 ^nsə̂ʼ/*nsə̂ʼ$
+      ^4 ^nkwʉ/*nkwʉ$
+      ^4 ^njog/*njog$
+      ^4 ^njə̂m/*njə̂m$
+      ^4 ^njɑ̂/*njɑ̂$
+      ^4 ^nî/*nî$
+      ^4 ^nguʼ/*nguʼ$
+      ^4 ^ngǒn/*ngǒn$
+      ^4 ^Nglisi/*Nglisi$
+      ^4 ^Nɛ̀n/*Nɛ̀n$
+      ^4 ^Nə/*Nə$
+      ^4 ^ndɛ̂n/*ndɛ̂n$
+      ^4 ^miàgtə̌/*miàgtə̌$
+      ^4 ^mɛ̀nnzwi/*mɛ̀nnzwi$
+      ^4 ^mɛ̌n/*mɛ̌n$
+      ^4 ^məbwɔ/*məbwɔ$
+      ^4 ^mə̌/*mə̌$
+      ^4 ^Me/*Me$ | DNE
+      ^4 ^mbwɔ̀/*mbwɔ̀$ 
+      ^4 ^lòʼ/*lòʼ$ ||DONE
+      
+      ^4 ^lɑ̂/*lɑ̂$
+      ^4 ^kwimtə/*kwimtə$
+      ^4 ^kwì/*kwì$
+      ^4 ^kwàtə̌/*kwàtə̌$
+      ^4 ^kǔʼ/*kǔʼ$
+      ^4 ^kɑ̀/*kɑ̀$
+      ^4 ^kɑ/*kɑ$
+      ^4 ^flansi/*flansi$ | DNE
+      ^4 ^dun/*dun$
+      ^4 ^Dʉ̀ʼ/*Dʉ̀ʼ$
+      ^4 ^dʉ̂/*dʉ̂$
+      ^4 ^Bin/*Bin$
+      ^4 ^be/*be$ | Error
+      ^3 ^ziʼtə/*ziʼtə$
+      ^3 ^Zǐn/*Zǐn$
+      ^3 ^ywɛ̀nə/*ywɛ̀nə$
+      ^3 ^yu/*yu$
+      ^3 ^yin/*yin$
+      ^3 ^yənnî/*yənnî$
+      ^3 ^wʉ̌/*wʉ̌$ || DONE
+
+
+
+
+
+
+      ^3 ^tsiàŋtə̌/*tsiàŋtə̌$
+      ^3 ^tsiaŋ/*tsiaŋ$
+      ^3 ^togə/*togə$
+      ^3 ^toʼ/*toʼ$
+      ^3 ^tǎ/*tǎ$
+      ^3 ^ta/*ta$
+      ^3 ^su/*su$
+      ^3 ^sô/*sô$
+      ^3 ^sɑm/*sɑm$
+      ^3 ^Nǔ/*Nǔ$
+      ^3 ^nshun/*nshun$
+      ^3 ^Nshùm/*Nshùm$
+      ^3 ^nkwâtə/*nkwâtə$
+      ^3 ^Njòŋ/*Njòŋ$
+      ^3 ^njôn/*njôn$ ????
+      ^3 ^njǒn/*njǒn$ ????
+      ^3 ^njà/*njà$**
+      ^3 ^ngɔ̌/*ngɔ̌$
+      ^3 ^ndǎmnjʉ/*ndǎmnjʉ$
+      ^3 ^Ncà/*Ncà$
+      ^3 ^ncà/*ncà$
+      ^3 ^nàbtə̌/*nàbtə̌$
+      ^3 ^miâgtə/*miâgtə$
+      ^3 ^Mfɛd/*Mfɛd$
+      ^3 ^mbuntə̀/*mbuntə̀$
+      ^3 ^mbuʼ/*mbuʼ$
+      ^3 ^mbolə/*mbolə$
+      ^3 ^lǒ/*lǒ$
+      ^3 ^lo/*lo$ ?????
+      ^3 ^Lɛ̂n/*Lɛ̂n$
+      ^3 ^kwǎʼ/*kwǎʼ$
+      ^3 ^Flansi/*Flansi$ | not found
+      ^3 ^fə/*fə$
+      ^3 ^fɑ̂/*fɑ̂$
+      ^3 ^fɑ/*fɑ$
+      ^3 ^Cɔ̌/*Cɔ̌$
+      ^3 ^bwǒŋ/*bwǒŋ$
+      ^3 ^bi/*bi$
+      ^3 ^bam/*bam$
+      ^3 ^Bɑ̀/*Bɑ̀$
+      ^2 ^zwiʼtə̀/*zwiʼtə̀$
+      ^2 ^zwiʼtə/*zwiʼtə$
+      ^2 ^ok /*zîn$ ****
+      ^2 ^zənnɑ/*zənnɑ$
+      ^2 ^yubə/*yubə$
+      ^2 ^yòŋ/*yòŋ$
+      ^2 ^Yòg/*Yòg$
+      ^2 ^Yɑ̀m/*Yɑ̀m$
+      ^2 ^yîn/*yîn$
+      ^2 ^yennî/*yennî$ | Error
+      ^2 ^yɑ̂b/*yɑ̂b$
+      ^2 ^yag/*yag$
+      ^2 ^wəlô/*wəlô$
+      ^2 ^wə̀/*wə̀$ ??????
+      ^2 ^wə/*wə$ ??????
+      ^2 ^Wʉ/*Wʉ$
+      ^2 ^vʉ/*vʉ$
+      ^2 ^ù/*ù$
+      ^2 ^tumə/*tumə$
+      ^2 ^tùʼ/*tùʼ$ | Error
+      ^2 ^tsinə/*tsinə$
+      ^2 ^tsə̀ʼ/*tsə̀ʼ$ ????
+      ^2 ^Tôg/*Tôg$
+      ^2 ^tog/*tog$
+      ^2 ^sû/*sû$
+      ^2 ^soŋ/*soŋ$
+      ^2 ^sǒ/*sǒ$
+      ^2 ^siècle/*siècle$
+      ^2 ^sə̀ʼə/*sə̀ʼə$
+      ^2 ^sə̌ʼ/*sə̌ʼ$
+      ^2 ^sɑb/*sɑb$
+      ^2 ^sag/*sag$
+      ^2 ^nzə̌nî/*nzə̌nî$
+      ^2 ^nzə̀ndɑ/*nzə̀ndɑ$
+      ^2 ^nzə̀/*nzə̀$
+      ^2 ^ntsə̂/*ntsə̂$ | Error
+      ^2 ^ntsə̌/*ntsə̌$
+      ^2 ^ntog/*ntog$
+      ^2 ^ntʉm/*ntʉm$
+      ^2 ^nsô/*nsô$
+      ^2 ^nshǔm/*nshǔm$
+      ^2 ^nkwinə/*nkwinə$
+      ^2 ^Nkwàtə̌/*Nkwàtə̌$
+      ^2 ^nkwa/*nkwa$
+      ^2 ^nkitə/*nkitə$
+      ^2 ^nkî/*nkî$
+      ^2 ^nkâg/*nkâg$
+      ^2 ^nkʉ/*nkʉ$
+      ^2 ^njwɛ̀n/*njwɛ̀n$
+      ^2 ^njim/*njim$
+      ^2 ^njǎm/*njǎm$
+      ^2 ^nja/*nja$
+      ^2 ^Njʉ̂/*Njʉ̂$
+      ^2 ^ngòkɛle/*ngòkɛle$
+      ^2 ^ngʉ̀dnì/*ngʉ̀dnì$
+      ^2 ^ŋambɑhɑ/*ŋambɑhɑ$
+
+
+
+
+
+      ^2 ^ngʉa/*ngʉa$
+      ^2 ^nə̀tɛ̂d/*nə̀tɛ̂d$
+      ^2 ^nəta/*nəta$
+      ^2 ^ndun/*ndun$
+      ^2 ^ndôʼ/*ndôʼ$
+      ^2 ^ndô/*ndô$
+      ^2 ^ndiâg/*ndiâg$
+      ^2 ^Ndàʼndàʼ/*Ndàʼndàʼ$
+      ^2 ^ndâʼndʉ̂/*ndâʼndʉ̂$
+      ^2 ^ndâmnjʉ/*ndâmnjʉ$
+      ^2 ^nda/*nda$
+      ^2 ^ncu/*ncu$
+      ^2 ^ncòbncʉ̀ʼ/*ncòbncʉ̀ʼ$
+      ^2 ^ncòbbɑhɑ/*ncòbbɑhɑ$
+      ^2 ^ncɑm/*ncɑm$
+      ^2 ^ncaʼtə/*ncaʼtə$
+      ^2 ^ncʉâ/*ncʉâ$
+      ^2 ^mɑnduʼ/*mɑnduʼ$
+      ^2 ^mɑm/*mɑm$
+      ^2 ^Milɛkɛ/*Milɛkɛ$
+      ^2 ^Miɑ̂g/*Miɑ̂g$
+      ^2 ^mî/*mî$
+      ^2 ^mfədnjʉ/*mfədnjʉ$
+      ^2 ^mfɛd/*mfɛd$
+      ^2 ^Mè/*Mè$
+      ^2 ^mbwog/*mbwog$
+      ^2 ^mbôg/*mbôg$
+      ^2 ^Mbɔ̀/*Mbɔ̀$
+      ^2 ^mboʼ/*mboʼ$
+      ^2 ^mbɑhɑ/*mbɑhɑ$
+      ^2 ^mbɛdtə/*mbɛdtə$
+      ^2 ^mɑ̂/*mɑ̂$
+      ^2 ^lotə/*lotə$
+      ^2 ^Lǒʼ/*Lǒʼ$
+      ^2 ^lǒʼ/*lǒʼ$
+      ^2 ^lɛ̀nə/*lɛ̀nə$
+      ^2 ^lɑ̂b/*lɑ̂b$
+      ^2 ^lâ/*lâ$
+      ^2 ^kwìn/*kwìn$
+      ^2 ^kwimtə̀/*kwimtə̀$
+      ^2 ^kum/*kum$
+      ^2 ^kì/*kì$
+      ^2 ^kə̌ʼ/*kə̌ʼ$
+      ^2 ^kêʼ/*kêʼ$
+      ^2 ^kɑ̂bzìb/*kɑ̂bzìb$
+      ^2 ^kadtə̀/*kadtə̀$
+      ^2 ^kâ/*kâ$
+      ^2 ^jûncob/*jûncob$
+      ^2 ^ghubtə̀/*ghubtə̀$
+      ^2 ^ghʉ̀dnì/*ghʉ̀dnì$
+      ^2 ^ghaʼ/*ghaʼ$
+      ^2 ^Fǎʼ/*Fǎʼ$
+      ^2 ^fâ/*fâ$
+      ^2 ^diàg/*diàg$
+      ^2 ^câg/*câg$
+      ^2 ^cadtə̀/*cadtə̀$
+      ^2 ^bwog/*bwog$
+      ^2 ^Busi/*Busi$
+      ^2 ^busi/*busi$
+      ^2 ^Bɑ̀m/*Bɑ̀m$
+      ^2 ^bɑ̀m/*bɑ̀m$
+      ^2 ^Bǎg/*Bǎg$
+      ^2 ^bɑ/*bɑ$
+      ^1 ^zitə̀/*zitə̀$
+      ^1 ^ziʼtə̀/*ziʼtə̀$
+      ^1 ^zǐn/*zǐn$
+      ^1 ^zilɑ/*zilɑ$
+      ^1 ^zə̂nnî/*zə̂nnî$
+      ^1 ^zə̌nnɑ/*zə̌nnɑ$
+      ^1 ^ywìd/*ywìd$
+      ^1 ^ywɛ̌n/*ywɛ̌n$
+      ^1 ^yûb/*yûb$
+      ^1 ^yinə/*yinə$
+      ^1 ^yîd/*yîd$
+      ^1 ^yǐd/*yǐd$
+      ^1 ^yid/*yid$
+      ^1 ^yennɑ/*yennɑ$
+      ^1 ^yənɑ/*yənɑ$
+      ^1 ^yen/*yen$
+      ^1 ^yɑb/*yɑb$
+      ^1 ^yaŋbaʼ/*yaŋbaʼ$
+      ^1 ^yamə/*yamə$
+      ^1 ^yagə/*yagə$
+      ^1 ^ya/*ya$
+      ^1 ^yɑ̌/*yɑ̌$
+      ^1 ^wu/*wu$
+      ^1 ^we/*we$
+      ^1 ^vit/*vit$
+      ^1 ^ǔ/*ǔ$
+      ^1 ^twsitə/*twsitə$
+      ^1 ^Twsə/*Twsə$
+      ^1 ^tûm/*tûm$
+      ^1 ^tswitə̀/*tswitə̀$
+      ^1 ^tswìtə/*tswìtə$
+      ^1 ^tswitə/*tswitə$
+      ^1 ^Tswəʼ/*Tswəʼ$
+      ^1 ^tsìŋtə̀/*tsìŋtə̀$
+
+
+
+
+
+
+      ^1 ^tsiântə̀/*tsiântə̀$
+      ^1 ^tsiàntə̌/*tsiàntə̌$
+      ^1 ^tsiaŋtə̀/*tsiaŋtə̀$
+      ^1 ^tsiàŋtə̀/*tsiàŋtə̀$
+      ^1 ^tsiâŋtə/*tsiâŋtə$
+      ^1 ^tsǐ/*tsǐ$
+      ^1 ^tsə̀môʼo/*tsə̀môʼo$
+      ^1 ^travailler/*travailler$
+      ^1 ^tout/*tout$
+      ^1 ^tɔ̀tə̀/*tɔ̀tə̀$
+      ^1 ^toŋə/*toŋə$
+      ^1 ^toŋ/*toŋ$
+      ^1 ^Tòʼndɑ/*Tòʼndɑ$
+      ^1 ^tòʼndɑ/*tòʼndɑ$
+      ^1 ^tôn/*tôn$
+      ^1 ^tomtə/*tomtə$
+      ^1 ^tǒg/*tǒg$
+      ^1 ^tɔ̂̂/*tɔ̂̂$
+      ^1 ^tɔ̀/*tɔ̀$
+      ^1 ^tôʼ/*tôʼ$
+      ^1 ^tʉ̂n/*tʉ̂n$
+      ^1 ^tʉ̌n/*tʉ̌n$
+      ^1 ^tâŋtàŋ/*tâŋtàŋ$
+      ^1 ^Tàŋ/*Tàŋ$
+      ^1 ^tàŋ/*tàŋ$
+      ^1 ^tàg/*tàg$
+      ^1 ^tag/*tag$
+      ^1 ^Tʉ̂ʼ/*Tʉ̂ʼ$
+      ^1 ^Tɑ̂/*Tɑ̂$
+      ^1 ^Sǔ/*Sǔ$
+      ^1 ^soŋə/*soŋə$
+      ^1 ^Sôb/*Sôb$
+      ^1 ^Sɑ̂mju/*Sɑ̂mju$
+      ^1 ^sɑ̌mju/*sɑ̌mju$
+      ^1 ^siʼi/*siʼi$
+      ^1 ^siaŋə/*siaŋə$
+      ^1 ^sìʼ/*sìʼ$
+      ^1 ^shunə/*shunə$
+      ^1 ^shùn/*shùn$
+      ^1 ^shùm/*shùm$
+      ^1 ^shǔm/*shǔm$
+      ^1 ^shum/*shum$
+      ^1 ^shùgə/*shùgə$
+      ^1 ^shʉb/*shʉb$
+      ^1 ^shʉâg/*shʉâg$
+      ^1 ^Shʉ̂/*Shʉ̂$
+      ^1 ^Shʉ̌/*Shʉ̌$
+      ^1 ^sə̂vʉ̀/*sə̂vʉ̀$
+      ^1 ^seul/*seul$
+      ^1 ^sɛ̌nnî/*sɛ̌nnî$
+      ^1 ^sə̂n/*sə̂n$
+      ^1 ^Sə̀ʼ/*Sə̀ʼ$
+      ^1 ^Sə̂/*Sə̂$
+      ^1 ^sàtə̀/*sàtə̀$
+      ^1 ^sagə/*sagə$
+      ^1 ^sǎg/*sǎg$
+      ^1 ^saʼ/*saʼ$
+      ^1 ^Regarde/*Regarde$
+      ^1 ^qui/*qui$
+      ^1 ^patient/*patient$
+      ^1 ^ɔ̂/*ɔ̂$
+      ^1 ^ǒ/*ǒ$
+      ^1 ^nzwiʼtə/*nzwiʼtə$
+      ^1 ^Nzwə/*Nzwə$
+      ^1 ^nziʼtə/*nziʼtə$
+      ^1 ^nzə̌nzə̀/*nzə̌nzə̀$
+      ^1 ^nzə̌nnǐ/*nzə̌nnǐ$
+      ^1 ^nzə̌nɑ/*nzə̌nɑ$
+      ^1 ^nzə̌/*nzə̌$
+      ^1 ^nyǎm/*nyǎm$
+      ^1 ^nǔmmbə̂/*nǔmmbə̂$
+      ^1 ^nùmbwə/*nùmbwə$
+      ^1 ^Nǔm/*Nǔm$
+      ^1 ^num̌/*num̌$
+      ^1 ^Ntû/*Ntû$
+      ^1 ^ntsiâŋtə/*ntsiâŋtə$
+      ^1 ^ntsiâŋ/*ntsiâŋ$
+      ^1 ^ntsiaŋ/*ntsiaŋ$
+      ^1 ^ntsiʼ/*ntsiʼ$
+      ^1 ^ntoʼtə/*ntoʼtə$
+      ^1 ^ntôg/*ntôg$
+      ^1 ^ntàncobə/*ntàncobə$
+      ^1 ^Ntàncob/*Ntàncob$
+      ^1 ^ntàncôb/*ntàncôb$
+      ^1 ^ntàmtə̀/*ntàmtə̀$
+      ^1 ^Ntà/*Ntà$
+      ^1 ^ntâ/*ntâ$
+      ^1 ^nta/*nta$
+      ^1 ^Ntʉ̂/*Ntʉ̂$
+      ^1 ^ntʉ̂ʼ/*ntʉ̂ʼ$
+      ^1 ^nswə̂/*nswə̂$
+      ^1 ^nstiâŋ/*nstiâŋ$
+      ^1 ^Nsɔ/*Nsɔ$
+      ^1 ^nsɔ̂/*nsɔ̂$
+      ^1 ^nshunə/*nshunə$
+      ^1 ^nshum/*nshum$
+
+
+
+
+
+
+      ^1 ^nshù/*nshù$
+      ^1 ^nshʉɑ̂/*nshʉɑ̂$
+      ^1 ^nsag/*nsag$
+      ^1 ^nô/*nô$
+      ^1 ^nkwintə/*nkwintə$
+      ^1 ^nkwâ/*nkwâ$
+      ^1 ^nkûzìn/*nkûzìn$
+      ^1 ^nkuʼni/*nkuʼni$
+      ^1 ^Nkû/*Nkû$
+      ^1 ^nkûʼ/*nkûʼ$
+      ^1 ^nku/*nku$
+      ^1 ^nkoʼtə/*nkoʼtə$
+      ^1 ^Nkǒg/*Nkǒg$
+      ^1 ^nkòʼ/*nkòʼ$
+      ^1 ^Nkʉ̂n/*Nkʉ̂n$
+      ^1 ^nkʉ̀n/*nkʉ̀n$
+      ^1 ^nketoʼo/*nketoʼo$
+      ^1 ^Nkəto/*Nkəto$
+      ^1 ^nketôʼ/*nketôʼ$
+      ^1 ^nkə̂ʼ/*nkə̂ʼ$
+      ^1 ^nke/*nke$
+      ^1 ^Nkɑ̂b/*Nkɑ̂b$
+      ^1 ^nkɑ̂b/*nkɑ̂b$
+      ^1 ^Nkàm/*Nkàm$
+      ^1 ^nkam/*nkam$
+      ^1 ^nkagə/*nkagə$
+      ^1 ^nkâ/*nkâ$
+      ^1 ^nkʉ̀/*nkʉ̀$
+      ^1 ^njwimtə/*njwimtə$
+      ^1 ^njuʼu/*njuʼu$
+      ^1 ^njoŋ/*njoŋ$
+      ^1 ^Njôn/*Njôn$
+      ^1 ^Njǒn/*Njǒn$
+      ^1 ^njənə/*njənə$
+      ^1 ^njàŋ/*njàŋ$
+      ^1 ^nǐ/*nǐ$
+      ^1 ^ni/*ni$
+      ^1 ^ngʉɑyənə/*ngʉɑyənə$
+      ^1 ^ngʉɑyən/*ngʉɑyən$
+      ^1 ^ŋwʉ/*ŋwʉ$
+      ^1 ^ngwʉ̌/*ngwʉ̌$
+      ^1 ^ngubtə/*ngubtə$
+      ^1 ^ngǔʼ/*ngǔʼ$
+      ^1 ^Ngòkɛd/*Ngòkɛd$
+      ^1 ^ngòkɛd/*ngòkɛd$
+      ^1 ^ngokɛd/*ngokɛd$
+      ^1 ^ngòk/*ngòk$
+      ^1 ^ngə̀laŋbo/*ngə̀laŋbo$
+      ^1 ^ngə̀lâŋ/*ngə̀lâŋ$
+      ^1 ^ngə̀ʼdɑ/*ngə̀ʼdɑ$
+      ^1 ^ngəʼ/*ngəʼ$
+      ^1 ^ngʉ̀dnǐ/*ngʉ̀dnǐ$
+      ^1 ^ngʉ̀dni/*ngʉ̀dni$
+      ^1 ^ŋâmkuɑ̀/*ŋâmkuɑ̀$
+      ^1 ^ngalaŋ/*ngalaŋ$
+      ^1 ^Ngà/*Ngà$
+      ^1 ^nətoʼ/*nətoʼ$
+      ^1 ^nə̀toʼ/*nə̀toʼ$
+      ^1 ^nə̀tɛ̌d/*nə̀tɛ̌d$
+      ^1 ^Nə̀ta/*Nə̀ta$
+      ^1 ^Nənənə/*Nənənə$
+      ^1 ^Nɛ̌n/*Nɛ̌n$
+      ^1 ^nè/*nè$
+      ^1 ^ndù/*ndù$
+      ^1 ^ndòʼsə̂vʉ̀/*ndòʼsə̂vʉ̀$
+      ^1 ^ndɔ̌ndɔ̌n/*ndɔ̌ndɔ̌n$
+      ^1 ^ndòn/*ndòn$
+      ^1 ^ndʉ̂ngə/*ndʉ̂ngə$
+      ^1 ^ndɑn/*ndɑn$
+      ^1 ^ndɛ̀nghon/*ndɛ̀nghon$
+      ^1 ^ndɛ̌nə/*ndɛ̌nə$
+      ^1 ^ndɛnə/*ndɛnə$
+      ^1 ^ndɛ̌n/*ndɛ̌n$
+      ^1 ^Ndâŋndaŋ/*Ndâŋndaŋ$
+      ^1 ^ndâŋndaŋ/*ndâŋndaŋ$
+      ^1 ^ndàʼndàʼ/*ndàʼndàʼ$
+      ^1 ^Ndâmnjʉ/*Ndâmnjʉ$
+      ^1 ^ndǎmjʉ/*ndǎmjʉ$
+      ^1 ^ndàcob/*ndàcob$
+      ^1 ^Nda/*Nda$
+      ^1 ^ndâ/*ndâ$
+      ^1 ^ndǎ/*ndǎ$
+      ^1 ^ndʉ̂ʼ/*ndʉ̂ʼ$
+      ^1 ^ncùndɑ/*ncùndɑ$
+      ^1 ^ncuɑ̂/*ncuɑ̂$
+      ^1 ^Ncʉɑ̂tə/*Ncʉɑ̂tə$
+      ^1 ^ncʉɑ̂tə/*ncʉɑ̂tə$
+      ^1 ^ncobtə̂/*ncobtə̂$
+      ^1 ^ncòbkuɑ̀/*ncòbkuɑ̀$
+      ^1 ^ncôb/*ncôb$
+      ^1 ^Ncǎ/*Ncǎ$
+      ^1 ^ncʉɑ̂ʼ/*ncʉɑ̂ʼ$
+      ^1 ^ncʉ̌ʼ/*ncʉ̌ʼ$
+      ^1 ^nɑbtə̌/*nɑbtə̌$
+      ^1 ^nature/*nature$
+      ^1 ^Nàʼ/*Nàʼ$
+
+
+
+
+
+
+      ^1 ^Naʼ/*Naʼ$
+      ^1 ^na/*na$
+      ^1 ^ɑn/*ɑn$
+      ^1 ^mɑ̂yɑmə/*mɑ̂yɑmə$
+      ^1 ^Mẅ/*Mẅ$
+      ^1 ^Mum/*Mum$
+      ^1 ^mu/*mu$
+      ^1 ^moʼo/*moʼo$
+      ^1 ^mɑ̂nzə̀/*mɑ̂nzə̀$
+      ^1 ^Mɑŋwʉ/*Mɑŋwʉ$
+      ^1 ^mɑndǔm/*mɑndǔm$
+      ^1 ^mɑ̂m/*mɑ̂m$
+      ^1 ^miɑ̂gtə/*miɑ̂gtə$
+      ^1 ^miâgtə̀/*miâgtə̀$
+      ^1 ^mfìʼ/*mfìʼ$
+      ^1 ^mfə̀n/*mfə̀n$
+      ^1 ^Mfə̌jun/*Mfə̌jun$
+      ^1 ^mfə̌jun/*mfə̌jun$
+      ^1 ^mfə̌ju/*mfə̌ju$
+      ^1 ^mfə̂dnjʉ̂/*mfə̂dnjʉ̂$
+      ^1 ^mfə̂dnjʉ/*mfə̂dnjʉ$
+      ^1 ^mfə̌dnjʉ/*mfə̌dnjʉ$
+      ^1 ^mfaʼa/*mfaʼa$
+      ^1 ^mfa/*mfa$
+      ^1 ^mfɑ̂ʼ/*mfɑ̂ʼ$
+      ^1 ^mfɑ̂/*mfɑ̂$
+      ^1 ^mfɑ/*mfɑ$
+      ^1 ^Mɛ̀nntʉ̂n/*Mɛ̀nntʉ̂n$
+      ^1 ^mɛ̀̀n/*mɛ̀̀n$
+      ^1 ^mə̀bwɔ̀/*mə̀bwɔ̀$
+      ^1 ^mbwùntə/*mbwùntə$
+      ^1 ^mbwôŋ/*mbwôŋ$
+      ^1 ^mbwǒŋ/*mbwǒŋ$
+      ^1 ^mbwə̀ntə̀/*mbwə̀ntə̀$
+      ^1 ^Mbwə̀ʼ/*Mbwə̀ʼ$
+      ^1 ^mbùmtə̀/*mbùmtə̀$
+      ^1 ^mbɑ̀tə̀/*mbɑ̀tə̀$
+      ^1 ^mbomtə/*mbomtə$
+      ^1 ^mbidə/*mbidə$
+      ^1 ^mbîd/*mbîd$
+      ^1 ^mbh̀/*mbh̀$
+      ^1 ^mbɑ̂hɑ/*mbɑ̂hɑ$
+      ^1 ^mbə̀ʼyɑ̂m/*mbə̀ʼyɑ̂m$
+      ^1 ^mbɛ̌n/*mbɛ̌n$
+      ^1 ^mbɛ̀m/*mbɛ̀m$
+      ^1 ^mbɛdtə̌/*mbɛdtə̌$
+      ^1 ^mbɛ̂dtə̀/*mbɛ̂dtə̀$
+      ^1 ^Mbə̌/*Mbə̌$
+      ^1 ^mbàgtə̀/*mbàgtə̀$
+      ^1 ^mbagtə/*mbagtə$
+      ^1 ^mbag/*mbag$
+      ^1 ^mbàdtə̀/*mbàdtə̀$
+      ^1 ^mbàdtə/*mbàdtə$
+      ^1 ^mad/*mad$
+      ^1 ^lʼont/*lʼont$
+      ^1 ^Lǒŋtùbtǔb/*Lǒŋtùbtǔb$
+      ^1 ^lǒŋtùbtǔb/*lǒŋtùbtǔb$
+      ^1 ^Lǒŋ/*Lǒŋ$
+      ^1 ^lon/*lon$
+      ^1 ^llò/*llò$
+      ^1 ^lin/*lin$
+      ^1 ^lǐʼ/*lǐʼ$
+      ^1 ^Lə̌n/*Lə̌n$
+      ^1 ^lɛ̀lə/*lɛ̀lə$
+      ^1 ^Lə̂d/*Lə̂d$
+      ^1 ^làʼtə̀/*làʼtə̀$
+      ^1 ^laʼtə/*laʼtə$
+      ^1 ^lam/*lam$
+      ^1 ^lagtə̌/*lagtə̌$
+      ^1 ^làgtə/*làgtə$
+      ^1 ^làʼ/*làʼ$
+      ^1 ^kwîmtə̀/*kwîmtə̀$
+      ^1 ^Kwì/*Kwì$
+      ^1 ^kwǐ/*kwǐ$
+      ^1 ^kwatə/*kwatə$
+      ^1 ^kunndɑ/*kunndɑ$
+      ^1 ^kǔnjob/*kǔnjob$
+      ^1 ^kùʼnì/*kùʼnì$
+      ^1 ^kùmə/*kùmə$
+      ^1 ^kùm/*kùm$
+      ^1 ^kǔm/*kǔm$
+      ^1 ^Konfekshiu/*Konfekshiu$
+      ^1 ^kǒ/*kǒ$
+      ^1 ^Kĥ/*Kĥ$
+      ^1 ^kəlɛn/*kəlɛn$
+      ^1 ^kə̂g/*kə̂g$
+      ^1 ^kêg/*kêg$
+      ^1 ^kə̀bwɔ/*kə̀bwɔ$
+      ^1 ^kəbwɔ/*kəbwɔ$
+      ^1 ^kə̀bwo/*kə̀bwo$
+      ^1 ^kəbntsiʼ/*kəbntsiʼ$
+      ^1 ^kəæ/*kəæ$
+      ^1 ^ke/*ke$
+      ^1 ^Kɑ̀bɑ/*Kɑ̀bɑ$
+      ^1 ^kɑ̂b/*kɑ̂b$
+      ^1 ^kɑb/*kɑb$
+      ^1 ^Kǎŋ/*Kǎŋ$
+
+
+
+
+
+      ^1 ^kàŋ/*kàŋ$
+      ^1 ^kâg/*kâg$
+      ^1 ^kàʼ/*kàʼ$
+      ^1 ^Kɑ/*Kɑ$
+      ^1 ^juʼu/*juʼu$
+      ^1 ^Jûncob/*Jûncob$
+      ^1 ^Jû/*Jû$
+      ^1 ^jʉm/*jʉm$
+      ^1 ^jʉkə̂ʼ/*jʉkə̂ʼ$
+      ^1 ^Ils/*Ils$
+      ^1 ^Il/*Il$
+      ^1 ^ici/*ici$
+      ^1 ^h̀ʼ/*h̀ʼ$
+      ^1 ^glisi/*glisi$
+      ^1 ^ghubtə/*ghubtə$
+      ^1 ^ghuaʼ/*ghuaʼ$
+      ^1 ^ghǔ/*ghǔ$
+      ^1 ^Ghosɔ/*Ghosɔ$
+      ^1 ^ghònə/*ghònə$
+      ^1 ^ghǒm/*ghǒm$
+      ^1 ^ghobtə̀/*ghobtə̀$
+      ^1 ^ghoʼ/*ghoʼ$
+      ^1 ^ghʉ̂m/*ghʉ̂m$
+      ^1 ^ghəbtə/*ghəbtə$
+      ^1 ^ghâtswitə/*ghâtswitə$
+      ^1 ^ghǎtswitè/*ghǎtswitè$
+      ^1 ^Ghâ/*Ghâ$
+      ^1 ^Ghʉ̂/*Ghʉ̂$
+      ^1 ^fònə/*fònə$
+      ^1 ^fǒn/*fǒn$
+      ^1 ^fon/*fon$
+      ^1 ^flisi/*flisi$
+      ^1 ^fitə̀/*fitə̀$
+      ^1 ^Fə̂ʼsɑ̀b/*Fə̂ʼsɑ̀b$
+      ^1 ^Fɛ̂n/*Fɛ̂n$
+      ^1 ^fɛ̀n/*fɛ̀n$
+      ^1 ^Faŋ/*Faŋ$
+      ^1 ^faŋ/*faŋ$
+      ^1 ^fǎʼmbwogə/*fǎʼmbwogə$
+      ^1 ^fʉâʼmbwogə/*fʉâʼmbwogə$
+      ^1 ^fait/*fait$
+      ^1 ^fʉàgə/*fʉàgə$
+      ^1 ^fʉàg/*fʉàg$
+      ^1 ^fafa/*fafa$
+      ^1 ^Fàʼ/*Fàʼ$
+      ^1 ^Fʉ/*Fʉ$
+      ^1 ^ɛ/*ɛ$
+      ^1 ^dǔn/*dǔn$
+      ^1 ^do/*do$
+      ^1 ^dʉ̂ʼŋwàʼ/*dʉ̂ʼŋwàʼ$
+      ^1 ^dit/*dit$
+      ^1 ^diaŋ/*diaŋ$
+      ^1 ^di/*di$
+      ^1 ^cwɛ̂ɗ/*cwɛ̂ɗ$
+      ^1 ^cwɛ̌ɗ/*cwɛ̌ɗ$
+      ^1 ^cʉɑ̀tə̌/*cʉɑ̀tə̌$
+      ^1 ^coʼo/*coʼo$
+      ^1 ^cog/*cog$
+      ^1 ^cǒb/*cǒb$
+      ^1 ^cɔ̌/*cɔ̌$
+      ^1 ^cɔ/*cɔ$
+      ^1 ^Còʼ/*Còʼ$
+      ^1 ^coʼ/*coʼ$
+      ^1 ^Cɑ̂m/*Cɑ̂m$
+      ^1 ^Catə/*Catə$
+      ^1 ^càtə̀/*càtə̀$
+      ^1 ^cʉâtə̀/*cʉâtə̀$
+      ^1 ^cʉâtə/*cʉâtə$
+      ^1 ^càŋ/*càŋ$
+      ^1 ^cǎŋ/*cǎŋ$
+      ^1 ^câm/*câm$
+      ^1 ^cag/*cag$
+      ^1 ^ça/*ça$
+      ^1 ^caʼ/*caʼ$
+      ^1 ^cʉà/*cʉà$
+      ^1 ^bwôg/*bwôg$
+      ^1 ^bwǒg/*bwǒg$
+      ^1 ^Bwə̂/*Bwə̂$
+      ^1 ^bwə̂/*bwə̂$
+      ^1 ^buntə/*buntə$
+      ^1 ^buʼŋwaʼnì/*buʼŋwaʼnì$
+      ^1 ^buʼŋwàʼnì/*buʼŋwàʼnì$
+      ^1 ^bùmtə̌/*bùmtə̌$
+      ^1 ^bumtə/*bumtə$
+      ^1 ^buʼkì/*buʼkì$
+      ^1 ^Buʼ/*Buʼ$
+      ^1 ^bɔnnkəʼ/*bɔnnkəʼ$
+      ^1 ^bɔnkəʼ/*bɔnkəʼ$
+      ^1 ^bɔnkə/*bɔnkə$
+      ^1 ^Bôn/*Bôn$
+      ^1 ^bôn/*bôn$
+      ^1 ^bôm/*bôm$
+      ^1 ^bog/*bog$
+      ^1 ^bodlə/*bodlə$
+      ^1 ^bôd/*bôd$
+
+
+
+
+      ^1 ^bɔ̌/*bɔ̌$
+      ^1 ^bɔ/*bɔ$
+      ^1 ^bɑ̂nbɑn/*bɑ̂nbɑn$
+      ^1 ^bǐn/*bǐn$
+      ^1 ^bìd/*bìd$
+      ^1 ^bə̂nnzwi/*bə̂nnzwi$
+      ^1 ^bəŋ/*bəŋ$
+      ^1 ^bɛdtə̀/*bɛdtə̀$
+      ^1 ^bɛ̂dtə/*bɛ̂dtə$
+      ^1 ^Bê/*Bê$
+      ^1 ^bâtə̀/*bâtə̀$
+      ^1 ^bàtə̌/*bàtə̌$
+      ^1 ^bǎm/*bǎm$
+      ^1 ^bǎg/*bǎg$
+      ^1 ^bàdə̌/*bàdə̌$
+      ^1 ^bâ/*bâ$
+      ^1 ^bǎʼ/*bǎʼ$
+      ^1 ^ba/*ba$
+      ^1 ^ɑ̌/*ɑ̌$
