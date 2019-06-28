@@ -43,11 +43,11 @@ Rules
 "Unify apostrophe styles"
 a => _ ;
 
-"t in tsch"
-t:0 <= _ s: c: h: ;
+"t in tsh"
+t:0 <=> _ s:c h: ;
 
-"s in tsch"
-s:0 <= t: _ c: h: ;
+"s in tsh"
+s:c <=> t: _ h: ;
 
-"h in tsch"
-h:0 <= t: s: c: _ ;
+"h in tsh"
+h:0 <=> t: s:c _ ;
