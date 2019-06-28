@@ -368,6 +368,7 @@ zîn%<prn%>%<pos%>%<cl1%>:zi%{ˆ%}n # ;
 LEXICON Prefixes
 
 %[%+n%]:%{N%}%> Noms ;
+Noms ;
 %[%+n%]:%{N%}%> P_1 ; ! N-
 
 LEXICON P_1
@@ -540,10 +541,10 @@ nǔ:nu%{ˇ%} N-3-6 ;
 Nǔ:Nu%{ˇ%} N-3-6 ;
 yaŋbàʼ:yaŋba%{ˋ%}ʼ N-3 ;
 
-lɛn:lɛn N-5-4 ; ! "nom"
+!lɛn:lɛn N-5-4 ; ! "nom"
 lɛ̂n:lɛ%{ˆ%}n N-5-4 ;
-Lɛn:Lɛn N-5-4 ;
-Lɛ̂n:Lɛ%{ˆ%}n N-5-4 ;
+!Lɛn:Lɛn N-5-4 ;
+!Lɛ̂n:Lɛ%{ˆ%}n N-5-4 ;
 tɑm% tʉ:tɑm% tʉ N-5-4 ;
 
 cɔ̀:cɔ%{ˋ%} N-5-5 ; ! "histoire"
