@@ -10,14 +10,29 @@ Alphabet
 %ʼ:%ʼ %ʼ:%ʼ 
 %':%' %ʼ:%'
 
+̀
+̀:0
+́
+́:0
+̂
+̂:0
+̌
+̌:0
+
 ə:ə
 ә:ә   ә:ə
 
 ɛ:ɛ
 ε:ε   ɛ:ε
+ɛ:e
 
 ɑ:ɑ
 α:α   ɑ:α 
+ɑ:a
+
+ɔ:o
+
+ʉ:u
 
 ;
 
@@ -25,3 +40,12 @@ Rules
 
 "Unify apostrophe styles"
 a => _ ;
+
+"t in tsch"
+t:0 <= _ s: c: h: ;
+
+"s in tsch"
+s:0 <= t: _ c: h: ;
+
+"h in tsch"
+h:0 <= t: s: c: _ ;
