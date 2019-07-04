@@ -123,7 +123,7 @@ LEXICON N-5-5
 LEXICON N-3-6
 
 %<n%>%<cl3%>%<sg%>: # ;
-%<n%>%<cl5%>%<pl%>: # ;
+%<n%>%<cl6%>%<pl%>: # ;
 %<n%>%<cl3%>%<sg%>%<pos%>:%>%{↘%} # ;
 %<n%>%<cl6%>%<pl%>%<pos%>:%>%{↘%} # ;
 
@@ -370,6 +370,7 @@ zîn%<prn%>%<pos%>%<cl1%>:zi%{ˆ%}n # ;
 LEXICON Prefixes
 
 %[%+n%]:%{N%}%> Noms ;
+Noms ;
 %[%+n%]:%{N%}%> P_1 ; ! N-
 
 LEXICON P_1
@@ -542,10 +543,10 @@ nǔ:nu%{ˇ%} N-3-6 ;
 Nǔ:Nu%{ˇ%} N-3-6 ;
 yaŋbàʼ:yaŋba%{ˋ%}ʼ N-3 ;
 
-lɛn:lɛn N-5-4 ; ! "nom"
+!lɛn:lɛn N-5-4 ; ! "nom"
 lɛ̂n:lɛ%{ˆ%}n N-5-4 ;
-Lɛn:Lɛn N-5-4 ;
-Lɛ̂n:Lɛ%{ˆ%}n N-5-4 ;
+!Lɛn:Lɛn N-5-4 ;
+!Lɛ̂n:Lɛ%{ˆ%}n N-5-4 ;
 tɑm% tʉ:tɑm% tʉ N-5-4 ;
 
 cɔ̀:cɔ%{ˋ%} N-5-5 ; ! "histoire"
@@ -676,19 +677,19 @@ njʉ:njʉ N-X ; ! "temps"
 mfʉag:mfʉag N-X ; ! "air/froid"
 ncwɛn:ncwɛn N-X ; ! "bois"
 nyɑ̀m:nyɑ%{ˋ%}m N-X ; ! "animal"
-futə:futə N-X ;
-njimə:njimə N-X ; !
-nsi:nsi N-X ;
-njim:njimə N-X ;
-njîm:njim N-X ;
-ncobtə:ncobtə N-X ;
-nənənə:nənənə N-X ;
-buʼ:buʼ N-X ;
-nswə:nswə N-X ;
-ywɛnə:ywɛnə N-X ;
-ywɛnə:ywɛn N-X ;
-toʼ:toʼ N-X ;
-zwiʼtə̀:zwiʼtə%{ˋ%} N-X ;
+futə:fu%{ˊ%}tə%{ˊ%} N-X ;
+njimə:njimə N-X ;
+nsi:nsi%{ˊ%} N-X ;
+njim:nji%{ˊ%}mə N-X ;
+njîm:nji%{ˊ%}m N-X ;
+ncobtə:nco%{ˊ%}btə%{ˊ%} N-X ;
+nənənə:nə%{ˊ%}nə%{ˊ%}nə%{ˊ%} N-X ;
+buʼ:bu%{ˊ%}ʼ N-X ;
+nswə:nswə%{ˊ%} N-X ;
+ywɛnə:ywɛ%{ˊ%}nə%{ˊ%} N-X ;
+ywɛnə:ywɛ%{ˊ%}n N-X ;
+toʼ:to%{ˊ%}ʼ N-X ;
+zwiʼtə̀:zwi%{ˊ%}ʼtə%{ˋ%} N-X ;
 nzə̀:nzə%{ˋ%} N-X ;
 njʉ:njʉ N-X ;
 

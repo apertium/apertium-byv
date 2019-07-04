@@ -1,4 +1,8 @@
-Alphabet
+Alphabet 
+    a b c d ɛ e ə f g h i j k l m n ŋ o ɔ s t u v w x y z ɑ ʉ ʼ ! α ε
+    A B C D Ɛ E Ə F G H I J K L M N Ŋ O Ɔ S T U V W X Y Z Ɑ Ʉ ʼ ! Α Ε
+
+
 
 %ʻ:%ʻ %ʼ:%ʻ 
 %’:%’ %ʼ:%’  
@@ -6,14 +10,31 @@ Alphabet
 %ʼ:%ʼ %ʼ:%ʼ 
 %':%' %ʼ:%'
 
+̀
+̀:0
+́
+́:0
+̂
+̂:0
+̌
+̌:0
+
 ə:ə
 ә:ә   ә:ə
 
 ɛ:ɛ
 ε:ε   ɛ:ε
+ɛ:e
+ɛ:è
 
 ɑ:ɑ
 α:α   ɑ:α 
+ɑ:a
+
+ɔ:o
+
+ʉ:u
+ʉ:ù
 
 ;
 
@@ -21,3 +42,12 @@ Rules
 
 "Unify apostrophe styles"
 a => _ ;
+
+"t in tsh"
+t:0 <=> _ s:c h: ;
+
+"s in tsh"
+s:c <=> t: _ h: ;
+
+"h in tsh"
+h:0 <=> t: s:c _ ;
