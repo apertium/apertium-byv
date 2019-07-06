@@ -61,7 +61,7 @@ Multichar_Symbols
 %{ˆ%}       ! Ton descendent
 %{ˇ%}       ! Ton montant
 %{ˋ%}       ! Ton bas
-       ! Ton haut
+%{ˊ%}   ! Ton haut
 
 %{↘%}       !
 %{↗%}       !
