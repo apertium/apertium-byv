@@ -1,0 +1,11 @@
+`Dʉ̌ʼŋwànì.txt`	https://incubator.wikimedia.org/wiki/Wp/byv/D%CA%89%CC%8C%CA%BC%C5%8Bw%C3%A0n%C3%AC	_
+`Jʉɑ.txt`	_	_
+`Kamərun.txt`	_	_
+`MANIFEST.md`	_	_
+`Mɛn.txt`	_	_
+`Ngǎntəʼ.txt`	_	_
+`Ngɔ̀.txt`	_	_
+`Ntɑnə.txt`	_	_
+`Ntʉ.txt`	_	_
+`Ŋwʉ_ncòbbɑhɑ_gham.txt`	_	_
+`Tǔnndɑ.txt`	_	_
