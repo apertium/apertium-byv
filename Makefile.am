@@ -58,10 +58,13 @@ TARGETS_COMMON =			\
 	hfst-compose-intersect -1 .deps/$(LANG1).LR.lexc-twoc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
 
 $(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst
-	hfst-fst2fst -O $< -o $@
+	hfst-fst2fst -w $< -o $@
 
-$(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst .deps/spellrelax.hfst
-	hfst-compose-intersect -1 $< -2 .deps/spellrelax.hfst | hfst-invert | hfst-fst2fst -O -o $@
+.deps/ctsh.hfst:
+	echo " ?* [ c -> t s h | c ] ?*" | hfst-regexp2fst -o $@
+
+$(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst .deps/spellrelax.hfst .deps/ctsh.hfst
+	hfst-compose-intersect -1 $< -2 .deps/spellrelax.hfst | hfst-compose -1 - -2 .deps/ctsh.hfst | hfst-invert | hfst-fst2fst -w -o $@
 
 $(LANG1).autogen.att.gz: $(LANG1).autogen.hfst
 	hfst-fst2txt $< | gzip -9 -c -n > $@
