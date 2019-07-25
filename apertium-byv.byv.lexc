@@ -412,7 +412,7 @@ cɑg%<past%>:cɑg # ; ! P⁴
 ! P⁵
 ! P⁶
 
-nɑʼə%<past%>%<impf%>:nɑʼə # ;
+naʼa%<past%>%<impf%>:naʼa # ;
 kə%<dur%>:kə  # ;
 nkə%<dur%>%<consec%>:nkə # ;
 nùm%<hab%>%<pres%>:nu%{ˋ%}m # ;
@@ -1041,6 +1041,7 @@ njʉ:njʉ N-X ;
     cɔ̀:cɔ%{ˋ%} N-5  ; ! " histoire "
     bùma:bu%{ˋ%}ma N-5  ; ! " orange "
     ntɑnə:ntɑnə N-3  ; ! " marché "
+    ntɑn:ntɑn N-3  ; ! " marché "
     lɛn:lɛn  N-5   ; ! " nom "
     lôŋvʉ̀:lo%{ˆ%}ŋvʉ%{ˋ%} N-3  ; ! " ordinateur "
     yanbàʼ:yanba%{ˋ%}ʼ N-3  ; ! " voiture "
@@ -1102,6 +1103,7 @@ njʉ:njʉ N-X ;
     kǎmŋwàʼnì% ghun:ka%{ˇ%}mŋwàʼnì% ghun  N-5   ; ! " invitation "
     tɑm% sa:tɑm% sa  N-5   ; ! " ballon "
     tɑm% ntsə:tɑm% ntsə N-4  ; ! " goutte d'eau "
+    ŋwaʼa:ŋwaʼa N-4 ; ! "Miel"
     tɑm% nduʼ:tɑm% nduʼ N-4  ; ! " goutte de boisson "
     tɑm% fu:tɑm% fu  N-5   ; ! " goutte de remède "
     sɑb% bon:sɑb% bon  N-6  ; ! " les jeunes "
@@ -2164,6 +2166,26 @@ sòg% mbâbmbabə:so%{ˋ%}g% mba%{ˆ%}bmbabə   ADJ ; ! " savon% en% poudre "
 zǐkob:zi%{ˇ%}kob   ADJ ; ! " élastique% de% dedans% de "
 nkʉ̌nyàm:nkʉ%{ˇ%}nya%{ˋ%}m   ADJ ; ! " sans% confiance "
 nə̀bedni:nə%{ˋ%}bedni   ADV ; ! " douceur "
+
+
+kə̂ʼ%<neg%>:kə%{ˆ%}ʼ # ; !"ne"
+lî%<det%>%<dem%>:li%{ˆ%} # ; !"que% voici"
+ndʉ̀:ndʉ̀ CS ; !"alors% que"
+bwɔ̀:bwɔ%{ˋ%} V-ALL ; !"falloir"
+mbə̌:mbə%{ˇ%} CS ; !"que"
+bə̀:bə%{ˋ%} PRON-PERS ; !"nous"
+nkɔ̂:nkɔ%{ˆ%} V-ALL ; !"aimer"
+kwàʼ:kwa%{ˋ%}ʼ ADV ; !"même"
+tɑ% nkʉd:tɑ% nkʉd N-X ; !"proverbe"
+tɑ% nkʉd:tɑ% nkʉd V-ALL ; !"dire% un% proverbe"
+bǎg:ba%{ˇ%}g PRON-PERS ; !"nous"
+jʉɑ:jʉɑ N-X ; !"fête"
+tʉ̂ʼ:tʉ%{ˆ%}ʼ V-ALL ; !"rester"
+cwɛ̀d:cwɛ%{ˋ%}d N-1 ; !"champs"
+yənə:yənə V-Ə ; !"voir"
+yən:yən V-ALL ; !"voir"
+njənə:njənə V-Ə ; !"voir"
+njən:njən V-ALL ; !"voir"
 
 
 LEXICON Interjections
