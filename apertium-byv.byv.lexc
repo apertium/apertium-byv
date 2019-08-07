@@ -325,10 +325,14 @@ yənni%<det%>%<dem%>%<cl1%>:yənni # ; ! "ceçi"
 yənnî%<det%>%<dem%>%<cl1%>:yənnî # ; ! "ceçi"
 yə̂nna%<det%>%<dem%>%<cl1%>:cə̂nna # ; ! "ça"
 yənna%<det%>%<dem%>%<cl1%>:yənna # ;
+yənnî%<det%>%<dem%>%<cl1%>:yənni%{ˆ%} # ; !"ce"
+sənnî%<det%>%<dem%>%<cl5%>:sənni%{ˆ%} # ; !"ce"
+sə̂n%<det%>%<dem%>%<cl5%>:sə%{ˆ%}n # ; !"ce"
+yə̂n%<det%>%<dem%>%<cl1%>:yə%{ˆ%}n # ; !"ce"
 
 LEXICON PRON-POSS
 
-ɑ̀m%<prn%>%<pos%>%<cl1%>:ɑm # ; ! "mine"
+ɑ̀m%<prn%>%<pos%>%<cl1%>:ɑ̀m # ; ! "mine"
 ɑb%<prn%>%<pos%>%<cl3%>:ɑb # ; ! "his in postfix"
 ɑm%<prn%>%<pos%>%<cl3%>:ɑm # ; ! "mine for nouns in cl3"
 mi%<prn%>%<pos%>%<cl4%>:mi # ; !
@@ -344,13 +348,15 @@ sû%<prn%>%<pos%>%<cl5%>:su%{ˆ%} # ;
 u%<prn%>%<pos%>%<cl3%>:u #;     !
 ù%<prn%>%<pos%>%<cl1%>:u%{ˋ%} #;
 yɑm%<prn%>%<pos%>%<cl3%>:yɑm # ;
+yɑm%<prn%>%<pos%>%<cl3%>:yɑ̂m # ;
 yɑ̀m%<prn%>%<pos%>%<cl1%>:yɑ%{ˋ%}m # ;
 Yɑm%<prn%>%<pos%>%<cl3%>:Yɑm # ;
 Yɑ̀m%<prn%>%<pos%>%<cl1%>:Yɑ%{ˋ%}m # ;
 yù%<prn%>%<pos%>%<cl1%>:yù # ;
 yu%<prn%>%<pos%>%<cl3%>:yu # ;
 yàg%<prn%>%<pos%>%<cl1%>:ya%{ˋ%}g # ; !
-yub%<prn%>%<pos%>%<cl3%>:yub # ; !
+yub%<prn%>%<pos%>%<cl3%>:yub # ; ! "le leur"
+yub%<prn%>%<pos%>%<cl3%>:yûb # ; ! "le leur"
 yubə%<prn%>%<pos%>%<cl3%>:yubə # ;
 yin%<prn%>%<pos%>%<cl3%>:yin # ;
 yîn%<prn%>%<pos%>%<cl3%>:yîn # ;
@@ -360,6 +366,7 @@ cɑ̂m%<prn%>%<pos%>%<cl6%>:cɑ̂m #;
 co%<prn%>%<pos%>%<cl6%>:co #;
 tsinə%<prn%>%<pos%>%<cl6%>:tsinə #;
 tsə%<prn%>%<pos%>%<cl6%>:tsə #;
+tsə̀%<prn%>%<pos%>%<cl6%>:tsə̀ #;
 zə%<prn%>%<pos%>%<cl1%>:zə # ;
 zin%<prn%>%<pos%>%<cl1%>:zin # ;
 zîn%<prn%>%<pos%>%<cl1%>:zi%{ˆ%}n # ;
@@ -401,9 +408,11 @@ kɑ̂%<neg%>:kɑ̂  # ;
 nə̀%<inf%>:nə̀ # ;
 àʼ%<fut%>:àʼ # ;
 naʼ%<past%>:naʼ # ;
-naʼ%<past%>:naʼ # ;
+nâʼ%<past%>:nâʼ # ;
 cwɛ̌d%<prog%>:cwɛ̌d # ;
+mbɛ̂n%<prog%>:mbɛ̂n # ;
 nǔm%<prog%>%<past%>:nǔm # ;
+yôg%<prog%>%<past%>:yôg # ;
 
 fə̀%<past%>:fə%{ˋ%} # ;  ! P¹
 lò%<past%>:lo%{ˋ%} # ;  ! P²
@@ -419,6 +428,7 @@ nùm%<hab%>%<pres%>:nu%{ˋ%}m # ;
 bə%<hab%>%<consec%>:bə # ; ! bəʼə(?)
 
 bə%<cop%>%<pres%>:bə # ;
+bə%<cop%>%<pres%>:mbə # ; ! "nasalised"
 
 LEXICON Conjonctions
 
@@ -426,6 +436,7 @@ bô:bo%{ˆ%} CC ; ! "et"
 
 mbə:mbə CS ; ! "que"
 mbə:mbə%{ˇ%} CS ; ! "pourque"
+mbə:mbə%{ˋ%} CS ; ! "que"
 zə:zə CS ;
 
 ngəlaŋ:ngəlaŋ CA ; ! "quand"
@@ -544,11 +555,12 @@ nǔ:nu%{ˇ%} N-3-6 ;
 Nǔ:Nu%{ˇ%} N-3-6 ;
 yaŋbàʼ:yaŋba%{ˋ%}ʼ N-3 ;
 
-!lɛn:lɛn N-5-4 ; ! "nom"
+lɛn:lɛn N-5 ; ! "nom"
 lɛ̂n:lɛ%{ˆ%}n N-5-4 ;
-!Lɛn:Lɛn N-5-4 ;
-!Lɛ̂n:Lɛ%{ˆ%}n N-5-4 ;
-tɑm% tʉ:tɑm% tʉ N-5-4 ;
+lɛn:ndɛn N-5-4 ;
+lɛ̂n:ndɛ%{ˆ%}n N-5-4 ;
+tɑm% tʉ:tɑm% tʉ N-5;
+tɑm% tʉ:ntɑm% tʉ N-5-4 ;
 
 saŋvʉ̀:saŋvʉ%{ˋ%} N-5-5 ;
 cɔ̀:cɔ%{ˋ%} N-5-5 ; ! "histoire"
@@ -591,7 +603,7 @@ ndɑ:ndɑ%{ˆ%} N-1 ; ! "maison"
 ngàŋwàʼnì:nga%{ˋ%}ŋwa%{ˋ%}ʼni%{ˋ%} N-1 ;
 ngàtswìtə̀:nga%{ˋ%}tswi%{ˋ%}ʼtə%{ˋ%} N-1 ;
 ŋwàʼnì:ŋwa%{ˋ%}ʼni%{ˋ%} N-1 ;
-ŋwàʼnî:ŋwa%{ˋ%}ʼni%{ˆ%} N-1 ;
+ŋwàʼnǐ:ŋwa%{ˋ%}ʼni%{ˇ%} N-1 ;
 mɛ̀n:mɛ%{ˋ%}n N-1 ; ! "personne"
 mɛn:mɛ%{ˆ%}n N-1 ;
 mbʉ:mbʉ N-1 ; ! "chien"
@@ -673,6 +685,8 @@ mɛn:bon N-6 ; ! "enfants"
 mɛ̀n:bənntʉ%{ˋ%}n N-6 ; ! "personnes"
 mbʉ:ba%{ˋ%}% mbʉ N-6 ; ! "chiens"
 cu:cu N-6 ;
+ntʉ: ntʉ N-6 ; ! "arbres"
+ntʉ: ntʉ̂ N-6 ; ! "arbres (pos)"
 cu:cu%{ˆ%} N-6  ;
 mbɛdtə̀:mbɛdtə%{ˋ%} N-6 ; ! "demande"
 
@@ -1041,7 +1055,8 @@ njʉ:njʉ N-X ;
     cɔ̀:cɔ%{ˋ%} N-5  ; ! " histoire "
     bùma:bu%{ˋ%}ma N-5  ; ! " orange "
     ntɑnə:ntɑnə N-3  ; ! " marché "
-    ntɑn:ntɑn N-3  ; ! " marché "
+    ntɑnə:ntɑn N-3  ; ! " marché "
+    ntɑnə:ntɑ̂n N-3  ; ! " marché "
     lɛn:lɛn  N-5   ; ! " nom "
     lôŋvʉ̀:lo%{ˆ%}ŋvʉ%{ˋ%} N-3  ; ! " ordinateur "
     yanbàʼ:yanba%{ˋ%}ʼ N-3  ; ! " voiture "
@@ -1053,6 +1068,7 @@ njʉ:njʉ N-X ;
     ngòn:ngo%{ˋ%}n N-1  ; ! " fille "
     ŋwə:ŋwə N-1  ; ! " month "
     tu:tu N-1  ; ! " tête "
+    tu:tû N-1  ; ! " tête de ... "
     tɑ:tɑ N-1  ; ! " père "
     zə̂nù:zə%{ˆ%}nu%{ˋ%}  N-5   ; ! " sagesse "
     kə̀nà:kə%{ˋ%}na%{ˋ%} N-1  ; ! " arrachide "
@@ -1195,7 +1211,7 @@ njʉ:njʉ N-X ;
     badtə̀:badtə%{ˋ%} N-X ;   ! " amadouement "
     kàʼtə̀:ka%{ˋ%}ʼtə%{ˋ%} N-X ;   ! " orgueil "
     kotə̀wʉd:kotə%{ˋ%}wʉd N-X ;   ! " vantardise "
-    mbwɔ̀:mbwɔ%{ˋ%} N-X ;   ! " beauté "
+    mbwɔ̀:mbwɔ%{ˋ%} ADJ ;   ! " beauté "
     mfʉm:mfʉm N-X ;   ! " hypocrisie "
     nətàʼ:nəta%{ˋ%}ʼ N-X ;   ! " zone pubienne "
     kə̀sɔ:kə%{ˋ%}sɔ N-X ;   ! " édenté "
@@ -1428,8 +1444,6 @@ mvə:mvə PREP ; !"au"
 nùm:nu%{ˋ%}m PREP ; !"sur"
 kɑ̂%<neg%>:kɑ̂ # ; !"ne"
 wud% i:wud% i PRON-PERS ; !"se"
-yənnî:yənni%{ˆ%} DET-DEM ; !"ce"
-sənnî:sənni%{ˆ%} DET-DEM ; !"ce"
 a:a PRON-PERS ; !"il"
 bə:bə V-ALL ; !"sont"
 sə:sə PRON-POSS ; !"son"
@@ -1440,6 +1454,7 @@ ndǎʼndʉ̂:nda%{ˇ%}ʼndʉ%{ˆ%} CC ; !"mais"
 mbɑ̂:mbɑ%{ˆ%} ADV ; !"comme"
 bag:bag PRON-PERS ; !"on"
 njòŋ:njo%{ˋ%}ŋ ADJ ; !"tout"
+mbwɔ̂:mbwɔ%{ˆ%} ADJ ; ! "bien"
 yubə:yubə PRON-POSS ; !"leur"
 kùʼnǐ:ku%{ˋ%}ʼni%{ˇ%} V-ALL ; !"peut"
 ngùʼ:ngu%{ˋ%}ʼ N-X ; !"ans"
@@ -1455,6 +1470,7 @@ zə:zə PRON-POSS ; !"lui"
 ndǎŋndaŋ:nda%{ˇ%}ŋndaŋ ADV ; !"également"
 ncuʼ:ncuʼ NUM ; !"millions"
 ŋwʉ:ŋwʉ N-X ; !"mois"
+ŋwʉ̂:ŋwʉ%{ˆ%} N-X ; !"mois de"
 njǒŋ% mfìʼ:njo%{ˇ%}ŋ% mfi%{ˋ%}ʼ N-X ; !"taux"
 ngùʼ:ngu%{ˋ%}ʼ N-X ; !"année"
 ngə̀laŋ:ngə%{ˋ%}laŋ N-X ; !"temps"
@@ -1677,6 +1693,8 @@ yɑmə:yɑmə ADV ;
 sagə:sagə ADV ;
 sag:sag ADV ;
 bwǒŋ:bwo%{ˇ%}ŋ ADV ;
+yɑ̌:yɑ%{ˇ%} ADV ;
+yɑ̂:yɑ%{ˆ%} ADV ;
 yòŋ:yo%{ˋ%}ŋ ADV ;
 sɛn:sɛn ADV ; ! "aujourd'hui"                   !@!
 sɛnnî:sɛ%{ˆ%}nni%{ˆ%} ADV ;
@@ -1728,8 +1746,10 @@ tə:tə V-ALL ; ! "mettre"
 zwi:zwi V-ALL ; ! "tuer"
 ghaʼa:ghaʼa V-ALL ; ! "ouvrir"
 səʼ:səʼ V-ALL ; ! "venir"
-sə̀ʼə:səʼə V-ALL ;
+səʼə:səʼə V-ALL ;
+səʼə:nsəʼə V-ALL ;
 sə̌ʼ:sə%{ˇ%}ʼ V-ALL ;
+sə̌ʼ:nsə%{ˆ%}ʼ V-ALL ;
 sə̀ʼ:sə%{ˋ%}ʼ V-ALL ;
 nu:nu V-ALL ; ! "boire"
 juʼu:juʼ V-ALL ; ! "écouter, entendre"
@@ -1767,11 +1787,16 @@ bwɔ̌:bwɔ%{ˇ%} V-ALL ;
 làbə:la%{ˋ%}b V-ALL ; ! "frapper"
 zwǐ:zwi%{ˇ%} V-ALL ; ! "rire"
 zwǐ:zwi%{ˆ%} V-ALL ; ! "rire past"
-lòʼo:lo%{ˋ%}ʼo V-ALL ; ! "prendre"
+loʼo:loʼo V-ALL ; ! "prendre"
+loʼo:loʼ V-ALL ; ! "prendre"
+loʼo:ndoʼo V-ALL ; ! "prendre nasalised"
+loʼo:ndoʼ V-ALL ; ! "prendre nasalised"
 toʼo:to%{ˋ%}ʼo V-ALL ;
 toʼtə:to%{ˋ%}ʼtə V-ALL ;
 lǒʼ:lo%{ˇ%}ʼ V-ALL ;
 lòʼ:lo%{ˋ%}ʼ V-ALL ;
+lǒʼ:ndo%{ˇ%}ʼ V-ALL ;
+lòʼ:ndo%{ˋ%}ʼ V-ALL ;
 tǒʼ:to%{ˇ%}ʼ V-ALL ;
 tòʼ:to%{ˋ%}ʼ V-ALL ;
 zǐn:zi%{ˇ%}n V-ALL ;
@@ -1935,6 +1960,9 @@ zi% dʉ̀m:zi% dʉ%{ˋ%}m V-ALL ; ! "rêver"
 ŋwatə% dʉʼ:ŋwatə% dʉʼ V-ALL ; ! "animer"
 tsìntə̌:tsi%{ˋ%}ntə%{ˇ%} V-ALL ; ! "pisser"
 nə% sitə:nə% sitə V-ALL ; ! "trahir"
+ziʼtə:ziʼtə V-ALL ;
+ziʼtə̀:ziʼtə V-ALL ;
+ziʼtə̀:ziʼtə%{ˋ%} V-ALL ;
 kə̌d% lɛ̀d:kə%{ˇ%}d% lɛ%{ˋ%}d V-Ə ; ! "surcharger"
 
 diɑgə:diɑg V-Ə ; ! "chercher"
@@ -1942,11 +1970,13 @@ lɛnə:lɛn V-Ə ; ! "savoir"
 siaŋə:siaŋ V-Ə ;
 yagə:yagə V-Ə ;
 tsiaŋə:tsiaŋ V-Ə ;
+ntsiaŋə:ntsiaŋ V-Ə ;
 tsinə:tsin V-Ə ;
 siaŋə:siaŋ V-Ə ;
 tsinə:tsin V-Ə ;
 lɛnə:lɛ%{ˇ%}n V-Ə ;
 cobə:cob V-Ə ; ! "dire"
+côb:co%{ˆ%}b V-Ə ; ! "dire ..."
 yɑbə:yɑb V-Ə ;
 yənə:yən V-Ə ; ! "regarder, voir"
 lonə:lon V-Ə ;
@@ -2071,7 +2101,6 @@ kìtə̌:ki%{ˋ%}t V-TƏ ;
 nkitə:kit V-TƏ ;
 kwatə̌:kwa%{ˆ%} V-TƏ ;
 làʼtə̌:la%{ˋ%}ʼt V-TƏ ; ! "monter"
-ziʼtə:ziʼt V-TƏ ;
 kìtə̌:ki%{ˋ%}ʼt V-TƏ ; ! "monter"
 bʉ̀ntə̌:bʉ%{ˋ%}n V-TƏ ;
 bʉ̂ntə:bʉ%{ˆ%}n V-TƏ ; ! "répondre"
@@ -2079,7 +2108,7 @@ bɛ̂dtə:bɛ%{ˆ%}d V-TƏ ;
 cobtə:cob V-TƏ ;
 tadtə:tad V-TƏ ; ! "mentir"
 tʉntə:tʉn V-TƏ ; ! "compter"
-lɔtə:lɔt V-TƏ ; ! "regarder"
+lɔtə:lɔ V-TƏ ; ! "regarder"
 miɑ̀gtə̌:miɑ%{ˋ%}g V-TƏ ; ! "finir"
 miɑ̂gtə:miɑ%{ˆ%}g V-TƏ ;
 bɛdtə:bɛd V-TƏ ;
@@ -2166,10 +2195,21 @@ sòg% mbâbmbabə:so%{ˋ%}g% mba%{ˆ%}bmbabə   ADJ ; ! " savon% en% poudre "
 zǐkob:zi%{ˇ%}kob   ADJ ; ! " élastique% de% dedans% de "
 nkʉ̌nyàm:nkʉ%{ˇ%}nya%{ˋ%}m   ADJ ; ! " sans% confiance "
 nə̀bedni:nə%{ˋ%}bedni   ADV ; ! " douceur "
+mbɛ̂n:mbɛ̂n CS ; !"qui_a"
+shun:shun N-6 ; !"amis"
+shun:shun N-6 ; !"amies"
+nshun:nshun N-1 ; !"amie"
+mfɑ:mfɑ V-ALL ; !"donner"
+tû:tû N-1 ; !"tête"
+mbwogə:mbwogə N-1 ; !"feu"
+mbwogə:mbwogə N-1 ; !"feux"
+nǔmmbə:nǔmmbə CS ; !"par_ce_que"
+nzə̌nzə̀:nzə̌nzə̀ ADJ ; !"plusiers"
 
 
 kə̂ʼ%<neg%>:kə%{ˆ%}ʼ # ; !"ne"
 lî%<det%>%<dem%>:li%{ˆ%} # ; !"que% voici"
+nî%<det%>%<dem%>:ni%{ˆ%} # ; !"que% voici"
 ndʉ̀:ndʉ̀ CS ; !"alors% que"
 bwɔ̀:bwɔ%{ˋ%} V-ALL ; !"falloir"
 mbə̌:mbə%{ˇ%} CS ; !"que"
@@ -2180,6 +2220,7 @@ tɑ% nkʉd:tɑ% nkʉd N-X ; !"proverbe"
 tɑ% nkʉd:tɑ% nkʉd V-ALL ; !"dire% un% proverbe"
 bǎg:ba%{ˇ%}g PRON-PERS ; !"nous"
 jʉɑ:jʉɑ N-X ; !"fête"
+jʉɑ:jʉɑ̂ N-X ; !"fête"
 tʉ̂ʼ:tʉ%{ˆ%}ʼ V-ALL ; !"rester"
 cwɛ̀d:cwɛ%{ˋ%}d N-1 ; !"champs"
 yənə:yənə V-Ə ; !"voir"

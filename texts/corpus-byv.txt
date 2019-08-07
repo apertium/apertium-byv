@@ -1,4 +1,4 @@
-Nǔ njʉ kə̀ tɔ̀tə̀ mbɛ̀n mbə bə njʉ ntʉ̂m zə njôn bə̀n fa tswə̂ num diaŋ ncʉ̀ʼ lɑ, kə nə bə ngɔ̌ ntʉ̂m zə̀ sɑ̂m mɛn kə̂ʼ cʉà môʼ lɑ bə ɑ̂ nkwàtə̀ ndʉ̀ a ghobtə̀ nə̀tɛ̌d bə̀nntʉ̀n. A nâʼ bwôg bə̂ nə nkwàtə̀ nə tɔ̂̂ ngɔ̀ ntʉ̂m zə mɛ̀n kə̂ʼ cʉɑ̀ môʼ lɑ.
+Nǔ njʉ kə̀ tɔ̀tə̀ mbɛ̀n mbə bə njʉ ntʉ̂m zə njôn bə̀n fa tswə̂ num diaŋ ncʉʼ lɑ, kə nə bə ngɔ̌ ntʉ̂m zə̀ sɑ̂m mɛn kə̂ʼ cʉà môʼ lɑ bə ɑ̂ nkwàtə̀ ndʉ̀ a ghobtə̀ nə̀tɛ̌d bə̀nntʉ̀n. A nâʼ bwôg bə̂ nə nkwàtə̀ nə tɔ̂̂ ngɔ̀ ntʉ̂m zə mɛ̀n kə̂ʼ cʉɑ̀ môʼ lɑ.
 A nâʼ bwôg bə̂ nə nkwàtə̀ nə tɔ̂̂ ngɔ̀ ntʉ̂m zə mɛ̀n kə̂ʼ cʉɑ̀ môʼ lɑ.
 Ngə̀laŋ bo bwə i lɑ, be a tswə nguʼ ncòbncʉ̀ʼ gham, ndɛ̂n mbə bə̂ a tswə nətoʼ ngùʼ fomə nkûm ngùʼ ncòbncʉ̀ʼ ŋambɑhɑ.
 A bə̂ ndɛ̂n nə̀ kâ mbɛ̀n nkwimtə mɑ̂nzə̀ ncʉâ mɛ̀nntʉ̀n.
@@ -23,7 +23,7 @@ Bwə̂ yɑmə.
 Nə bwə bɑ̀ ngə̀ʼdɑ ntʉ̂m tsə̀môʼ làʼ bə ɑ̂ nù ndʉ̀ njàŋ i lɛ̀lə, mbɑ̂ ntʉ̂m bɑ cɔ̀ lɑ.
 Konfekshiu mbə màd bə̀nntʉ̀n bə̂ mbə toʼtə mbwɔ̂.
 Bò bə̂ mbwə mɛ̀nntʉ̀n ɑ̂ bô màd nə tsinə.
-Jû bɑ̂ Flansi bò nkə ndʉ̂ mbə o miàgtə̌ ŋwàʼnì ɑ̂ ngə̀laŋ zə̀ mɛn zitə cu tsə ncʉ̀ʼ ngɔ̌ cwɛ̌d laʼtə lɑ.
+Jû bɑ̂ Flansi bò nkə ndʉ̂ mbə o miàgtə̌ ŋwàʼnì ɑ̂ ngə̀laŋ zə̀ mɛn zitə cu tsə ncʉʼ ngɔ̌ cwɛ̌d laʼtə lɑ.
 Mbɑ̀ bɑ̀ ntɑm tʉ ntʉ̂m dʉ̀ʼ nyàm kə̂ʼ bə ta nə̀shù lɑ bə̂ nkɔ̂ ntsə̂ yɑmə.
 Nə̀ na bə̂nnzwi yamə bə ɑ ju bo bə̂ nstiâŋ.
 Ghosɔ mbə bo bə̂ mbə bwə mɛn a ghʉ̂ màd mə̀bwɔ ndâʼndʉ̂ njʉ nkə ngʉ̂ a bâtə̀ màd.
@@ -152,7 +152,7 @@ A cob njǒŋ cu fâ mə̀
 A tʉʼ ɑ̂ mə ju î mə̀ miɑ̂gtə
 Mə kwàtə̀ mbə a fi tsə
 Mə kùʼ nǐ nə̀ ghʉ̌
-Njǒŋ cu fa lò mbɔ̂
+Njǒŋ cu fa lò mbwɔ̂
 A yɑm nə̀shù
 Mə̀ bə̂ njɑ̂ kwàtə̌ nǔ nùm yɑmə
 A kə̂ʼ bə ɑ̂ mə̌ mbɛ̂n ngʉ̂
@@ -184,7 +184,7 @@ Bə̂ o ghʉ̂
 Njǒn bɛ̂n nə̀ta lɑ
 Mə kɔ̌ nə̀ bə nzə̌nnî bô wʉ̀
 Mə kwàtə̀ mbə̀ a kùʼu
-A bwɔ̀ mbə̌ ò ghû
+A bwɔ̀ mbə̌ ò ghʉ̂
 A bwɔ̌ ò nɛnə
 A bwɔ̀ mbə̌ ò nɛnə
 À bə ɑ̂ yù buʼŋwàʼnì
@@ -247,7 +247,7 @@ A kə̂ʼ tǒʼ yən i
 Mə̀ kə̂ʼ lɛ̂n ju zə̀ mə ghʉ̀ lɑ
 Mə̀ kə̂ʼ ghʉ̀ cɑ̂m sɑ̂mju nə̀ fàʼa
 Mə kwàtə̌
-A bwɔ̀ mbə̂ bìn ghʉ̂
+A bwɔ̀ bə̂ bìn ghʉ̂
 Â wʉ zə̀ cob ɑ ?
 A kə̂ʼ cob ju
 Mə kə̂ʼ kɔ̌ nə̀ yən zinə
@@ -289,7 +289,7 @@ A siaŋ buʼ ŋwàʼnî li nkòg
 Mə̀ ghʉ ɑ̂ mbɑ̀ à bɛdtə lɑ
 A kə̂ʼ bag tsə tɑ
 Mə̀ kə̂ʼ bə kɔ̀ cɑm nə yən zin ndʉlɑlɑ
-Fǎʼ mbɛ̀n mbə̂ yi nshʉɑ̂ njǒŋ ngə̀laŋ fa
+Fǎʼ mbɛ̀n bə̂ yi nshʉɑ̂ njǒŋ ngə̀laŋ fa
 Mə cwɛ̌d mbwog cɑm nə̀ nɛ̀n bwə
 Mbɑ̀ mə̀ kə̂ʼ mbɛ̀n nə juʼu
 Bàg kə̂ʼ ghʉ̌ ngə̀laŋ
@@ -628,7 +628,7 @@ A ghʉ nkɑb tɑ̀ a *cʉâtə̀
 A bwɔ̀ mbə̌ a kwʉ
 À bə ɑ̂ zə̂ mfɛd ɑ̂m zə̀ mɑndùm
 Mə kɔ̌ nə̀ bə tʉ̀ʼ ɑ̀m
-Mə fǎʼ ju à lò mbə̂ o fàʼ lɑ
+Mə fǎʼ ju à lò bə̂ o fàʼ lɑ
 Mfɛd ɑ̂m zə̀ mɑndùm kə̂ʼ ghʉ̌ nkɑb
 Mbɑ̂ bin lò jun sɑ̂m buʼŋwaʼnì
 A kəʼ cwɛ̌d nkwimtə ju
@@ -659,7 +659,7 @@ Ngə̀laŋ nə̀ nɛ̌n kùʼu
 À kə̂ʼ lɛ̀n ɑm
 A cwɛ̌d ncobtə̂ ndə
 A ghʉʼ nə̀shù
-À bə ɑ̂ mbɑ̀ njʉ loʼ mbə̂ yi lɑ
+À bə ɑ̂ mbɑ̀ njʉ loʼ bə̂ yi lɑ
 O cwɛ̌d nɛ̂n ndə bə̂
 Bò nkə ngʉ ɑ̂ kə bwə ɑ ?
 Njʉ̂ nə ziʼ ju kə̂ʼ bə sɛn
@@ -795,7 +795,7 @@ A ghʉ ɑ̂ num̌ nkɑb
 A nkə njʉ sə̂ fàʼ ɑ̂ njǎm sə̂ fàʼ
 A bə̂ ncob mbɑ̀ flansi
 Mə̀ kə̂ʼ juʼ yu mbɛdtə̌ mə̀bwɔ
-Mə̀ kwàtə̀ mbə a lò mbɔ̂ mbə̌ bìn lâ ntsə
+Mə̀ kwàtə̀ mbə a lò mbwɔ̂ mbə̌ bìn lâ ntsə
 A bwɔ̀ mbə̌ bàg nkə njɑ̂ ghʉ̌
 Kɑ mɛ̀n lɑ̂b wʉd
 Ngə̀laŋ bə̂ ntog ndə̂ndə bə̂ !
@@ -883,7 +883,7 @@ À bə ɑ̂ nshùm ɑ̀m
 Mə lò nkə nkwatə mbə̀ mə lò mbə ɑ̂ tùʼ ɑ̀m
 A lò mbə ɑ̂ kwàʼ taʼ liʼ mə̀bwɔ
 Mbɑ̀ mə naʼ nkə mə ɑ mbɑ̂ wʉ̀ lɑ
-A lò mbɔ̂ mbə̌ ò lɛnə
+A lò mbwɔ̂ mbə̌ ò lɛnə
 Busi ǒ ghuʼ
 A kùʼnǐ nə̀ siaŋ buʼ ŋwàʼnǐ lî
 Bə̂ o tswə kɑ̀ nkûm mfə̂dnjʉ
@@ -901,7 +901,7 @@ A jun ntàncôb nswə̂ mə̀
 Ò kə̂ʼ yən i
 Nkwàtə̌ lɑ lò kə bə mə̀bwɔ
 Mə lɛ̌n bôn cu
-A lò mbɔ̂ mbə̌ ò nɛ̂n nzi
+A lò mbwɔ̂ mbə̌ ò nɛ̂n nzi
 Kɑ̂ sǔ njim ntʉ̂m sɑ̂m mɛ̀n
 Mə kə̂ʼ lɛ̌n yə̂n jûncob lî
 Mə lò mbə nsi njǒŋ yə̂n ngəlaŋ nɑ fa
@@ -998,7 +998,7 @@ A ghubtə̀ mbɑ̀ a kə̂ʼ cob jû mə lɑ
 Mə kwàtə mbə bə̂ bàg kə̀ kùʼnǐ nə ghʉ̌ ju bwə
 Mə kɔ̌ nə̀ nɛ̌n toŋə
 Mə ghʉ̌ tàʼ ndàcob ndʉ̀ a bwɔ̌
-Bo kɔ̌ mbə̂ bìn kwʉ
+Bo kɔ̌ bə̂ bìn kwʉ
 Nàʼ nkoʼtə nzə̀ o di
 O ghʉ̌ sû fǎʼ ndɑ
 Bag côb nǔ nùm o
@@ -1076,4 +1076,4 @@ Nkəto' lî bə ɑ̂ mî wʉ ?
 Nɛ̂n mə ndàʼndàʼ
 Nə co'o fɑ mə câm tôn tag mə̀
 Mɑ ɑm kɔ̀ ɑm
-A bwɔ̀ mbə̂ ò sô nə̀ta nǔm yù màd nə ziʼ ju mə̀ kə' cwɛ̂d njən nzə̌ mə̀bwɔ
+A bwɔ̀ bə̂ ò sô nə̀ta nǔm yù màd nə ziʼ ju mə̀ kə' cwɛ̂d njən nzə̌ mə̀bwɔ
