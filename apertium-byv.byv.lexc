@@ -320,15 +320,17 @@ LEXICON DET-DEM
 
 yə̂n%<det%>%<dem%>%<cl1%>:yə̂n # ; ! "ce"
 yə̂n%<det%>%<dem%>%<cl6%>:cə̂n # ; ! "ces"
-yə̂nna%<det%>%<dem%>%<cl1%>:yə̂nna # ; ! "ça"
 yənni%<det%>%<dem%>%<cl1%>:yənni # ; ! "ceçi"
 yənnî%<det%>%<dem%>%<cl1%>:yənnî # ; ! "ceçi"
-yə̂nna%<det%>%<dem%>%<cl1%>:cə̂nna # ; ! "ça"
-yənna%<det%>%<dem%>%<cl1%>:yənna # ;
+yə̂nnɑ%<det%>%<dem%>%<cl6%>:cənnɑ # ; ! "ceux là"
+yə̂nnɑ%<det%>%<dem%>%<cl6%>:cə̌nnɑ # ; ! "ceux là"
+yənnɑ%<det%>%<dem%>%<cl1%>:yənnɑ # ;
 yənnî%<det%>%<dem%>%<cl1%>:yənni%{ˆ%} # ; !"ce"
 sənnî%<det%>%<dem%>%<cl5%>:sənni%{ˆ%} # ; !"ce"
 sə̂n%<det%>%<dem%>%<cl5%>:sə%{ˆ%}n # ; !"ce"
 yə̂n%<det%>%<dem%>%<cl1%>:yə%{ˆ%}n # ; !"ce"
+mə̂n%<det%>%<dem%>%<cl4%>:mə%{ˆ%}n # ; !"ce"
+cə̂n%<det%>%<dem%>%<cl6%>:cə%{ˆ%}n # ; !"ce"
 
 LEXICON PRON-POSS
 
@@ -358,6 +360,8 @@ yàg%<prn%>%<pos%>%<cl1%>:ya%{ˋ%}g # ; !
 yub%<prn%>%<pos%>%<cl3%>:yub # ; ! "le leur"
 yub%<prn%>%<pos%>%<cl3%>:yûb # ; ! "le leur"
 yubə%<prn%>%<pos%>%<cl3%>:yubə # ;
+subə%<prn%>%<pos%>%<cl5%>:subə # ;
+sûb%<prn%>%<pos%>%<cl5%>:sûb # ;
 yin%<prn%>%<pos%>%<cl3%>:yin # ;
 yîn%<prn%>%<pos%>%<cl3%>:yîn # ;
 yû%<prn%>%<pos%>%<cl3%>:yû # ;
@@ -395,6 +399,7 @@ yǒg%<foc%>:yo%{ˇ%}g # ; !
 lɑ%<foc%>:lɑ # ;
 lɑ%<foc%>:lɑ%>%{↘%} # ;
 nɑ%<foc%>:nɑ #;
+nô%<foc%>:nô #;
 à%<foc%>:a%{ˋ%} # ;
 
 zə̀%<rel%>:zə̀ # ;
@@ -410,6 +415,10 @@ àʼ%<fut%>:àʼ # ;
 naʼ%<past%>:naʼ # ;
 nâʼ%<past%>:nâʼ # ;
 cwɛ̌d%<prog%>:cwɛ̌d # ;
+yog%<prog%>:yog # ;
+yôg%<prog%>:yôg # ;
+cag%<prog%>:cag # ;
+câg%<prog%>:câg # ;
 mbɛ̂n%<prog%>:mbɛ̂n # ;
 nǔm%<prog%>%<past%>:nǔm # ;
 yôg%<prog%>%<past%>:yôg # ;
@@ -437,9 +446,11 @@ bô:bo%{ˆ%} CC ; ! "et"
 mbə:mbə CS ; ! "que"
 mbə:mbə%{ˇ%} CS ; ! "pourque"
 mbə:mbə%{ˋ%} CS ; ! "que"
-zə:zə CS ;
+nǔmmbə̂:nǔmmbə̂ CS ; !
+zə:zə CS ; ! ??????
 
 ngəlaŋ:ngəlaŋ CA ; ! "quand"
+ngəlaŋ:ngə̀lâŋ CA ; ! "quand"
 ndǎʼndʉ̂:nda%{ˇ%}ʼndʉ%{ˆ%} CA ; ! "mais"
 mbɑ̀% mbɑ:mbɑ%{ˋ%}% mbɑ CA ; ! "bien que"
 
@@ -447,13 +458,15 @@ LEXICON Prepositions
 
 mbaŋ:mbaŋ PREP ; ! "à côté de"
 nyàm:nya%{ˋ%}m PREP ; ! "deriere"
+nətɛd:nətɛd PREP ; ! " entre "
+nətɛd:nə%{ˋ%}tɛ̌d PREP ; ! " entre "
 njàm:nja%{ˇ%}m PREP ;
 njǎm:nja%{ˋ%}m PREP ;
 nùm:nu%{ˋ%}m PREP ; ! "sur"
 ntʉ̂m:ntʉ%{ˆ%}m PREP ;
 ntʉm:ntʉm PREP ;
 mbwə:mbwə PREP ; ! "devant"
-mbwə:mbwə%{ˇ%} PREP ; ! FIXME
+mbwə:mbwə%{ˇ%} PREP ; ! FIXME -  DONE !
 bô:bo%{ˆ%} PREP ;     ! "avec"
 nkûm:nku%{ˆ%}m PREP ;
 num:num PREP ;
@@ -478,6 +491,7 @@ wʉ̀:wʉ%{ˋ%} PRON-PERS ;   !
 wʉ̌:wʉ%{ˇ%} PRON-PERS ;
 bɑg:bɑg PRON-PERS ;
 bə̀n:bə̀n PRON-PERS ;
+ghǎ:ghǎ PRON-PERS ;
 bɑ̀g:bɑ%{ˋ%}g PRON-PERS ; ! "nous" (excl.)
 bɑgɑ̀bin:bɑgɑ%{ˋ%}bin PRON-PERS ; ! "nous" (incl.)
 bɑ̀gbo:bɑ%{ˋ%}gbo PRON-PERS ; ! "nous ." (incl.)
@@ -523,6 +537,7 @@ bɑhɑ:bɑhɑ NUM ; ! "deux"
 tad:tad NUM ; ! "trois"
 kuɑ̀:kuɑ%{ˋ%} NUM ; ! "quatre"
 tɑn:tɑn NUM ; ! "cinq"
+tɑn:tɑ̂n NUM ; ! "cinq"
 ntogə:ntogə NUM ; ! "six"
 sɑ̀mmbɑhɑ:sɑ%{ˋ%}mmbɑhɑ NUM ; ! "sept"
 fomə:fomə NUM ; ! "huit"
@@ -533,7 +548,7 @@ LEXICON Noms
 
 ka:ka N-1-4 ; ! "assiette"
 nkwàtə̀:nkwa%{ˋ%}tə%{ˋ%} N-1-4 ;
-nkwàtə̌:nkwa%{ˋ%}tə%{ˇ%} N-1-4 ;
+nkwàtə̀:nkwa%{ˋ%}tə%{ˇ%} N-1-4 ;
 toʼndɑ:toʼndɑ N-1-6 ;
 mbwə:mbwə N-1-6 ; ! "chévre"
 mɛn:mɛ%{ˆ%}n N-1-6 ;
@@ -559,8 +574,10 @@ lɛn:lɛn N-5 ; ! "nom"
 lɛ̂n:lɛ%{ˆ%}n N-5-4 ;
 lɛn:ndɛn N-5-4 ;
 lɛ̂n:ndɛ%{ˆ%}n N-5-4 ;
-tɑm% tʉ:tɑm% tʉ N-5;
-tɑm% tʉ:ntɑm% tʉ N-5-4 ;
+tɑm% tʉ:tɑm% tʉ N-5; ! "fruit"
+tɑm% tʉ:ntɑm% tʉ N-5-4 ; ! "fruits"
+tɑm:tɑm N-5-4; ! "morceau"
+tɑm:ntɑm N-5-4 ; ! "morceaux"
 
 saŋvʉ̀:saŋvʉ%{ˋ%} N-5-5 ;
 cɔ̀:cɔ%{ˋ%} N-5-5 ; ! "histoire"
@@ -578,6 +595,7 @@ kə̀nà:kə%{ˋ%}na%{ˋ%} N-1 ; ! "arrachide"
 ki:ki N-1 ; ! "clé"
 ngɔ̀:ngɔ%{ˋ%} N-1 ;
 ngɔ̌:ngɔ%{ˇ%} N-1 ;
+ngɔ̌ngɔ̀:ngɔ%{ˇ%}ngɔ%{ˋ%} N-6 ;
 wa:wa N-1 ;
 màd:ma%{ˋ%}d N-1 ; ! "habitude"
 mɑnndùm:mɑnndu%{ˋ%}m N-X ; ! "homme"
@@ -596,6 +614,7 @@ mfɛd:mfɛd N-1 ;
 tɔndɑ:tɔndɑ N-1 ; ! "fenêtre"
 wud:wud N-1 ; ! "corp"
 nkɑb:nkɑb N-1 ; ! "argent"
+nkɑb:nkɑ̂b N-1 ; ! "argent"
 nkib:nkib  N-1 ; ! "ongle"
 ntʉ:ntʉ N-1 ; ! "coeur"
 ndɑ:ndɑ N-1 ; ! "maison"
@@ -610,14 +629,18 @@ mbʉ:mbʉ N-1 ; ! "chien"
 bod:bolə N-1 ; ! "chien"
 bag:bag N-1 ;
 wʉd:wʉd N-1 ;
+wʉd:wʉ̂d N-1 ;
 ngə̀laŋ:ngə%{ˋ%}laŋ N-1 ;
+ngə̀laŋ:ngə%{ˋ%}la%{ˆ%}ŋ N-1 ;
 nkwimtə̀:nkwimtə%{ˋ%} N-1 ;
 ngòn:ngo%{ˋ%}n N-1 ; ! "fille"
 nshùm:nshu%{ˋ%}m N-1 ;
-Nshùm:Nshu%{ˋ%}m N-1 ;
+mbɑ̀b:mbɑ%{ˋ%}b N-1 ;
 nshǔm:nshu%{ˇ%}m N-1 ;
 nshun:nshun N-1 ;
 nzə̀ndɑ:nzə%{ˋ%}ndɑ N-1 ;
+ngòkələ:ngo%{ˋ%}kɛlə N-1 ;
+ngòkələ:ngo%{ˋ%}kɛd N-1 ;
 
 bàʼ:ba%{ˋ%}ʼ N-3 ; ! "maison"
 bùsi: bu%{ˋ%}si{ˊ%} N-3; !"chat"
@@ -625,6 +648,7 @@ njòŋ: njo%{ˋ%}ŋ N-3; !"chat"
 cwɛd:cwɛd N-3 ; ! "champ"
 kâtu:ka%{ˆ%}tu N-3 ; ! "crane"
 mɑ:mɑ N-3 ; ! "mère"
+mɑ:mɑ̂ N-3 ; ! "mère de ..."
 tɑ:tɑ N-3 ; ! "père"
 tubu:tub N-3 ; ! "doit"
 ncù:ncu%{ˋ%} N-3 ; ! "bouche"
@@ -654,10 +678,16 @@ caŋ:caŋ N-5 ; ! "alimentation"
 com:com N-5 ; ! "safrou, prune"
 dʉ̌ʼ:dʉ%{ˇ%}ʼ N-5 ; ! "lieu"
 fà:fa%{ˋ%}  N-5 ; ! "accident"
-fu:fu N-5 ; ! "reméde
+fu:fu N-5 ; ! "reméde"
+fùʼ:fùʼ N-5 ; ! "richesse"
+kà:kà N-5 ; ! "magie"
+kǎ:kǎ V-ALL ; ! "chosir"
+kǎ:kǎ N-5 ; ! "magie de ..."
+kâ:kâ N-1 ; ! "assiette de ..."
 kə̀lɔ̀:kə%{ˋ%}lɔ%{ˋ%} N-5 ; ! "banane"
 lɑg:lɑg N-5 ; ! "oeil"
 laʼ:laʼ N-5 ; ! "village"
+laʼ:lâʼ N-5 ; ! "village"
 sa:sa N-5 ; ! "jeu"
 saŋ:saŋ N-5 ; ! "oiseau"
 sog:sog  N-5 ; ! "piment"
@@ -680,6 +710,7 @@ tsiâŋtə̀:tsia%{ˆ%}ŋtə%{ˋ%} N-5;
 ntsiàŋtə̌:ntsia%{ˋ%}ŋtə%{ˇ%} N-5;
 
 bə̀nntʉ̀n:bə%{ˋ%}nntʉ%{ˋ%}n N-6 ; ! "gens"
+bə̀nntʉ̀n:bə%{ˋ%}nntʉ%{ˇ%}n N-6 ; ! "gens"
 nyǎŋtu:nya%{ˇ%}ŋtu  N-6 ; ! "cheveux"
 mɛn:bon N-6 ; ! "enfants"
 mɛ̀n:bənntʉ%{ˋ%}n N-6 ; ! "personnes"
@@ -707,10 +738,12 @@ ywɛnə:ywɛ%{ˊ%}nə%{ˊ%} N-X ;
 ywɛnə:ywɛ%{ˊ%}n N-X ;
 toʼ:to%{ˊ%}ʼ N-X ;
 zwiʼtə̀:zwi%{ˊ%}ʼtə%{ˋ%} N-X ;
-nzə̀:nzə%{ˋ%} N-X ;
+nzə̀:nzə%{ˋ%} N-X ; ! " route / chemin "
+nzə̌:nzə%{ˇ%} N-X ; ! " route "
+mɑ̂nzə̀:mɑ̂nzə%{ˋ%} N-X ; ! " grande route "
 njʉ:njʉ N-X ;
 
-!!!!!!!!!!!!!!!!!!!!!! TODO : ORGANISE
+!!!!!!!!!!!!!!!!!!!!!! TODO : ORGANISE - From 19th
 
     bûfàʼ:bu%{ˆ%}fa%{ˋ%}ʼ  N-5   ; ! " manière de travailler "
     kǔmfàʼ:ku%{ˇ%}mfa%{ˋ%}ʼ  N-5   ; ! " syndicat d'ouvrier "
@@ -723,6 +756,7 @@ njʉ:njʉ N-X ;
     fǎʼncùb:fa%{ˇ%}ʼncu%{ˋ%}b  N-5   ; ! " service des impôts "
     fǎʼfeʼ:fa%{ˇ%}ʼfeʼ  N-5   ; ! " service des impôts "
     ncʉʼ:ncʉʼ N-3  ; ! " règlement "
+    ncʉʼ:ncʉ̌ʼ N-3  ; ! " règlement "
     ŋwàʼnìnândɑ:ŋwa%{ˋ%}ʼni%{ˋ%}na%{ˆ%}ndɑ  N-5   ; ! " acte de mariage "
     nkʉ̌ndɑ:nkʉ%{ˇ%}ndɑ N-1  ; ! " généalogie "
     tamka:tamka  N-5   ; ! " cuvette "
@@ -887,6 +921,7 @@ njʉ:njʉ N-X ;
     bʉʼmɛ̀n:bʉʼmɛ%{ˋ%}n N-3  ; ! " devise personnel "
     yaŋka:yaŋka N-1  ; ! " brouette "
     kǎmngɔ̀:ka%{ˇ%}mngɔ%{ˋ%} N-3  ; ! " province "
+    kǎmngɔ̀:ka%{ˇ%}mngɔ%{ˇ%} N-3  ; ! " province "
     kǎmŋwàʼnì:ka%{ˇ%}mŋwa%{ˋ%}ʼni%{ˋ%}  N-5   ; ! " piece d'un document "
     lə̂diaŋ:lə%{ˆ%}diaŋ  N-5   ; ! " coussin "
     lə̂kòʼ:lə%{ˆ%}ko%{ˋ%}ʼ  N-5   ; ! " coussin "
@@ -897,12 +932,15 @@ njʉ:njʉ N-X ;
     jûdiaŋə:ju%{ˆ%}diaŋə  N-5   ; ! " objet de luxe "
     diaŋjʉ:diaŋjʉ  N-5   ; ! " scéne gastronomique "
     kǎmngɔ̀:ka%{ˇ%}mngɔ%{ˋ%} N-3  ; ! " province "
-    Tǎŋngɔ̀:Ta%{ˇ%}ŋngɔ%{ˋ%} N-3  ; ! " arrondissement "
+    tǎŋngɔ̀̀:ta%{ˇ%}ŋngɔ%{ˋ%} N-3  ; ! " arrondissement "
+    tǎŋngɔ̀̀:ta%{ˇ%}ŋngɔ%{ˇ%} N-3  ; ! " arrondissement "
     ngɔ̀:ngɔ%{ˋ%} N-3  ; ! " pays "
     ndɑ̂nkɑb:ndɑ%{ˆ%}nkɑb N-1  ; ! " banque "
     ndɑ̂mbʉm:ndɑ%{ˆ%}mbʉm N-1  ; ! " banque "
     ndɑ̂mfʉm:ndɑ%{ˆ%}mfʉm N-1  ; ! " lieu où on travaille sans justice "
     ndɑ:ndɑ N-1  ; ! " maison "
+    nsem:nsem N-5 ; ! "lieu publique"
+    nsem:nsěm N-5 ; ! "lieu publique"
     ndɑ̂nsa:ndɑ%{ˆ%}nsa N-1  ; ! " salle cabalistique "
     ndɑ̂mfaŋə:ndɑ%{ˆ%}mfaŋə N-1  ; ! " sale de pensement "
     ndɑ̂bwə:ndɑ%{ˆ%}bwə N-1  ; ! " salle d'acouchement "
@@ -961,9 +999,13 @@ njʉ:njʉ N-X ;
     Nyǎŋmiɑg:Nya%{ˇ%}ŋmiɑg N-4  ; ! " cills "
     ghə̀ʼ:ghə%{ˋ%}ʼ  N-5   ; ! " joue "
     ngeʼ:ngeʼ N-4  ; ! " joues "
+    ngəʼ:ngəʼ N-3  ; ! " soufrance "
     ngǔblɑg:ngu%{ˇ%}blɑg  N-5   ; ! " paupiers "
     kə̀kǔbncù:kə%{ˋ%}ku%{ˇ%}bncu%{ˋ%} N-3  ; ! " lévre "
-    ntagə:ntagə N-4  ; ! " gencives "
+    ntagə:ntagə N-4  ; ! " gencives / conseille"
+    tagə:tag V-Ə  ; ! " gencives / conseille"
+    tagə:tâg V-Ə  ; ! " gencives / conseille"
+    shʉ̌:shʉ%{ˇ%} V-ALL ; ! "regarder"
     nyǎŋncù:nya%{ˇ%}ŋncu%{ˋ%} N-3  ; ! " barbe "
     nkə̀mbə̀ʼ:nkə%{ˋ%}mbə%{ˋ%}ʼ N-4  ; ! " épaule "
     ndâŋbu:nda%{ˆ%}ŋbu N-3  ; ! " avant bras "
@@ -1018,7 +1060,8 @@ njʉ:njʉ N-X ;
     ncɔ:ncɔ N-1  ; ! " bandit "
     mbɑ̂bunə:mbɑ%{ˆ%}bunə N-1  ; ! " fou ou folle"
     ngab:ngab N-1  ; ! " poule "
-    diaŋ:diaŋ  N-5   ; ! " chaisse "
+    diaŋ:diaŋ  N-5   ; ! " podium / piste "
+    diàŋ:diàŋ  N-5   ; ! " chaisse "
     bà:ba%{ˋ%}  N-5   ; ! " pion "
     njʉ:njʉ  N-5   ; ! " jour "
     tʉnə:tʉnə  N-5   ; ! " ferre "
@@ -1063,7 +1106,7 @@ njʉ:njʉ N-X ;
     tàmtə̀:ta%{ˋ%}mtə%{ˋ%}  N-5   ; ! " union "
     twəʼ:twəʼ  N-5   ; ! " nuit "
     caŋ:caŋ  N-5   ; ! " nurriture "
-    mbwə:mbwə N-1  ; ! " chien "
+    mbʉ:mbʉ N-1  ; ! " chien "
     mɑndùm:mɑndu%{ˋ%}m N-1  ; ! " homme "
     ngòn:ngo%{ˋ%}n N-1  ; ! " fille "
     ŋwə:ŋwə N-1  ; ! " month "
@@ -1112,6 +1155,8 @@ njʉ:njʉ N-X ;
     nkǒʼŋwàʼnǐ% ngàtswìtə̀:nko%{ˇ%}ʼŋwàʼni%{ˇ%}% ngàtswìtə̀  N-5   ; ! " bureau du maitre "
     dìbɑ̀% ndɑ̂ŋwàʼnì:dìbɑ̀% ndɑ%{ˆ%}ŋwàʼnì N-1  ; ! " université "
     buʼkǐ% cɔfàʼ:buʼki%{ˇ%}% cɔfàʼ  N-5   ; ! " cahier de texte "
+    kì:ki%{ˋ%}  N-5 ; ! " écriture "
+    ntsì:ntsi%{ˋ%} N-5 ; ! " panier "
     fə̌% ndɛ̂n% fu:fə%{ˇ%}% ndɛ%{ˆ%}n% fu  N-5   ; ! " prescription mèdicale "
     fə̌% cɔ̀% mɛ̀n:fə%{ˇ%}% cɔ̀% mɛ̀n  N-5   ; ! " fiche de reseignement  "
     fə̌% juntə̀:fə%{ˇ%}% juntə̀  N-5   ; ! " facture d'achat "
@@ -1212,6 +1257,11 @@ njʉ:njʉ N-X ;
     kàʼtə̀:ka%{ˋ%}ʼtə%{ˋ%} N-X ;   ! " orgueil "
     kotə̀wʉd:kotə%{ˋ%}wʉd N-X ;   ! " vantardise "
     mbwɔ̀:mbwɔ%{ˋ%} ADJ ;   ! " beauté "
+    tɛ̀dkʉlə:tɛ̀dkʉlə ADJ ; ! "education secondaire"
+    kàmkʉlə:kàmkʉlə ADJ ; ! "education primaire"
+    nsàkʉlə:nsàkʉlə ADJ ; ! "education universitaire"
+    sɑnə:sɑnə ADJ ;   ! " pluvieuse (saison) "
+    sɑnə:sɑn ADJ ;   ! " pluvieuse (saison) "
     mfʉm:mfʉm N-X ;   ! " hypocrisie "
     nətàʼ:nəta%{ˋ%}ʼ N-X ;   ! " zone pubienne "
     kə̀sɔ:kə%{ˋ%}sɔ N-X ;   ! " édenté "
@@ -1291,6 +1341,12 @@ njʉ:njʉ N-X ;
     ndɑ̂ncà% ngɔ̌ngɔ̀:ndɑ%{ˆ%}nca%{ˋ%}% ngɔ%{ˇ%}ngɔ%{ˋ%} N-X ;   ! " cour internationale de justice "
     swadiaŋə:swadiaŋə N-X ;   ! " queue de cheval "
     diaŋ% ntsiʼi:diaŋ% ntsiʼi N-X ;   ! " festival culturel "
+    ntsiʼi:ntsiʼi N-4 ;   ! " culture "
+    ntsiʼi:ntsiʼ N-4 ;   ! " culture "
+    ntsiʼi:ntsîʼ N-4 ;   ! " culture "
+    ntàmtə̀:ntàmtə̀ N-3 ; ! "union"
+    tàmtə̌:tàmtə̌ V-TƏ ; ! "unir"
+    ntâmtə:ntâmtə V-TƏ ; ! "unir"
     diaŋntɑnə:diaŋntɑnə N-X ;   ! " foir "
     ngâbnjʉ% diaŋtsiʼi:nga%{ˆ%}bnjʉ% diaŋtsiʼi N-X ;   ! " semaine culturel "
     diaŋnkʉ̀n:diaŋnkʉ%{ˋ%}n N-X ;   ! " une émmision de radio/télévision "
@@ -1406,6 +1462,7 @@ njʉ:njʉ N-X ;
     sɑ̌mju:sɑ%{ˇ%}mju N-X ;   ! " rien "
     fə̌fèd:fə%{ˇ%}fe%{ˋ%}d N-X ; ! " photocopie "
     tâmkù:ta%{ˆ%}mku%{ˋ%} N-X ;   ! " football "
+    tâmcɛd:ta%{ˆ%}mcɛd N-X ;   ! " basketball "
     sa% tamkù:sa% tamku%{ˋ%} N-X ;   ! " match de football "
     tâmbu:ta%{ˆ%}mbu N-X ;   ! " handball "
     sa% tâmbu:sa% ta%{ˆ%}mbu N-X ;   ! " match de handball "
@@ -1437,6 +1494,11 @@ mbə:mbə CS ; !"que"
 mbɑ̀:mbɑ%{ˋ%} CC ; !"et"
 bɑ̀:bɑ%{ˋ%} DET ; !"les"
 bə:bə V-ALL ; !"est"
+bwə:bwə V-ALL ; !"accoucher"
+bwə:bwə̂ V-ALL ; !"accoucher"
+baʼa:baʼa V-ALL ; !"traisser / tisser"
+baʼa:baʼ V-ALL ; !"traisser / tisser"
+baʼa:bâʼ V-ALL ; !"traisser / tisser"
 tɔ̀:tɔ%{ˋ%} PREP ; !"dans"
 môm:mo%{ˆ%}m PREP ; !"dans"
 nə̀tɛ̀d:nə%{ˋ%}tɛ%{ˋ%}d PREP ; !"dans"
@@ -1504,7 +1566,10 @@ kwìʼtə̀:kwi%{ˋ%}ʼtə%{ˋ%} N-X ; !"hausse"
 bàg:ba%{ˋ%}g N-3 ; !"secteur"
 bàg:ba%{ˋ%}g N-3 ; !"part"
 yɑmə:yɑmə ADV ; !"beaucoup"
-sɛnnî:sɛnni%{ˆ%} ADV ; !"% aujourd'hui"
+sɛnnî:sɛnni%{ˆ%} ADV ; !"aujourd'hui"
+nkə̂bnjʉ:nkə%{ˆ%}bnjʉ ADV ; ! "matin"
+mfə̌dnjʉ:mfə%{ˇ%}dnjʉ ADV ; ! "soir"
+mbwogcʉ:mbwogcʉ ADV ; ! "après-midi"
 tùn:tu%{ˋ%}n N-X ; !"base"
 tǔn:tu%{ˇ%}n N-X ; !"origine"
 bɑ̌m% nkɑb:bɑ%{ˇ%}m% nkɑb N-1 ; !"bourse"
@@ -1518,6 +1583,7 @@ miâg% tʉntə̀:mia%{ˆ%}g% tʉntə%{ˋ%} N-X ; !"nombre"
 tsinə:tsinə N-X ; !"point"
 ndʉb:ndʉb ADJ ; !"grand"
 leʼ:leʼ N-5 ; !"jour"
+leʼ:lêʼ N-5 ; !"jour"
 dʉʼ:dʉʼ N-5 ; !"place"
 bənntʉ̀n:bənntʉ%{ˋ%}n N-6 ; !"personnes"
 mɛ̀nntʉ̀n:mɛ̀nntʉ%{ˋ%}n N-1 ; !"personne"
@@ -1528,6 +1594,7 @@ sìb:si%{ˋ%}b N-X ; !"baisse"
 sìbə:si%{ˋ%}bə V-ALL ; !"baisser"
 ntoʼtə̀:ntoʼtə%{ˋ%} N-4 ; !"début"
 toʼtə:toʼtə V-ALL ; !"débuter"
+toʼtə:toʼtə̀ V-ALL ; !"débuter"
 ngûʼnjʉ:ngu%{ˆ%}ʼnjʉ N-1 ; !"an"
 bo:bo PRON-PERS ; !"ils"
 bo:bo PRON-PERS ; !"elles"
@@ -1586,13 +1653,14 @@ nsônɑ̀:nso%{ˆ%}nɑ%{ˋ%} N-X ; !"mai"
 ŋwâgnkun:ŋwa%{ˆ%}gnkun N-X ; !"juin"
 ntôngə̀fələ:nto%{ˆ%}ngə%{ˋ%}fələ N-X ; !"juillet"
 ncôʼcu:nco%{ˆ%}ʼcu N-X ; !"août"
-njâgcu:nja%{ˆ%}gʼcu N-X ; !"septembre"
+njâgcu:nja%{ˆ%}gcu N-X ; !"septembre"
 bə̂ʼnswə:bə%{ˆ%}ʼnswə N-X ; !"octobre"
-nsônɑ̂ndɔ:nso%{ˆ%}nɑ%{ˆ%}ndɔ N-X ; !"novembre"
+nsônɑ̌ndɔ:nso%{ˆ%}nɑ%{ˇ%}ndɔ N-X ; !"novembre"
 ntòngǒdməsaŋə:nto%{ˋ%}ngo%{ˇ%}dməsaŋə N-X ; !"décembre"
 nənənə:nənənə ADJ ; !"vrai"
 tǔnndɑ:tu%{ˇ%}nndɑ N-1 ; !"famille"
 yilɑ̂:yilɑ%{ˆ%} PRON-REL ; !"lequel"
+yîd:yi%{ˆ%}d PRON-REL ; !"lequel"
 tɑ̂:tɑ%{ˆ%} N-3 ; !"père% de"
 tɑ̂% fàʼ:tɑ%{ˆ%}% fa%{ˋ%}ʼ N-3 ; !"directeur"
 ju:ju N-1 ; !"chose"
@@ -1630,12 +1698,16 @@ miɑ̀gtə̀:miɑ%{ˋ%}gtə%{ˋ%} N-3 ; !"fin"
 ntag:ntag N-1 ; !"conseil"
 ntsə:ntsə N-4 ; !"eaux"
 lag:lag N-5 ; !"œil"
+mə̀kalə:mə%{ˋ%}kalə ADJ ; ! "locoderm"
+!mə̀dʉ̂mbɑ̀:mə%{ˋ%}dʉ%{ˆ%}mbɑ%{ˋ%} NP-TOP ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ProperNouns
 
 Kamərun:Kamərun NP-TOP ; ! "Cameroon"
+Potugal:Potugal NP-TOP ; ! "Portugal"
+Nigeria:Nigeria  NP-TOP ;
 Yɑùndè:Yɑu%{ˋ%}nde%{ˋ%} NP-TOP ; ! ""
 Ngadou:Ngadou  NP-ANT-M ; ! "Ngadou"
 Nsi:Nsi  NP-ANT-M ; ! "Dieu"
@@ -1661,7 +1733,8 @@ nko:nko ADJ ; ! "froid"
 mətòʼ:məto%{ˋ%}ʼ ADJ ; ! "petit"
 mbwɔ̀ʼ:mbwɔ%{ˋ%}ʼ ADJ ;
 tsə̀môʼ:tsə%{ˋ%}mo%{ˆ%}ʼ ADJ ;
-tsʉ̀ʼ:tsʉ%{ˋ%}ʼ ADJ ; ! ***
+tsə̀môʼ:tsə%{ˋ%}mo%{ˆ%}ʼo ADJ ;
+tsʉ̀ʼ:tsʉ%{ˋ%}ʼ ADJ ; !
 tsəʼ:tsəʼ ADJ ;
 ndʉb:ndʉb ADJ ; ! "grand"
 dʉtə̂:dʉtə ADJ ; ! "sucré"
@@ -1692,6 +1765,8 @@ nə̀shù:nə%{ˋ%}shu%{ˋ%} ADV ; ! "beaucoup, trop, très" !@!
 yɑmə:yɑmə ADV ;
 sagə:sagə ADV ;
 sag:sag ADV ;
+nkɑ:nkɑ ADV ;
+kɑ:kɑ ADV ;
 bwǒŋ:bwo%{ˇ%}ŋ ADV ;
 yɑ̌:yɑ%{ˇ%} ADV ;
 yɑ̂:yɑ%{ˆ%} ADV ;
@@ -1708,7 +1783,7 @@ ndǎmnjʉ:nda%{ˇ%}mnjʉ ADV ;
 mbɑ̀:mbɑ%{ˋ%} ADV ; ! ""
 tswəʼ:tswəʼ ADV ;
 
-zə̌nnî:zə%{ˇ%}nni ADV ; ! "ici"
+zə̌nnî:zə%{ˇ%}nnî ADV ; ! "ici"
 zənnî:zənni ADV ;
 zə̌nnɑ:zə%{ˇ%}nnɑ ADV ;
 zənnɑ:zənnɑ ADV ;
@@ -1760,6 +1835,8 @@ kwimtə:nkwimtə V-ALL ;
 
 !!!!!! Second group
 
+mǐ:mi%{ˇ%} V-ALL ; ! "terminé"
+mǐ:mi%{ˋ%} V-ALL ; ! "terminé"
 ghʉ̌:ghʉ%{ˋ%} V-ALL ; ! "faire"
 yɑ̂b:yɑ%{ˆ%}b V-ALL ;
 sǒ:so%{ˇ%} V-ALL ;
@@ -1771,12 +1848,19 @@ tôg:to%{ˆ%}g V-ALL ;
 Tôg:To%{ˆ%}g V-ALL ;
 lǒ:lo%{ˇ%} V-ALL ;
 lô:lo%{ˆ%} V-ALL ;
-nkwâ:nkwa%{ˆ%} V-ALL ;
-nkwa:nkwa V-ALL ;
+kwàtə̌:nkwâ V-ALL ;
+kwàtə̌:kwà V-TƏ ;
+kwàtə̌:kwǎ V-TƏ ;
+kwàtə̌:kwàtə̀ V-TƏ ;
+kwàtə̌:kwàtə%{ˇ%} V-TƏ; ! " "
+ywìmtə̌:ywìmtə%{ˇ%} V-TƏ; ! " aider "
+ywìmtə̌:njwîm V-TƏ; ! " aider "
 ta:ta V-ALL ;
 ghʉ̌:ghʉ V-ALL ;
 kùʼu:ku%{ˋ%}ʼu V-ALL ;
 kùʼu:ku%{ˋ%}ʼ V-ALL ;
+kùʼu:nku%{ˆ%}ʼ V-ALL ;
+kùʼu:nku%{ˆ%}ʼu V-ALL ;
 kǔʼ:ku%{ˇ%}ʼ V-ALL ;
 fàʼa:fa%{ˋ%}ʼa V-ALL ;
 fàʼa:fa%{ˋ%}ʼ V-ALL ;
@@ -1787,10 +1871,12 @@ bwɔ̌:bwɔ%{ˇ%} V-ALL ;
 làbə:la%{ˋ%}b V-ALL ; ! "frapper"
 zwǐ:zwi%{ˇ%} V-ALL ; ! "rire"
 zwǐ:zwi%{ˆ%} V-ALL ; ! "rire past"
-loʼo:loʼo V-ALL ; ! "prendre"
-loʼo:loʼ V-ALL ; ! "prendre"
-loʼo:ndoʼo V-ALL ; ! "prendre nasalised"
-loʼo:ndoʼ V-ALL ; ! "prendre nasalised"
+lòʼo:lòʼo V-ALL ; ! "prendre"
+lòʼo:loʼ V-ALL ; ! "prendre"
+lòʼo:lòʼ V-ALL ; ! "prendre"
+lòʼo:lǒʼ V-ALL ; ! "prendre"
+lòʼo:ndoʼo V-ALL ; ! "prendre nasalised"
+lòʼo:ndoʼ V-ALL ; ! "prendre nasalised"
 toʼo:to%{ˋ%}ʼo V-ALL ;
 toʼtə:to%{ˋ%}ʼtə V-ALL ;
 lǒʼ:lo%{ˇ%}ʼ V-ALL ;
@@ -1801,6 +1887,8 @@ tǒʼ:to%{ˇ%}ʼ V-ALL ;
 tòʼ:to%{ˋ%}ʼ V-ALL ;
 zǐn:zi%{ˇ%}n V-ALL ;
 kǐ:ki%{ˇ%} V-ALL ;
+kìtə̌:ki%{ˋ%}tə%{ˇ%} V-TƏ ;
+kìtə̌:nki%{ˋ%}tə V-TƏ ;
 nkǐ:nki%{ˆ%} V-ALL ;
 cʉɑ̌:cʉɑ%{ˇ%} V-ALL ;
 cʉɑ̌:cʉɑ%{ˆ%} V-ALL ;
@@ -1811,10 +1899,12 @@ kùʼnǐ:ku%{ˋ%}ʼni%{ˇ%} V-ALL;
 kùʼnǐ:ku%{ˋ%}ʼni%{ˋ%} V-ALL;
 kùʼnǐ:nku%{ˆ%}ʼni%{ˇ%} V-ALL;
 nkâg:nk%{ˆ%}ag V-ALL ;
+tswìtə̌:tswìtə%{ˇ%} V-ALL ;
+tswìtə̌:tswìtə%{ˋ%} V-ALL ;
 
 ba:ba V-ALL ; ! "récolter"
-bagtə% fafa:bagtə% fafa V-ALL ; ! "détruire totalement" !FIXME
-bàgtə̌% màd:ba%{ˋ%}agtə%{ˇ%}% ma%{ˋ%}d V-ALL ; ! "caractériser" !FIXME
+!bagtə% fafa:bagtə% fafa V-ALL ; ! "détruire totalement" !FIXME - Thinking
+bàgtə̌% màd:ba%{ˋ%}agtə%{ˇ%}% ma%{ˋ%}d V-ALL ; ! "caractériser" !FIXME - CAN'T be dissociated
 bǎm% nǔm:ba%{ˇ%}%m% nu%{ˇ%}%m V-ALL ; ! "ressusciter"
 bǎʼ% nkab:ba%{ˇ%}%ʼ% nkab V-ALL ; ! "rembourser"
 be:be V-ALL ; ! "payer"
@@ -1857,6 +1947,7 @@ keʼe:keʼe V-ALL ; ! "éclairer"
 kǐ% sə̂və̀:ki%{ˇ%}% sə%{ˆ%}və%{ˋ%} V-ALL ; ! "dessiner"
 kǐ% ŋwàʼnì:ki%{ˇ%}% ŋwa%{ˋ%}ʼnì V-ALL ; ! "documenter"
 koʼo:koʼo V-ALL ; ! "monter"
+koʼo:koʼ V-ALL ; ! "monter"
 kuàʼa:kua%{ˋ%}ʼa V-ALL ; ! "pluerer"
 kuǎ:kua%{ˇ%} V-ALL ; ! "gratter"
 kud% tǔn:kud% tu%{ˇ%}n V-ALL ; ! "conclure"
@@ -1888,11 +1979,13 @@ màʼa:ma%{ˋ%}ʼa V-ALL ; ! "lancer"
 mâʼ% ncò:ma%{ˆ%}ʼ% nco%{ˋ%} V-ALL ; ! "vaincre"
 mǎʼ% ca:ma%{ˆ%}ʼ% ca V-ALL ; ! "emprisonner"
 miàgtə̌:mia%{ˋ%}gtə%{ˋ%} V-ALL ; ! "achever"
+miàgtə̌:mia%{ˆ%}gtə V-ALL ; ! "achever"
 miɑg% nə̀̀:miɑg% nə̀%{ˋ%} V-ALL ; ! "émerveiller"
 mǒ:mo%{ˇ%} V-ALL ; ! "veiller"
 məm% ncù:məm% ncu%{ˋ%} V-ALL ; ! "taire"
 na% nù:na% nu%{ˋ%} V-ALL ; ! "planifier"
-na:na V-ALL ; ! "préparer"
+na:na V-ALL ; ! "préparer / analyser"
+na:nâ V-ALL ; ! "préparer"
 naʼ% ngube:naʼ% ngube V-ALL ; ! "hésiter"
 ndǎ% tû:nda%{ˋ%}% tu%{ˆ%} V-ALL ; ! "punir"
 ndʉ̀mtə̌:ndʉ%{ˋ%}mtə%{ˇ%} V-ALL ; ! "sucrer"
@@ -1904,6 +1997,8 @@ nyɑ̀m% nə̀nà:nyɑ%{ˋ%}m% nə%{ˋ%}na%{ˋ%} V-ALL ; ! "paître"
 nɑ̀btə̌:nɑ%{ˋ%}btə%{ˇ%} V-ALL ; ! "produire"
 càʼtə̌:ca%{ˋ%}ʼtə̌%{ˇ%} V-ALL ; ! "saluer"
 dʉʼʉ:dʉʼʉ V-ALL ; ! "cultiver"
+dʉʼʉ:dʉʼ V-ALL ; ! "cultiver"
+dʉʼʉ:dʉ̂ʼ V-ALL ; ! "cultiver"
 kwe:kwe V-ALL ; ! "acquérir"
 laʼa:laʼa V-ALL ; ! "caler"
 mǎʼ% miɑg:ma%{ˇ%}ʼ% miɑg V-ALL ; ! "jeter un oeil"
@@ -1917,8 +2012,12 @@ sôŋ:so%{ˆ%}ŋ V-ALL ; ! "conduire"
 sǒ% nkətoʼo:so%{ˇ%}% nkətoʼo V-ALL ; ! "chausser"
 sɔ̌% nkɑb:sɔ%{ˇ%}% nkɑb V-ALL ; ! "retirer de l’argent"
 sɔ̌:sɔ%{ˇ%} V-ALL ; ! "retirer"
+nsɔ̂:nsɔ%{ˆ%} V-ALL ; ! "retirer"
 tamtə̌:tamtə%{ˇ%} V-ALL ; ! "unifier"
 taʼa:taʼa V-ALL ; ! "chasser"
+taʼa:taʼ V-ALL ; ! "chasser"
+taʼa:ntaʼa V-ALL ; ! "chasser"
+taʼa:ntaʼ V-ALL ; ! "chasser"
 tàmtə̌:ta%{ˋ%}mtə%{ˇ%} V-ALL ; ! "mélanger"
 tâ% ncù:ta%{ˆ%}% ncu%{ˋ%} V-ALL ; ! "débattre"
 to:to V-ALL ; ! "percer"
@@ -1935,6 +2034,7 @@ tɔ% kɑb:tɔ% kɑb V-ALL ; ! "téléphoner"
 tɔ% ndɔ:tɔ% ndɔ V-ALL ; ! "jouer de la trompette"
 tɔ:tɔ V-ALL ; ! "crier, hurler"
 tɔ̌:tɔ%{ˇ%} V-ALL ; ! "commander"
+tɔ̌:tɔ%{ˆ%} V-ALL ; ! "commander"
 tə% bu:tə% bu V-ALL ; ! "avertir"
 tə% mfìʼ:tə% mfi%{ˋ%}ʼ V-ALL ; ! "timbrer"
 tə% ndʉ̀:tə% ndʉ%{ˋ%} V-ALL ; ! "limiter"
@@ -1966,6 +2066,10 @@ ziʼtə̀:ziʼtə%{ˋ%} V-ALL ;
 kə̌d% lɛ̀d:kə%{ˇ%}d% lɛ%{ˋ%}d V-Ə ; ! "surcharger"
 
 diɑgə:diɑg V-Ə ; ! "chercher"
+diɑgə:ndiɑg V-Ə ; ! "chercher"
+diɑgə:ndiɑ̂g V-Ə ; ! "chercher"
+ghònə:ghòn V-Ə ; ! "souffrir de maladie"
+ghònə:ghǒn V-Ə ; ! "souffrir de maladie"
 lɛnə:lɛn V-Ə ; ! "savoir"
 siaŋə:siaŋ V-Ə ;
 yagə:yagə V-Ə ;
@@ -1979,6 +2083,9 @@ cobə:cob V-Ə ; ! "dire"
 côb:co%{ˆ%}b V-Ə ; ! "dire ..."
 yɑbə:yɑb V-Ə ;
 yənə:yən V-Ə ; ! "regarder, voir"
+yənə:yə̂n V-Ə ; ! "regarder, voir"
+yənə:njən V-Ə ; ! "regarder, voir"
+yənə:njə̂n V-Ə ; ! "regarder, voir"
 lonə:lon V-Ə ;
 yənə:yən V-Ə ;
 bɛnə:bɛn V-Ə ; ! "rentrer"
@@ -1992,6 +2099,8 @@ tumə:tum V-Ə ;
 togə:tog V-Ə ;
 sə̀ʼə:sə%{ˋ%}ʼ V-Ə ;
 sə̂ʼ:sə%{ˆ%}ʼ V-Ə ;
+ləʼə:ləʼ V-Ə ;
+ləʼə:lə%{ˆ%}ʼ V-Ə ;
 yogə:yog V-Ə ;
 togə:tog V-Ə ;
 tamə:tam V-Ə ; ! ""
@@ -2000,6 +2109,10 @@ zìnə:zin V-Ə ; ! "marcher"
 cʉbə:cʉb V-Ə ; ! "tenir"
 bolə:bol V-Ə ;
 mbolə:mbol V-Ə ;
+bilə:bil V-Ə ;
+bilə:bid V-Ə ;
+bilə:mbil V-Ə ;
+bilə:mbid V-Ə ;
 siaŋə:siaŋ V-Ə ;
 soŋə:soŋ V-Ə ;
 kàgə:ka%{ˋ%}g V-Ə ;
@@ -2027,6 +2140,7 @@ fàgə:fa%{ˋ%}g V-Ə ; ! "déchirer, récolter"
 finə:fin V-Ə ; ! "sucer"
 fitə:fit V-Ə ; ! "reposer"
 fonə:fon V-Ə ; ! "trouver"
+fonə:fǒn V-Ə ; ! "trouver"
 fotə:fot V-Ə ; ! "ressembler"
 fɛlə:fɛl V-Ə ; ! "consommer"
 fʉlə:fʉl V-Ə ; ! "voler"
@@ -2037,10 +2151,15 @@ ghomə:ghom V-Ə ; ! "arrester"
 ghomə:ghom V-Ə ; ! "attraper"
 ghubtə% yɑmə:ghubtə% yɑm V-Ə ; ! "durer longtemps"
 ghubtə:ghubt V-Ə ; ! "durer"
+shʉbə:shʉb V-Ə ; ! "arreter"
+shʉbə:nshʉb V-Ə ; ! "arreter"
+shʉbə:shʉ̂b V-ALL ; ! "arreter"
+shʉbə:nshʉ̂b V-ALL ; ! "arreter"
 kabtə:kabt V-Ə ; ! "couvrir"
 katə:kat V-Ə ; ! "promener"
 kaŋə:kaŋ V-Ə ; ! "tourner"
 kemə:kem V-Ə ; ! "nourrir"
+kemə:nkem V-Ə ; ! "nourrir"
 kiɑ̀gə:kiɑ%{ˋ%}g V-Ə ; ! "délier"
 kogə:kog V-Ə ; ! "diminuer, ronfler"
 kòmə:ko%{ˋ%}m V-Ə ; ! "ramper"
@@ -2075,6 +2194,7 @@ swatə% ncobə:swatə% ncob V-Ə ; ! "converser"
 swɛnə:swɛn V-Ə ; ! "vendre"
 tam% ntsə:tam% nts V-Ə ; ! "mouiller"
 taŋə:taŋ V-Ə ; ! "attacher"
+taŋə:tâŋ V-Ə ; ! "attacher"
 tàŋə:ta%{ˋ%}ŋ V-Ə ; ! "attacher"
 tonə:ton V-Ə ; ! "incendier, rôtir"
 toŋə:toŋ V-Ə ; ! "récolter"
@@ -2088,6 +2208,7 @@ vʉlə:vʉl V-Ə ; ! "fouetter"
 wàlə:wa%{ˋ%}l V-Ə ; ! "récolter"
 yùbə:yu%{ˋ%}b V-Ə ; ! "râper"
 ywìlə:ywi%{ˋ%}l V-Ə ; ! "planter"
+ywìlə:ywi%{ˆ%}d V-Ə ; ! "planter"
 ywɛlə:ywɛl V-Ə ; ! "saturer"
 yɑ̀gə:yɑ%{ˋ%}g V-Ə ; ! "démanger"
 yɔ̀gə:yɔ%{ˋ%}g V-Ə ; ! "survivre"
@@ -2106,16 +2227,21 @@ bʉ̀ntə̌:bʉ%{ˋ%}n V-TƏ ;
 bʉ̂ntə:bʉ%{ˆ%}n V-TƏ ; ! "répondre"
 bɛ̂dtə:bɛ%{ˆ%}d V-TƏ ;
 cobtə:cob V-TƏ ;
+cobtə:cobtə̀ V-TƏ ;
 tadtə:tad V-TƏ ; ! "mentir"
 tʉntə:tʉn V-TƏ ; ! "compter"
 lɔtə:lɔ V-TƏ ; ! "regarder"
+lɔtə:lɔtə̀ V-TƏ ; ! "regarder"
 miɑ̀gtə̌:miɑ%{ˋ%}g V-TƏ ; ! "finir"
 miɑ̂gtə:miɑ%{ˆ%}g V-TƏ ;
 bɛdtə:bɛd V-TƏ ;
+bɛdtə:bɛdtə̀ V-TƏ ;
+bɛdtə:bɛdtə̂ V-TƏ ;
 futə:fut V-TƏ ;
 zwiʼtə:zwiʼ V-TƏ ;
 kwàtə̌:kwa%{ˋ%}tə V-TƏ ;
-kwàtə:nkwat V-TƏ ;
+kwàtə:nkwa V-TƏ ;
+kwàtə:nkwâ V-TƏ ;
 bàgtə̌:bàgtə%{ˇ%} V-TƏ ; ! "décrier, décrire, définir"
 bàtə̌% dʉʼ:bàtə̌% dʉʼ V-TƏ; ! "déplacer"
 bàtə̌:bàtə̌ V-TƏ ; ! "changer, modifier"
@@ -2135,6 +2261,7 @@ nàbtə̌:na%{ˋ%}btə V-TƏ;
 
 
 zənù:zənu%{ˋ%}  ADJ ; ! " sage "
+njàŋ:nja%{ˋ%}ŋ  ADJ ; ! " importance / ou rélatif à la grandeur "
 ghuʼu:ghuʼu   ADJ ; ! " gros "
 njum:njum   ADJ ; ! " sec "
 mə̀ba:mə%{ˋ%}ba   ADJ ; ! " rouge "
@@ -2196,15 +2323,21 @@ zǐkob:zi%{ˇ%}kob   ADJ ; ! " élastique% de% dedans% de "
 nkʉ̌nyàm:nkʉ%{ˇ%}nya%{ˋ%}m   ADJ ; ! " sans% confiance "
 nə̀bedni:nə%{ˋ%}bedni   ADV ; ! " douceur "
 mbɛ̂n:mbɛ̂n CS ; !"qui_a"
-shun:shun N-6 ; !"amis"
-shun:shun N-6 ; !"amies"
-nshun:nshun N-1 ; !"amie"
+shun:shun N-6 ; !"ami(e)s"
+nshun:nshun N-1 ; !"ami/e"
+nkab:nkab N-1 ; !"poule"
 mfɑ:mfɑ V-ALL ; !"donner"
 tû:tû N-1 ; !"tête"
+bwogə:bwogə V-Ə ; !"avoir peur"
+bwogə:bwôg V-Ə ; !"avoir peur"
+bwogə:mbwôg V-Ə ; !"avoir peur"
 mbwogə:mbwogə N-1 ; !"feu"
-mbwogə:mbwogə N-1 ; !"feux"
+mbwogə:mbwog N-1 ; !"feu"
 nǔmmbə:nǔmmbə CS ; !"par_ce_que"
+nǔmmbə:nǔmmbə̂ CS ; !"par_ce_que"
 nzə̌nzə̀:nzə̌nzə̀ ADJ ; !"plusiers"
+
+
 
 
 kə̂ʼ%<neg%>:kə%{ˆ%}ʼ # ; !"ne"
@@ -2216,6 +2349,7 @@ mbə̌:mbə%{ˇ%} CS ; !"que"
 bə̀:bə%{ˋ%} PRON-PERS ; !"nous"
 nkɔ̂:nkɔ%{ˆ%} V-ALL ; !"aimer"
 kwàʼ:kwa%{ˋ%}ʼ ADV ; !"même"
+njâ:nja%{ˆ%} ADV ; !"souvent"
 tɑ% nkʉd:tɑ% nkʉd N-X ; !"proverbe"
 tɑ% nkʉd:tɑ% nkʉd V-ALL ; !"dire% un% proverbe"
 bǎg:ba%{ˇ%}g PRON-PERS ; !"nous"
@@ -2227,6 +2361,243 @@ yənə:yənə V-Ə ; !"voir"
 yən:yən V-ALL ; !"voir"
 njənə:njənə V-Ə ; !"voir"
 njən:njən V-ALL ; !"voir"
+yɑ̂m:yɑ̂m pos&N-1 ; !"mien"
+sə̂n:sə̂n DET-DEM ; !"ceci"
+Satan:Satan N-X ; !"Satan"
+wa:wa N-X ; !"rayon"
+tsiàŋtə̌:tsiàŋtə̌ V-TƏ ; !"se_rejouir"
+nkuɑ̀:nkuɑ̀ NUM ; !"Quatre"
+mfâʼ:mfâʼ N-4 ; !"travaux"
+kùʼnì:kùʼnì N-X ; !"honneur"
+Afika:Afika N-X ; !"Afrique"
+zîd:zîd PRON-REL ; !"quel"
+yǒg:yǒg N-5 ; !"vie"
+bɑn:bɑn N-5 ; ! "couscous"
+bɑn:bɑ̂n N-5 ; ! "couscous"
+ngɑmə:ngɑmə N-5 ;
+ngɑmə:ngɑm N-5 ;
+ngɑmə:ngɑ̂m N-5 ;
+kwêntsə:kwêntsə N-5 ; ! "baptème"
+tǔnndɑ:tǔnndɑ N-5 ; !"famille"
+nə̀nɑ:nə̀%{ˋ%}nɑ N-5 ; ! " herbe "
+tʉsɔ:tʉsɔ ADJ ; !"centre"
+tsiàŋtə̀:tsiàŋtə̀ N-X ; !"joie"
+swɛ̌n:swɛ̌n V-Ə ; !"vendre"
+swɛ̀nə:swɛ̀nə V-Ə ; !"vendre"
+swɛ̀nə:nswɛ̂n V-Ə ; !"vendre"
+sâ:sâ N-5 ; !"dance"
+ntûmnyàm:ntûmnyàm N-X ; !"est"
+mbînyàm:mbînyàm N-X ; !"ouest"
+ntɛn:ntɛn N-X ; !"sud"
+tʉ:tʉ N-X ; !"nord"
+ŋwàʼnì:ŋwàʼnì N-3 ; !"école"
+ngàfàʼ:ngàfàʼ N-3 ; ! "employee"
+ghǎfàʼ:ghǎfàʼ N-6 ; ! "employees"
+nɑ̀btə̌:nɑ̀btə̌ V-TƏ ; !"fabriquer"
+nɑ̂btə̌:nɑ̂b V-Ə ; !"fabriquer"
+mə̀dʉ̂mbɑ̀:mə̀dʉ̂mbɑ̀ NP-TOP ; !"Medumba"
+mbû:mbû N-X ; !"mains"
+Ghǎ:Ghǎ N-X ; !"ceux"
+fitə̀:fitə̀ N-5 ; !"repos"
+dumə:dumə ADJ ; !"chaux"
+dùm:dùm ADJ ; !"chaux"
+Yɑùndɛ̀:Yɑùndɛ̀ N-X ; !"Yaounde"
+wəlô:wəlô N-X ; !"quiconque"
+tǔnndɑ̂:tǔnndɑ̂ N-X ; !"famille_de"
+tʉsɔ̀:tʉsɔ̀ ADJ ; !"centre"
+tʉsɔ̌:tʉsɔ̌ ADJ ; !"centre"
+sɑ̂mmɛ̀n:sɑ̂mmɛ̀n PRON-REL ; !"personne"
+tumə:tumə V-Ə ; !"sortir"
+tum:tum V-ALL ; !"sortir"
+ntum:ntum V-ALL ; !"sortir"
+ntam:ntam V-ALL ; !"coudre"
+ntam:ntam V-ALL ; !"tirer"
+tamə:tamə V-Ə ; !"tirer"
+nkòʼ:nkòʼ N-X ; !"chaise"
+junə:junə V-Ə ; !"acheter"
+njunə:njunə V-Ə ; !"acheter"
+njunə:njun V-Ə ; !"acheter"
+jun:jun V-Ə ; !"acheter"
+njəm:njəm N-1 ; !"rêve"
+njə̌m:njə̌m N-1 ; !"rêve"
+ŋwàʼnǐ:ŋwàʼnǐ N-3 ; !"école"
+ngǒn:ngǒn N-1 ; !"fille"
+ngǒnngòn:ngǒnngòn N-6 ; !"filles"
+Njaman:Njaman N-X ; !"Allemand"
+nândɑ:nândɑ N-1 ; !"mariage"
+ghò:ghò N-X ; ! "doute"
+Mfətòm:Mfətòm N-X ; !"Mfetun"
+mbɑhɑ:mbɑhɑ N-X ; !"paire"
+càŋ:càŋ N-X ; !"nourriture"
+caʼ:caʼ N-5 ; !"terre"
+bôn:bôn N-6 ; !"enfants"
+bə̌nnzwi:bə̌nnzwi N-6 ; !"femmes"
+bə̌nntʉ̀n:bə̌nntʉ̀n N-6 ; !"personnes"
+ywìlə:ywìlə V-Ə ; !"semer"
+ywìlə:ywìd V-Ə ; !"semer"
+yîd:yîd PRON-REL ; !"quel"
+wə̀:wə̀ PRON-PERS ; !"toi"
+tə:tə V-ALL ; !"poser"
+tə̂:tə̂ V-ALL ; !"poser"
+swɛ̀nə:swɛ̀nə V-Ə ; !"vendre"
+swɛn:swɛn V-Ə ; !"vendre"
+swɛ̌n:swɛ̌n V-Ə ; !"vendre"
+swɛ̂n:swɛ̂n V-Ə ; !"vendre"
+nyìkəkɑn:nyìkəkɑn N-X ; !"enfant"
+nkʉ̀n:nkʉ̀n N-5 ; !"annonce"
+la:la N-5 ; ! "ananas"
+la:la N-5 ; ! "huile de toilet"
+lâ:lâ N-5 ; ! "huile de toilet"
+lǎ:lǎ V-ALL ; ! "nager"
+
+ntα:ntα V-ALL ; !"compter"
+ntɑ:ntɑ V-ALL ; !"compter"
+njɑ̂:njɑ̂ ADJ ; !"déjà"
+bǎ:bǎ ADJ ; !"rouge / mûr"
+bɑ̌:bɑ̌ PRON-PERS ; !"les"
+ndôʼ:ndôʼ V-ALL ; !"prendre"
+sə̂:sə̂ N-1 ; !"face"
+lǎ:lǎ N-5 ; !"ananas"
+ncò:ncò N-5 ; !"guèrre"
+cɛ̀n:cɛ̀n N-5 ; !"vinègre"
+bîn:bîn PRON-PERS ; !"toi_et_eux"
+tsə̀moʼo:tsə̀moʼo PRON-IND ; !"certains"
+mbə̀ʼyɑ̂m:mbə̀ʼyɑ̂m PRON-IND ; !"plupart / most"
+moʼo:moʼo PRON-IND ; !"l'autre"
+mìmoʼo:mìmoʼo PRON-IND ; !"autres"
+tsə̀moʼo:tsə̀moʼ PRON-IND ; !"certains"
+tɛ̀d:tɛ̀d PREP ; !"entre"
+ghəbtə:ghəbtə PREP ; ! "proche"
+Mə̀dʉ̂mbὰ:Mə̀dʉ̂mbὰ N-X ; !"Medumba"
+njim:njim N-X ; !"confiance"
+njîm:njîm N-X ; !"confiance"
+ngə̀lâŋ:ngə̀lâŋ N-1 ; !"temps"
+ndɔtə:ndɔtə V-TƏ ; !"regarder"
+ncôb:ncôb N-4 ; !"parole"
+ncàŋ:ncàŋ N-4 ; !"importance"
+mî%<prn%>%<pos%>%<cl4%>:mî # ; !"sien"
+mi%<prn%>%<pos%>%<cl4%>:mi # ; !"sien"
+̀i%<prn%>%<pos%>%<cl1%>:ì # ; !"sien"
+i%<prn%>%<pos%>%<cl3%>:i # ; !"sien"
+kulə:kulə V-Ə ; !"construire"
+kud:kud V-Ə ; !"construire"
+Jʉ̀:Jʉ̀ N-X ; !"Bazou"
+Làŋ:Làŋ N-X ; !"Balengou"
+Shʉ̀:Shʉ̀ N-X ; !"Bachingou"
+Ŋwà:Ŋwà N-X ; !"Bangoua"
+ngulabə:ngulabə N-X ; !"Bangoulap"
+bùʼ:bùʼ N-X ; !"Babou"
+gha:gha N-X ; !"Bangangté"
+ngǎntəʼ:ngǎntəʼ N-X ; !"Bangangté"
+ngǎntəʼ:ngǎntə̀ʼ N-X ; !"Bangangté"
+mα̂nαmə:mα̂nαmə N-X ; !"Bamena"
+duala:duala NP-TOP ; ! "Douala"
+ntumu:ntumu NP-TOP ;
+nufi:nufi NP-TOP ; ! "Nufi"
+yambɑsà:yambɑsà NP-TOP ; ! "Yambassa"
+Tûfamə:Tûfamə NP-TOP ; ! "Batoufam"
+Tika:Tika NP-TOP ; ! "Tikar"
+yɛmbaʼ:yɛmbaʼ NP-TOP ; ! "yemba"
+yàbɑsi:yàbɑsi NP-TOP ; ! "yabassi"
+Baka:Baka NP-TOP ; ! "Baka"
+tuburi:tuburi NP-TOP ; ! "toupouri"
+Fə̂ʼsὰb:Fə̂ʼsὰb N-X ; !"Bafoussam"
+bʉ:bʉ V-ALL ; !"saluer"
+bʉ̂:bʉ̂ V-ALL ; !"promettre"
+tǔn:tǔn N-X ; !"origine"
+tswə̂:tswə̂ V-Ə ; !"rester"
+nǔ:nǔ N-1 ; !"affaire"
+ntsiâŋ:ntsiâŋ V-ALL ; !"appeller"
+nkəʼ:nkəʼ ADJ ; !"petit"
+!ŋambαhα:ŋambαhα NUM ; !"vingt"
+ŋambɑhɑ:ŋambɑhɑ NUM ; !"vingt"
+gham:gham NUM ; !"dix"
+ndʉ̂gə%<qst%>:ndʉ̂gə # ; !"comment"
+ndàʼ:ndàʼ ADJ ; !"seul"
+ndʉ̌:ndʉ̌ ADJ ; !"période"
+kʉd:kʉd V-ALL ; !"preter_attention"
+mɛ̌n:mɛ̌n N-X ; !"personne"
+mbɛdtə̂:mbɛdtə̂ V-TƏ ; !"demander"
+mbàŋ:mbàŋ N-5 ; !"pluie"
+mα̂:mα̂ N-3 ; !"mère"
+kwàtə̀:kwàtə̀ V-TƏ ; !"penser"
+kʉd:kʉd N-X ; !"proverbe"
+bə̌n:bə̌n PRN-DEM ; !"ceux"
+bǎm:bǎm N-5 ; !"ventre"
+zənnî:zənnî PREP ; !"içi"
+
+
+cʉ̀ʼ:cʉ%{ˋ%}ʼ ADJ ; ! "tight"
+bə̌n:bə%{ˇ%}n PRON-REL ; ! "ceux"
+yənnɑ:yənnɑ DET-DEM ; ! "cela"
+wə:wə PRON-REL ; ! "qui"
+wǎ:wa%{ˇ%} N-5 ; ! "rayon"
+sǎmju:sɑ̌mju PRON-REL ; ! "rien"
+ntsə̂:ntsə̂ N-X ; ! "beau-fils"
+nsà:nsà N-X ; ! "stars"
+kùʼnǐ:kùʼnǐ N-X ; ! "honeur"
+ghǒn:ghǒn N-1 ; ! "être malade"
+zîd:zîd PRON-REL ; ! "quel ?"
+yǒg:yǒg N-5; ! "vie de ..."
+yogə:njog V-Ə; ! " YOGƏ"
+Ŋwàʼnì:Ŋwàʼnì N-1; ! " ECOLE "
+ngàtswìtə̀:ngàtswìtə̀ N-1 ; ! "enseignant"
+nɑ̀:nɑ̀ N-3; ! "CHAMP"
+mbâtə:mbâtə V-TƏ; ! "CHANGER "
+bùbu:bùbu N-5 ; ! "papaye"
+bùʼ:bùʼ N-X; ! "amoire"
+Bɔdɔmɔ:Bɔdɔmɔ NP-TOP ; ! "nom de ville"
+bin:bǐn N-3 ; ! "profit"
+bia:bia N-5 ; ! "avocat"
+bî:bî N-5 ; ! "couteau de / perte de"
+Bɛtayɛ:Bɛtayɛ NP-TOP ; ! " "
+Batiɛ:Batiɛ NP-TOP ; ! " "
+Bassa:Bassa NP-TOP ; ! " "
+Bantuɛ:Bantuɛ NP-TOP ; ! " "
+Bansoa:Bansoa NP-TOP ; ! " "
+Bankon:Bankon NP-TOP ; ! " "
+Banɛn:Banɛn NP-TOP ; ! " "
+Bandɛnkop:Bandɛnkop NP-TOP ; ! " "
+Bamun:Bamun NP-TOP ; ! " "
+Bàmilɛkɛ:Bàmilɛkɛ NP-TOP ; ! " "
+Bamesso:Bamesso NP-TOP ; ! " "
+bamə:bâm V-Ə; ! "ACCEPTER"
+bamə:bamə V-Ə ; ! "ACCEPTER"
+Bakweri:Bakweri NP-TOP ; ! " "
+Bahuan:Bahuan NP-TOP ; ! " "
+bǎgngɔ̌:bǎgngɔ̌ N-1; ! " "
+Bafia:Bafia NP-TOP ; ! " "
+Amɛyika:Amɛyika NP-TOP; ! " "
+Gbaya:Gbaya NP-TOP ; ! " "
+Garua:Garua NP-TOP ; ! " "
+fufuldɛ:fufuldɛ NP-TOP ; ! " "
+fǒn:fǒn V-ALL; ! " "
+Fɛʼfɛʼ:Fɛʼfɛʼ NP-TOP ; ! " "
+Toupouyi:Toupouyi NP-TOP ; ! " "
+Tûfam:Tûfam NP-TOP ; ! " "
+Yɛmba:Yɛmba NP-ANT-M ; ! " "
+Yambasa:Yambasa NP-TOP ; ! " "
+Yabasi:Yabasi NP-TOP ; ! " "
+Nufi:Nufi NP-TOP ; ! " "
+Pasa:Pasa NP-TOP ; ! " "
+Tika:Tika NP-TOP ; ! " "
+Tibati:Tibati NP-TOP ; ! " "
+Nigɛya:Nigɛya NP-TOP ; ! " "
+Ngumba:Ngumba NP-TOP ; ! " "
+sǔ:sǔ V-ALL; ! " "
+Sɑ̂mmɛ̀n:Sɑ̂mmɛ̀n PRON-REL; ! " "
+nkud:nkud N-3; ! " "
+njə̂m:njə̂m N-1; ! " "
+ŋwàʼnǐ:ŋwàʼnǐ N-3; ! " "
+ngǔʼ:ngǔʼ N-6; ! " "
+sǔ:sǔ V-ALL; ! " "
+Sɑ̂mmɛ̀n:Sɑ̂mmɛ̀n PRON-REL; ! " "
+nkud:nkud N-3; ! " "
+njə̂m:njə̂m N-1; ! " "
+ŋwàʼnǐ:ŋwàʼnǐ N-3; ! " "
+ngǔʼ:ngǔʼ N-6; ! " "
+Ngaman:Ngaman NP-TOP ; ! " "
+ndà:ndà N-3 ; ! "punition"
 
 
 LEXICON Interjections
@@ -2236,6 +2607,8 @@ lɑ:lɑ INTERJ ;
 lɑ:lɑ%{ˆ%} INTERJ ;
 ŋ̂:ŋ%{ˆ%} INTERJ ; ! "oui"
 nga:nga INTERJ ; ! "non"
+ncʉâ:ncʉâ V-ALL ; ! "passer (exam)"
+cʉǎ:cʉǎ V-ALL ; ! "passer (exam)"
 
 LEXICON Punctuation
 

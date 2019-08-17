@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87e7b07e-cd92-4625-8553-7707e08fa223" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/apertium-byv.byv.lexc" beforeDir="false" afterPath="$PROJECT_DIR$/apertium-byv.byv.lexc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/byv.hitparade.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dev/byv.hitparade.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/history.log" beforeDir="false" afterPath="$PROJECT_DIR$/dev/history.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/spellrelax.twol" beforeDir="false" afterPath="$PROJECT_DIR$/dev/spellrelax.twol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/compte.byv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/compte.byv.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/corpus-byv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/corpus-byv.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/frequency.sh" beforeDir="false" afterPath="$PROJECT_DIR$/texts/frequency.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/hitparade.sh" beforeDir="false" afterPath="$PROJECT_DIR$/texts/hitparade.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Dʉ̌ʼŋwànì.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Dʉ̌ʼŋwànì.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Jʉɑ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Jʉɑ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Kamərun.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Kamərun.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/MANIFEST.md" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/MANIFEST.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Mɛn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Mɛn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Ngǎntəʼ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Ngǎntəʼ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Ngɔ̀.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Ngɔ̀.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Ntɑnə.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Ntɑnə.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Ntʉ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Ntʉ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Tǔnndɑ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Tǔnndɑ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/wikipedia/Ŋwʉ_ncòbbɑhɑ_gham.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texts/wikipedia/Ŋwʉ_ncòbbɑhɑ_gham.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="apertium-byv" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apertium-byv.byv.lexc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="2378" column="10" selection-start-line="2378" selection-start-column="10" selection-end-line="2378" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/tmp/hit.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tùʼ</find>
+      <find>Shʉ̌</find>
+      <find>V-Ə</find>
+      <find>ntsiʼi</find>
+      <find>njwìd</find>
+      <find>nsɔ̂</find>
+      <find>sɔ̌</find>
+      <find>v-ə</find>
+      <find>wə̀</find>
+      <find>ndɛn</find>
+      <find>nzěmsa</find>
+      <find>nzîm</find>
+      <find>nsem</find>
+      <find>shʉ̌</find>
+      <find>nufi</find>
+      <find>dual</find>
+      <find>ntumu</find>
+      <find>duala</find>
+      <find>nzə̌</find>
+      <find>nzə̀:</find>
+      <find>nyʉ̂m</find>
+      <find>nô</find>
+      <find>nɑ</find>
+      <find>nsêm</find>
+      <find>njwimtə</find>
+      <find>v-tə</find>
+      <find>ntôn</find>
+      <find>kamerun:</find>
+      <find>por</find>
+      <find>ŋwànì</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mbə̀ʼyɑ̂m</replace>
+      <replace>ǒ</replace>
+      <replace>Mayia</replace>
+      <replace>Marie</replace>
+      <replace>kwêntsə</replace>
+      <replace>mfə̀n</replace>
+      <replace>Fə̂ʼsὰb</replace>
+      <replace>zə̌nnî</replace>
+      <replace>zə̌nni</replace>
+      <replace>yambɑsà</replace>
+      <replace>Ngǎtəʼ</replace>
+      <replace>Ngǎntəʼ</replace>
+      <replace>yɛmbaʼ</replace>
+      <replace>yàbɑsi</replace>
+      <replace>tsʉ̀ʼ</replace>
+      <replace>tʉsɔ̌</replace>
+      <replace>tuburi</replace>
+      <replace>Tika</replace>
+      <replace>Tûfamə</replace>
+      <replace>ɔ̂</replace>
+      <replace>nzə̌nnî</replace>
+      <replace>nshùm</replace>
+      <replace>tʉ̀ʼ</replace>
+      <replace>wʉ̀</replace>
+      <replace>nsêm</replace>
+      <replace>nufi</replace>
+      <replace>ntʉ̂m</replace>
+      <replace>nsěm</replace>
+      <replace>njwîmtə</replace>
+      <replace>ŋwàʼnì</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/texts/wikipedia</dir>
+      <dir>$PROJECT_DIR$/tests</dir>
+      <dir>$PROJECT_DIR$/texts</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/texts/coverage.sh" />
+        <option value="$PROJECT_DIR$/texts/wikipedia/coverage.sh" />
+        <option value="$PROJECT_DIR$/texts/frequency.sh" />
+        <option value="$PROJECT_DIR$/texts/wikipedia/hitparade.sh" />
+        <option value="$PROJECT_DIR$/texts/hitparade.sh" />
+        <option value="$PROJECT_DIR$/texts/wikipedia/Ngǎntəʼ.txt" />
+        <option value="$PROJECT_DIR$/texts/corpus-byv.txt" />
+        <option value="$PROJECT_DIR$/texts/hit.txt" />
+        <option value="$PROJECT_DIR$/texts/byv_bible.txt" />
+        <option value="$PROJECT_DIR$/dev/spellrelax.twol" />
+        <option value="$PROJECT_DIR$/texts/wikipedia/Jʉɑ.txt" />
+        <option value="$PROJECT_DIR$/dev/tmp/tmp" />
+        <option value="$PROJECT_DIR$/tests/byv_bible.txt" />
+        <option value="$PROJECT_DIR$/dev/tmp/hit.txt" />
+        <option value="$PROJECT_DIR$/apertium-byv.byv.lexc" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="113" />
+    <option name="y" value="30" />
+    <option name="width" value="987" />
+    <option name="height" value="500" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apertium-byv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apertium-byv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workspace/web/contribution" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/texts/wikipedia" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/texts" />
+      <recent name="$PROJECT_DIR$/dev/tmp" />
+      <recent name="$PROJECT_DIR$/autom4te.cache" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e7b07e-cd92-4625-8553-7707e08fa223" name="Default Changelist" comment="" />
+      <created>1563654480283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563654480283</updated>
+      <workItem from="1563654481731" duration="578000" />
+      <workItem from="1563655134388" duration="780000" />
+      <workItem from="1563655934001" duration="619000" />
+      <workItem from="1563704371668" duration="6725000" />
+      <workItem from="1563782006080" duration="13634000" />
+      <workItem from="1563899934439" duration="111000" />
+      <workItem from="1563968407215" duration="7095000" />
+      <workItem from="1563998370077" duration="8899000" />
+      <workItem from="1564941834495" duration="207000" />
+      <workItem from="1564942063223" duration="10532000" />
+      <workItem from="1565110923878" duration="520000" />
+      <workItem from="1565172278645" duration="1843000" />
+      <workItem from="1565180547801" duration="8914000" />
+      <workItem from="1565449409561" duration="1054000" />
+      <workItem from="1565528026165" duration="9512000" />
+      <workItem from="1565609922582" duration="6441000" />
+      <workItem from="1565645671928" duration="15219000" />
+      <workItem from="1565704847160" duration="1195000" />
+      <workItem from="1565782732242" duration="598000" />
+      <workItem from="1565794171020" duration="473000" />
+      <workItem from="1565869000081" duration="4290000" />
+      <workItem from="1565899671231" duration="14286000" />
+      <workItem from="1566046520152" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="114124000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1366" height="667" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49813432" visible="true" weight="0.14519732" />
+      <window_info id="Structure" order="1" sideWeight="0.5018657" side_tool="true" weight="0.16350123" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018657" side_tool="true" weight="0.16350123" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32713756" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.42007434" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25836432" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49813432" visible="true" weight="0.2651515" />
+      <window_info id="Structure" order="1" sideWeight="0.5018657" side_tool="true" weight="0.16350123" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018657" side_tool="true" weight="0.16350123" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32713756" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.7817164" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30111524" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/noms.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/Ŋwʉ_ncòbbɑhɑ_gham.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-826" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/byv_bible.csv" />
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/frequency.sh" />
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/hitparade.sh" />
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/coverage.sh" />
+    <entry file="file://$PROJECT_DIR$/speller/editdist.default.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speller/index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modes/byv-disam.mode">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/tmp/conj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/tmp/nouns">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3075" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autogen.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/compte.byv.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/simple-coverage.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/hit.sh" />
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/hit.txt" />
+    <entry file="file://$PROJECT_DIR$/texts/freq.txt" />
+    <entry file="file://$PROJECT_DIR$/dev/byv.hitparade.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/coverage.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/frequency.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/MANIFEST.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/MANIFEST.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/hitparade.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="839" column="10" selection-start-line="839" selection-start-column="10" selection-end-line="839" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/Ngǎntəʼ.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/Dʉ̌ʼŋwànì.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/Jʉɑ.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/Kamərun.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1009" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/compte.byv.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/wikipedia/Mɛn.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="29" column="148" selection-start-line="29" selection-start-column="148" selection-end-line="29" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/tmp/tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/spellrelax.twol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/byv_bible.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="64" column="148" selection-start-line="64" selection-start-column="145" selection-end-line="64" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts/corpus-byv.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="617" column="9" selection-start-line="617" selection-start-column="9" selection-end-line="617" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apertium-byv.byv.lexc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="2378" column="10" selection-start-line="2378" selection-start-column="10" selection-end-line="2378" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/tmp/hit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
