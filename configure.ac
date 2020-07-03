@@ -17,6 +17,9 @@ AS_IF([test x$hfstospell = xyes], [
       AC_PATH_PROG([ZIP], [zip], [false], [$PATH$PATH_SEPARATOR$with_zip/bin])
       AS_IF([test x$ZIP = xfalse], [AC_MSG_ERROR([You don't have zip installed])])
       PKG_CHECK_MODULES([HFSTOSPELL], [hfstospell >= 0.2])
+      AC_MSG_CHECKING(for giella-core data)
+      PKG_CHECK_VAR([GIELLA_CORE_DIR], [giella-core], [dir],
+      [AC_MSG_RESULT($GIELLA_CORE_DIR)], [AC_MSG_ERROR(["You don't have giella-core installed."])])
           AC_DEFINE(HAVE_HFSTOSPELL, 1)
           CXXFLAGS="$CXXFLAGS $HFSTOSPELL_CFLAGS"
         ])
