@@ -14,6 +14,8 @@ AC_ARG_ENABLE(ospell, AC_HELP_STRING([--enable-ospell],
 dnl must be AS_IF for some aclocals to pick PKG_CHECK_MODULES somehow.
 dnl AC_PROVIDE_IFELSE doesn't work on mac?
 AS_IF([test x$hfstospell = xyes], [
+      AC_PATH_PROG([ZIP], [zip], [false], [$PATH$PATH_SEPARATOR$with_zip/bin])
+      AS_IF([test x$ZIP = xfalse], [AC_MSG_ERROR([You don't have zip installed])])
       PKG_CHECK_MODULES([HFSTOSPELL], [hfstospell >= 0.2])
           AC_DEFINE(HAVE_HFSTOSPELL, 1)
           CXXFLAGS="$CXXFLAGS $HFSTOSPELL_CFLAGS"
