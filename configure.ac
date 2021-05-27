@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Medumba], [0.1.0], [yopasylvestre@gmail.com], [apertium-byv], [http://wiki.apertium.org/wiki/Apertium-byv])
+AC_INIT([Apertium Medumba], [0.1.0], [yopasylvestre@gmail.com], [apertium-byv], [https://wiki.apertium.org/wiki/Apertium-byv])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
