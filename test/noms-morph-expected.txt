@@ -1,0 +1,32 @@
+[-2mgtswTAf5j#0] ^nka/nka<n><cl3><sg>/ka<n><cl4><pl>/kǎ<v><consec>/nka<n><cl3><sg><pos>/ka<n><cl4><pl><pos>$
+[/-2mgtswTAf5j]
+[0-6C9hbY9i0d#0] ^nkâ/*nkâ$
+[/0-6C9hbY9i0d]
+[6Sqv8n9WWtOC#0] ^cɔ̌/Cɔ̌<n><cl5><sg>/Cɔ̌<n><cl5><pl>/cɔ̌<n><cl5><sg>/cɔ̌<n><cl5><pl>/Cɔ̌<n><cl5><sg><pos>/Cɔ̌<n><cl5><pl><pos>/cɔ̌<n><cl5><sg><pos>/cɔ̌<n><cl5><pl><pos>$
+[/6Sqv8n9WWtOC]
+[7_W5XwpZxthl#0] ^mɛ̂n/mɛn<n><cl1><sg>/mɛn<n><cl6><pl>/mɛn<n><cl1><sg><pos>/mɛn<n><cl6><pl><pos>$
+[/7_W5XwpZxthl]
+[ALA2wkjjSKQi#0] ^bə̀lòŋ/bə̀lòŋ<n><cl5><sg>/bə̀lòŋ<n><cl5><pl>/bə̀lòŋ<n><cl5><sg><pos>/bə̀lòŋ<n><cl5><pl><pos>$
+[/ALA2wkjjSKQi]
+[E2JxTNRMiAo5#0] ^bôn/bôn<n><cl6><pl>/bôn<n><cl6><pl><pos>$
+[/E2JxTNRMiAo5]
+[Jz2Ua4QNJEgl#0] ^bə̀lǒŋ/*bə̀lǒŋ$
+[/Jz2Ua4QNJEgl]
+[ONd623JrQ_Hj#0] ^kù/kù<n><cl1><sg>/kù<n><cl3><sg>/kù<n><cl1><sg><pos>/kù<n><cl3><sg><pos>$
+[/ONd623JrQ_Hj]
+[PrscmbErd0Y-#0] ^ka/ka<n><cl1><sg>/kà<n><cl5><ND>/kâ<n><cl1><sg>/ka<n><cl1><sg><pos>/kǎ<n><cl5><ND>/kà<n><cl5><ND><pos>/kâ<n><cl1><sg><pos>/kǎ<n><cl5><ND><pos>/kǎ<v>\<past6\>$
+[/PrscmbErd0Y-]
+[RY19BFxhNtqs#0] ^nkǔ/*nkǔ$
+[/RY19BFxhNtqs]
+[b2DW_7X7xPwV#0] ^cɔ̀/Cɔ̀<n><cl5><sg>/Cɔ̀<n><cl5><pl>/cɔ̀<n><cl5><ND>/cɔ̀<n><cl5><sg>/cɔ̀<n><cl5><pl>/Cɔ̀<n><cl5><sg><pos>/Cɔ̀<n><cl5><pl><pos>/cɔ̀<n><cl5><ND><pos>/cɔ̀<n><cl5><sg><pos>/cɔ̀<n><cl5><pl><pos>$
+[/b2DW_7X7xPwV]
+[crkKDSWm6Pcd#0] ^bon/bon<n><cl6><pl>/mɛn<n><cl6><pl>/bôn<n><cl6><pl>/bon<n><cl6><pl><pos>/mɛn<n><cl6><pl><pos>/bôn<n><cl6><pl><pos>$
+[/crkKDSWm6Pcd]
+[fz3zcFBlrCBh#0] ^kâ/kâ<n><cl1><sg>/kâ<n><cl1><sg><pos>$
+[/fz3zcFBlrCBh]
+[hrTbLHVBgjU0#0] ^nkù/kù<n><cl4><pl>/kù<n><cl4><pl><pos>$
+[/hrTbLHVBgjU0]
+[tWVZ557tV5Iq#0] ^mɛn/mɛn<n><cl1><sg>/mɛ̀n<n><cl1><sg>/mɛ̌n<n><GD><ND>/mɛn<n><cl1><sg>/mɛn<n><cl6><pl>/mɛn<n><cl1><sg><pos>/mɛ̀n<n><cl1><sg><pos>/mɛ̌n<n><GD><ND><pos>/mɛn<n><cl1><sg><pos>/mɛn<n><cl6><pl><pos>$
+[/tWVZ557tV5Iq]
+[vsL8UwFIgIC1#0] ^kǔ/*kǔ$
+[/vsL8UwFIgIC1]

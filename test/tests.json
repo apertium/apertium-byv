@@ -1,0 +1,14 @@
+{
+    "noms": {
+        "input": "noms-input.txt",
+        "mode": "byv-morph"
+    },
+    "noms-gen": {
+        "input": "noms-gen-input.txt",
+        "mode": "byv-gener"
+    },
+    "Bible": {
+        "input": "byv_bible.txt",
+        "mode": "byv-tagger"
+    }
+}

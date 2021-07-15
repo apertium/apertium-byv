@@ -1,0 +1,21 @@
+# [twol] tones
+^bə̀lòŋ<n><cl5><sg><pos>$
+^bə̀lòŋ<n><cl5><pl><pos>$
+^bə̀lòŋ<n><cl5><sg>$
+^bə̀lòŋ<n><cl5><pl>$
+^cɔ̀<n><cl5><sg><pos>$
+^cɔ̀<n><cl5><pl><pos>$
+^cɔ̀<n><cl5><sg>$
+^cɔ̀<n><cl5><pl>$
+^ka<n><cl1><sg>$
+^ka<n><cl1><sg><pos>$
+^kù<n><cl3><sg><pos>$
+^kù<n><cl3><sg>$
+^ka<n><cl4><pl>$
+^ka<n><cl4><pl><pos>$
+^kù<n><cl4><pl><pos>$
+^kù<n><cl4><pl>$
+^mɛn<n><cl3><sg>$
+^mɛn<n><cl3><sg><pos>$
+^mɛn<n><cl6><pl>$
+^mɛn<n><cl6><pl><pos>$
